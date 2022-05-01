@@ -125,7 +125,7 @@ const Gallery = () => {
                                     Filters
                                     <Link to="/gallery">
                                         <IconButton className="float-r">
-                                            <AutorenewIcon />
+                                            <AutorenewIcon color="primary" />
                                         </IconButton>
                                     </Link>
                                 </h3>    
@@ -150,31 +150,39 @@ const Gallery = () => {
                                         resetPage()
                                     }}
                                     style={{ margin: "20px 0 50px 0" }}
-                                />                            
+                                />  
 
-                                <h6>{process.env.REACT_APP_CATEGORY_ONE}</h6>
+                                {categoryOnes && categoryOnes.length > 0 && (   
+                                    
+                                    <Fragment>
 
-                                <ul>   
-                                    {categoryOnes && categoryOnes.map(_categoryOne => (
-                                        <li                                           
-                                            key={_categoryOne.name}                             
-                                            className={categoryOneQuery === _categoryOne.slug ? 'link-active' : ''}
-                                        >                                                                          
-                                            <Link 
-                                                to={`/gallery/${categoryOnePath}/${_categoryOne.slug}`}
-                                                className="whitespace-nowrap"
-                                            >
-                                                <Checkbox 
-                                                    checked={categoryOneQuery === _categoryOne.slug ? true : false} 
-                                                    size="small"
-                                                    sx={{ py: 0.3 }}
-                                                    color="primary"
-                                                />                                      
-                                                {_categoryOne.name}
-                                            </Link>
-                                        </li>
-                                    ))}
-                                </ul>
+                                        <h6>{process.env.REACT_APP_CATEGORY_ONE}</h6>
+
+                                        <ul>   
+                                            {categoryOnes.map(_categoryOne => (
+                                                <li                                           
+                                                    key={_categoryOne.name}                             
+                                                    className={categoryOneQuery === _categoryOne.slug ? 'link-active' : ''}
+                                                >                                                                          
+                                                    <Link 
+                                                        to={`/gallery/${categoryOnePath}/${_categoryOne.slug}`}
+                                                        className="whitespace-nowrap"
+                                                    >
+                                                        <Checkbox 
+                                                            checked={categoryOneQuery === _categoryOne.slug ? true : false} 
+                                                            size="small"
+                                                            sx={{ py: 0.3 }}
+                                                            color="primary"
+                                                        />                                      
+                                                        {_categoryOne.name}
+                                                    </Link>
+                                                </li>
+                                            ))}
+                                        </ul>
+
+                                    </Fragment>
+
+                                )}
 
                                 {categoryTwos && categoryTwos.length > 0 && (
 
@@ -232,23 +240,31 @@ const Gallery = () => {
 
                                     </Fragment>
 
-                                )}                                                          
+                                )}
+                                
+                                {categoryOnes && categoryOnes.length > 0 && (
 
-                                <h6>Ratings</h6>
+                                    <Fragment>
 
-                                <ul>
-                                    {[5, 4, 3, 2, 1].map(star => (
-                                        <li key={star}>
-                                            <Link to={`/gallery/rating/${star}`}>
-                                                <Rating 
-                                                    value={star} 
-                                                    sx={{ color: "var(--primary-color)" }} 
-                                                    readOnly
-                                                />                                            
-                                            </Link>
-                                        </li>
-                                    ))}
-                                </ul>
+                                        <h6>Ratings</h6>
+
+                                        <ul>
+                                            {[5, 4, 3, 2, 1].map(star => (
+                                                <li key={star}>
+                                                    <Link to={`/gallery/rating/${star}`}>
+                                                        <Rating 
+                                                            value={star} 
+                                                            sx={{ color: "var(--primary-color)" }} 
+                                                            readOnly
+                                                        />                                            
+                                                    </Link>
+                                                </li>
+                                            ))}
+                                        </ul>
+
+                                    </Fragment>
+
+                                )}
 
                                 <button 
                                     className="filters"
