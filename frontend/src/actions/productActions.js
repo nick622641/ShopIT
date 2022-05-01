@@ -61,10 +61,13 @@ export const getProducts = ( keyword = '', currentPage = 1, price, categoryOneSl
         } 
         if( categoryThreeSlug ) {    
             link = `/api/v1/products?page=${currentPage}&categoryThreeSlug=${categoryThreeSlug}&price[lte]=${price[1]}&price[gte]=${price[0]}`
-        }
+        }        
+        // if( rating ) {    
+        //     link = `/api/v1/products?page=${currentPage}&ratings[gte]=${rating}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        // } 
         if( rating ) {    
-            link = `/api/v1/products?page=${currentPage}&ratings[gte]=${rating}&price[lte]=${price[1]}&price[gte]=${price[0]}`
-        }  
+            link = `/api/v1/products?page=${currentPage}&ratings=${rating}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        }
 
         const { data } = await axios.get(link)
 

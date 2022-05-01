@@ -82,7 +82,7 @@ const ProductDetails = () => {
 
         dispatch(getProductDetails(slug))
 
-        dispatch(getProducts( '', 1, [1, 100000], product.categoryOneSlug, '', '', ''))
+        dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOneSlug, '', '', ''))
         
         if(error) {            
             alert.error(error)  
@@ -317,7 +317,7 @@ const ProductDetails = () => {
                                 <div style={{ marginTop: "40px" }}>        
                                     <small>Contact Us</small>  
                                     <IconButton onClick={() => {toggleModal(<Contact />)}} color="primary">
-                                        <EmailIcon />                                        
+                                        <EmailIcon color="primary" />                                        
                                     </IconButton>   
                                 </div>     
                             </div>                                

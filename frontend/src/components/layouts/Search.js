@@ -27,7 +27,7 @@ const Search = ({ isSearchVisible }) => {
         >            
 
             <input 
-                placeholder="Search Site" 
+                placeholder="Search..." 
                 value={keyword}
                 onChange={e =>setKeyword(e.target.value)} 
             /> 

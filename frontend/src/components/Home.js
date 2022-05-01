@@ -9,14 +9,14 @@ import LastPageIcon from '@mui/icons-material/LastPage'
 import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft'
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight'
 import Loader from './layouts/Loader'
+import { FormControl, InputLabel, MenuItem, Select } from '@mui/material'
 
 const Home = () => {  
     
     const dispatch = useDispatch()
 
-    const [ currentPage, setCurrentPage ] = useState(1)
-    const [ price                       ] = useState([1, 10000])   
-    const [ keyword                     ] = useState('')   
+    const [ currentPage, setCurrentPage ] = useState(1) 
+    const [ filter,      setFilter      ] = useState('') 
 
     const { loading, products, resPerPage, error, productsCount } = useSelector( state => state.products )
 
@@ -24,8 +24,8 @@ const Home = () => {
         if(error) {
             return alert.error(error)        
         } 
-        dispatch(getProducts(keyword, currentPage, price)) 
-    }, [dispatch, currentPage, keyword, price, error])
+        dispatch(getProducts('', currentPage, [1, process.env.REACT_APP_MAX_PRICE])) 
+    }, [dispatch, currentPage, error])
 
     function setCurrentPageNo(pageNumber) {
         setCurrentPage(pageNumber)
@@ -45,6 +45,24 @@ const Home = () => {
                         <Fragment>
 
                             <h1>Latest Products</h1>
+
+                            <FormControl variant="standard"  fullWidth sx={{ mb: 1 }}>
+                                <InputLabel>Filter</InputLabel>
+                                <Select 
+                                    value={filter}
+                                    onChange={(e) => setFilter(e.target.value)}   
+                                >                                                                   
+                                    <MenuItem value="popular">  
+                                        Most Popular
+                                    </MenuItem>  
+                                    <MenuItem value="highToLow">  
+                                        Price High to Low
+                                    </MenuItem>
+                                    <MenuItem value="lowToHigh">  
+                                        Price Low to High
+                                    </MenuItem>
+                                </Select>
+                            </FormControl>
 
                             <div className="showroom">
                                 {products && products.length > 0                             

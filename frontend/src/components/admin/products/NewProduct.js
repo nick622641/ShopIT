@@ -329,7 +329,6 @@ const NewProduct = () => {
                                         <FormControl variant="standard" fullWidth sx={{ mb: 1 }}>
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_ONE}</InputLabel>
                                             <Select 
-                                                label={process.env.REACT_APP_CATEGORY_ONE}
                                                 value={categoryOne}
                                                 onChange={(e) => {
                                                     setCategoryOne(e.target.value)
@@ -352,7 +351,6 @@ const NewProduct = () => {
                                         <FormControl variant="standard" fullWidth sx={{ mb: 1 }}>
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_TWO}</InputLabel>
                                             <Select 
-                                                label={process.env.REACT_APP_CATEGORY_TWO}
                                                 value={categoryTwo}
                                                 onChange={(e) => {
                                                     setCategoryTwo(e.target.value)
@@ -372,7 +370,6 @@ const NewProduct = () => {
                                         <FormControl variant="standard" fullWidth>
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_THREE}</InputLabel>
                                             <Select 
-                                                label={process.env.REACT_APP_CATEGORY_THREE}
                                                 value={categoryThree}
                                                 onChange={(e) => {
                                                     setCategoryThree(e.target.value)

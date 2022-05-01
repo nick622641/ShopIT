@@ -189,7 +189,6 @@ const ProcessOrder = () => {
                                                      <FormControl variant="standard" fullWidth sx={{ mb: 1 }}>
                                                         <InputLabel>Status</InputLabel>
                                                         <Select 
-                                                            label="Status"
                                                             value={status ? status : order.orderStatus}
                                                             onChange={(e) => setStatus(e.target.value)}                                          
                                                         >                                                                             

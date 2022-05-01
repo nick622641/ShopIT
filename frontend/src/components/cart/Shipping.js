@@ -86,10 +86,8 @@ const Shipping = () => {
                         <FormControl variant="standard" fullWidth required>
                             <InputLabel>Country</InputLabel>
                             <Select 
-                                label="Country"
                                 value={country}
                                 onChange={(e) => setCountry(e.target.value)} 
-                                sx={{ mb: 4 }}
                             >
                                 {countriesList.map(c => (                                
                                     <MenuItem key={c.name} value={c.name}>         
@@ -108,7 +106,7 @@ const Shipping = () => {
                             variant="contained" 
                             type="submit" 
                             endIcon={<SendIcon />}
-                            sx={{ width: '100%' }}
+                            sx={{ width: '100%', mt: 4 }}
                             disabled={!address || !city || !phoneNo || !postalCode || !country ? true : false}
                         >
                             Continue

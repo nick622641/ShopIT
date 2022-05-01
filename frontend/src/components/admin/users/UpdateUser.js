@@ -104,7 +104,6 @@ const UpdateUser = () => {
                                 <FormControl variant="standard" fullWidth sx={{ mb: 1 }}>
                                     <InputLabel>Role</InputLabel>
                                     <Select 
-                                        label="Role"
                                         value={role}
                                         onChange={(e) => setRole(e.target.value)}                                        
                                     >                                                                             

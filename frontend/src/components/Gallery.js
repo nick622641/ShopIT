@@ -20,6 +20,7 @@ import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft'
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight'
 import Rating from '@mui/material/Rating'
 import 'rc-slider/assets/index.css'
+import FormattedPrice from './layouts/FormattedPrice'
 
 const { createSliderWithTooltip } = Slider
 const Range = createSliderWithTooltip(Slider.Range)
@@ -43,7 +44,7 @@ const Gallery = () => {
     const categoryThree      = categoryThreeQuery ? categoryThreeQuery.replace(/-/g, ' ') : ''
 
     const [ currentPage, setCurrentPage ] = useState(1)
-    const [ price,       setPrice       ] = useState([1, 100000])    
+    const [ price,       setPrice       ] = useState([1, process.env.REACT_APP_MAX_PRICE])    
     const [ isMenuOpen,  setIsMenuOpen  ] = useState(false)   
 
     const { categoryOnes   } = useSelector( state => state.categoryOnes )    
@@ -134,22 +135,23 @@ const Gallery = () => {
 
                                 <Range 
                                     marks={{
-                                        1 : `THB 1`,
-                                        100000 : `THB 100000`
+                                        1 : `฿1`,
+                                        60000 : `฿${process.env.REACT_APP_MAX_PRICE}`
                                     }}
                                     min={1}
-                                    max={100000}
-                                    defaultValue={[1, 100000]}
-                                    tipFormatter={value => `$${value}`}
+                                    max={process.env.REACT_APP_MAX_PRICE}
+                                    defaultValue={[1, process.env.REACT_APP_MAX_PRICE]}
+                                    tipFormatter={value => `฿${value}`}
                                     tipProps={{
-                                        placement: "top"                                                    
+                                        placement: "top",
+                                        visible: true                                                    
                                     }}
                                     value={price}
                                     onChange={(price) => {
                                         setPrice(price)                          
                                         resetPage()
                                     }}
-                                    style={{ margin: "20px 0 50px 0" }}
+                                    style={{ margin: "50px 0" }}
                                 />  
 
                                 {categoryOnes && categoryOnes.length > 0 && (   
@@ -279,9 +281,9 @@ const Gallery = () => {
 
                     </aside>
 
-                    <article className={!isMobile ? 'relative' : ''}>                         
+                    <article className={!isMobile ? "relative" : ""}>                         
 
-                        <h1 style={{ textTransform: "uppercase" }}>{title}</h1>
+                        <h1 style={{ textTransform: categoryTwo ? "uppercase" : "capitalize" }}>{title}</h1>
 
                         {loading ? <Loader /> : (  
 
@@ -289,8 +291,12 @@ const Gallery = () => {
 
                                 <div className="parent">
                                     <span>
-                                        { price[0] > 1 || price[1] < 100000 ? ' From THB' + price[0] + ' to THB' + price[1]: ''}                        
-                                    </span> 
+                                        {(price[0] > 1 || price[1] < process.env.REACT_APP_MAX_PRICE) && (
+                                            <Fragment>
+                                                From <b><FormattedPrice number={price[0]} /></b> to <b><FormattedPrice number={price[1]} /></b>   
+                                            </Fragment>                                     
+                                        )}
+                                    </span>
                                     <small>
                                         {resPerPage * (currentPage - 1) + 1} 
                                         &nbsp;-&nbsp; 
