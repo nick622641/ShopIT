@@ -1,0 +1,3333 @@
+[{
+  "_id": {
+    "$oid": "626a1c2fa980b8d9a2440994"
+  },
+  "name": "Paradox Wireless Glassbreak Detector",
+  "slug": "paradox-wireless-glassbreak-detector",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<p>Product Specifications</p>\n<p>The G550 Wireless Glassbreak Detector delivers effective coverage of plate, tempered, wired, and laminated glass without the need for complex sensitivity adjustments. The G550 combines an advanced acoustic sensor with supervised wireless capabilities (available in 433MHz and 868 MHz).Using the G550 The G550 is omni-directional, providing 360° coverage. Coverage is measured from the sensor to the point on the glass farthest from the sensor.&nbsp;</p>\n<p>The sensor can be mounted as close as 3.3’ (1m) from the glass.</p>\n<p>1) Mounted on opposite wall or adjoining walls, range is 20’ (6m) for plate, tempered laminated and wired glass.&nbsp;</p>\n<p>2) Mounted on the ceiling, maximum range is 20’ (6m) for plate, tempered, laminated and  wired glass.&nbsp;</p>\n<p>3) For armor-coated glass, mount sensor no more than 12’ (3.65m) from glass. Do not install the G550 on the same wall as the monitored window</p>\n<p></p>\n<p>Features</p>\n<ul>\n<li>Modern &amp; sleek design</li>\n<li>Supervised wireless detector offered in 433 MHz and 868 MHz</li>\n<li>Six meter (20 ft.) radius range and 360º coverage pattern protects an entire room with one sensor</li>\n<li>Detect breaking of different types of glass including plate,tampered, laminated and wired</li>\n<li>Standard Alkaline 3x AAA type battery with low battery supervision</li>\n<li>Factory-set sensitivity for safer installation</li>\n<li>Recognizes actual pattern of breaking glass across the full audio band</li>\n<li>Impact and shock wave analysis</li>\n<li>High-immunity to RFI and EMI signals</li>\n<li>Hand-held tester available separately</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/xtiojifmo3ibkaywqrxb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651121204/products/xtiojifmo3ibkaywqrxb.jpg",
+      "thumb_id": "products/jdx87ihnwu0e7yuw29mt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651121202/products/jdx87ihnwu0e7yuw29mt.jpg",
+      "_id": {
+        "$oid": "626a1c2fa980b8d9a2440995"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T04:46:39.617Z"
+  },
+  "__v": 0,
+  "serial": "G550",
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a2fba76bd34a5c13c9f09"
+  },
+  "name": "Panadox Panic Remote",
+  "slug": "panadox-panic-remote",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The REM101 is a single-button remote control, with easy panic functionality and battery test button. It is available in both 433 or 868 MHz versions.</p>\n<h4>Compatibility and Technical Specifications&nbsp;</h4>\n<ul>\n<li>Magellan All-in-one Wireless Consoles (MG6250 / MG6130 / MG6160  /MG-6030 /MG6060)&nbsp;</li>\n<li>32-Zone Wireless Transceiver Control Panels (MG5000 / MG5050)&nbsp;</li>\n<li>Magellan Wireless Expansion Module (RTX3 / MG-RCV3)&nbsp;</li>\n<li>Wireless Receiver (RX1) • LCD Keypads with Built-in    Transceivers (K32LX / K641LX)</li>\n<li>EN 50131-3 Grade 2 Class II EN 50131-3 Grade 2 Class II (portable type B; certification body = Intertek)&nbsp;</li>\n<li>Consumption: standby = 2uA (11mA during transmission)&nbsp;</li>\n<li>Battery: One 3V lithium battery (CR2032)</li>\n<li>Temperature range: 0-50°C (32-120° F) / Humidity: 5-90%&nbsp;</li>\n<li>Weight: 16 grams (0.5 oz)</li>\n<li>Dimensions: 51x 32 x 13 mm (2.0 x 1.2 x 0.5 in)</li>\n</ul>\n<h4>Features</h4>\n<ul>\n<li>Water resistant</li>\n<li>Panic function allows user to instantly send panic signal&nbsp;</li>\n<li>&nbsp;&nbsp;&nbsp;to monitoring station</li>\n<li>Manually-activated battery test function</li>\n<li>Visual indicator (LED) for arming actions and battery testing</li>\n<li>Includes lanyard attachment to facilitate portability; optional wrist strap and belt clip also available</li>\n<li>Includes easily-replaceable CR2032 battery, with a battery life of 3 years</li>\n<li>Available in 2 colors: black and white Wireless range in a typical residential environment:-30m (100ft) with MG6130 / MG6160 / MG6250 and RX - 45m (150ft) with MG5000 / MG5050, K32LX and K641LX - 60m (200ft) with RTX3</li>\n<li>Available in 433 or 868 MHz</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/tlej8bi2fuadci5hzjcy",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651126206/products/tlej8bi2fuadci5hzjcy.jpg",
+      "thumb_id": "products/g40twrkbibllirk6oucv",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651126204/products/g40twrkbibllirk6oucv.jpg",
+      "_id": {
+        "$oid": "626a2fba76bd34a5c13c9f0a"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T06:10:02.010Z"
+  },
+  "__v": 0,
+  "serial": "REM101",
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a3b94813f6f30ebf353dc"
+  },
+  "name": "Paradox 2-Way Remote",
+  "slug": "paradox-2-way-remote",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The REM2 (previously MG-REM2) is a water-resistant 5-button remote control that provides the user with the status of their system by pressing the button. The remote control provides both auditory and visual feedback in an attractive streamlined style. To activate the remote’s backlight, press any button twice. The feedback provided for the user is separated into two categories: security feedback and accessory feedback. Security feedback deals with actions concerning arming and disarming, system in alarm, and panic alarms. Accessories feedback deals with actions concerning the FM tuner and PGMs. The REM2 is available in a 433MHz or 868MHz version. The 868MHz version is not UL approved.</p>\n<h4>Features</h4>\n<ul>\n<li>Supports StayD (Version 2.0 or higher)</li>\n<li>&nbsp;System Status Memory: The REM2 will keep the last system status  received from the control panel in memory. Momentarily press  the Info button to display the last system  status--even when out of range. Used to confirm the last action you did on the system while away from the system.</li>\n<li>&nbsp;Built-in transceiver (433MHz or 868MHz)</li>\n<li>&nbsp;Displays system status using visual (LED) and auditory feedback</li>\n<li>&nbsp;Press the Status button at any time to receive the systemstatus</li>\n<li>&nbsp;Perform up to 6 different actions per remote control</li>\n<li>&nbsp;Compact, water-resistant design with backlight for buttons</li>\n<li>&nbsp;Wireless range in a typical residential environment:- 30m (100ft) with MG6160 / MG6130 - 45m (150ft) with MG5000 / MG5050 / RTX3</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hkvcn23jvnnzkvnh2dmp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651129241/products/hkvcn23jvnnzkvnh2dmp.jpg",
+      "thumb_id": "products/bsgdv1j6m8kh9wgegids",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651129239/products/bsgdv1j6m8kh9wgegids.jpg",
+      "_id": {
+        "$oid": "626a3b94813f6f30ebf353de"
+      }
+    },
+    {
+      "public_id": "products/xqditz3m6xsu6dm7rxuk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651129237/products/xqditz3m6xsu6dm7rxuk.jpg",
+      "thumb_id": "products/mimo7gclrf8so1fneqog",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651129234/products/mimo7gclrf8so1fneqog.jpg",
+      "_id": {
+        "$oid": "626a3b94813f6f30ebf353dd"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T07:00:36.707Z"
+  },
+  "__v": 0,
+  "serial": "REM2",
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a48dd8e85565bcb9629e9"
+  },
+  "name": "Paradox Door Contacts",
+  "slug": "paradox-door-contacts",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The DCT2 is engineered for use in permanent installations. The system mounts three horn-loaded 1.33-in exit compression tweeters in a wide-angled enclosure. The driver/phase plug assemblies are engineered to minimize beaming of soundwaves with the smallest wavelengths, particularly in the horizontal plane. The DCT2's wide-angled configuration delivers optimized 120° horizontal dispersion of high frequencies when mounted adjacent to or on a full-range system. It provides very high levels of high frequency sound reinforcement for high energy dance clubs. Like all EAW products, it can be special ordered in virtually any color to match a specific décor</p>\n<h4>Features</h4>\n<ul>\n<li>One high-sensitivity reed switch (magnet included)</li>\n<li>Wireless range in a typical residential environment - 20m (65ft) with MG6160 and MG6130; - 40m (130ft) with MG5000, MG5050 and RTX3</li>\n<li>Available in 433MHz or 868MHz</li>\n<li>Anti-tamper switch</li>\n<li>Dimensions: 4.4cm x 3.0cm x 1.7cm (1.7in x 1.2in x 0.7in)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/z1k1setkryrk85u7k5q6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651132642/products/z1k1setkryrk85u7k5q6.jpg",
+      "thumb_id": "products/a8usnxuwcvixh2ocaram",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651132639/products/a8usnxuwcvixh2ocaram.jpg",
+      "_id": {
+        "$oid": "626a48dd8e85565bcb9629eb"
+      }
+    },
+    {
+      "public_id": "products/y4qk7hceul0i3ptfyajz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651132637/products/y4qk7hceul0i3ptfyajz.jpg",
+      "thumb_id": "products/p00c59yaq2oj6zvsuoeg",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651132635/products/p00c59yaq2oj6zvsuoeg.jpg",
+      "_id": {
+        "$oid": "626a48dd8e85565bcb9629ea"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T07:57:17.047Z"
+  },
+  "__v": 0,
+  "serial": "DCT2",
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a4ff31b17d508b16cc187"
+  },
+  "serial": "DCTXP2",
+  "name": "Paradox Door Contacts (2)",
+  "slug": "paradox-door-contacts-2",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The MG-DCTXP2 can support two inputs simultaneously (reed switch &amp; universal input).It transmits two different serial numbers (SN), one for each input, which are always SN and SN+1(e.g. 240 000 &amp; 240 001). A switch or other security device can be connected to the universal transmitter input terminals to provide wireless transmission of the device's open/closed status.</p>\n<h4>New Learn Mode</h4>\n<p>A new Learn mode facilitates the initial transmission serial numbers to the main console (MG-6060/MG-6030).</p>\n<h4>To enter Learn mode and transmit the MG-DCTXP2’s serial numbers:</h4>\n<ul>\n<li>Open the cover on the MG-DCTXP2 and wait until the LED stops flashing.</li>\n<li>Press and release the anti-tamper switch once. The MG-DCTXP2 will immediately transmit  the serial number of the reed switch to the main console. The LED will flash once  four times.</li>\n<li>Press and release the anti-tamper switch twice within one second. The MG-DCTXP2 will immediately transmit the serial number of the universal input to the main ole.The LED will flash twice rapidly four times.</li>\n<li>Close the cover of the MG-DCTXP2 to exit Learn mode.</li>\n</ul>\n<p>Features</p>\n<ul>\n<li>2-zone capabilities where each zone is independent and has its own serial number</li>\n</ul>\n<p>&nbsp;&nbsp;&nbsp;Zone 1 - One high-sensitivity reed switch (magnet included)</p>\n<p>&nbsp;&nbsp;&nbsp;Zone 2 - Universal transmitter input (N.O./N.C.)</p>\n<p>&nbsp;&nbsp;&nbsp;Wireless range in a typical residential environment:</p>\n<p>&nbsp;&nbsp;&nbsp;- 30m (100ft) with MG6160 and MG6130;</p>\n<p>&nbsp;&nbsp;&nbsp;- 60m (200ft) with MG5000, MG5050 and RTX3</p>\n<ul>\n<li>Available in 433MHz or 868MHz</li>\n<li>Anti-tamper switch</li>\n<li>Dimensions: 11cm x 3.2cm x 2.5cm (4.4in x 1.3in x 1in)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/e0x0womop7mei6jwiotl",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134452/products/e0x0womop7mei6jwiotl.jpg",
+      "thumb_id": "products/vngw5ngz3km0ay1pp6mv",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134450/products/vngw5ngz3km0ay1pp6mv.jpg",
+      "_id": {
+        "$oid": "626a4ff31b17d508b16cc188"
+      }
+    },
+    {
+      "public_id": "products/z9xlx1w6wf2jaldmayfy",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134456/products/z9xlx1w6wf2jaldmayfy.jpg",
+      "thumb_id": "products/qzasyeji5g9auwiqh76c",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134454/products/qzasyeji5g9auwiqh76c.jpg",
+      "_id": {
+        "$oid": "626a4ff31b17d508b16cc189"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T08:27:31.762Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a512a1b17d508b16cc1b1"
+  },
+  "serial": "NVR780",
+  "name": "Paradox Dual Beam",
+  "slug": "paradox-dual-beam",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The wireless NVR780 incorporates two independent, side-by -side passive infrared detectors into a single housing. Covering up to 24 meters (12m for each side), and configurable to report as a single unit (2 sides of the unit report to a single zone output) or dual units (each side reports to aseparate zone output), the NVR780 provides flexible and accurate boundary protection.</p>\n<h4>Features&nbsp;</h4>\n<ul>\n<li>Two double passive infrared motion detector with eight narrow detection beams, managed by Full Authority Digital Electronics Control (FADEC)</li>\n<li>High-resolution and full dynamic range digital signal    conversion</li>\n<li>High-speed, advanced algorithm digital signal processing&nbsp;</li>\n<li>Digital EMI / RFI interference rejection</li>\n<li>True Pet Immunity, up to 40kg (90lb) Advanced Optical Technology:</li>\n<li>4x dual element sensors arrangement</li>\n<li>High efficiency long focal point (1.77\") lens, providing long-   range narrow beams</li>\n<li>2 pairs of narrow beams per side provide 2x signals per protected area crossing for increased \"catch\" and false alarm  rejection</li>\n<li>Combination optics of mirror reflector and 2nd generation  Fresnel \"LoDiff\" Lens</li>\n<li>Increased white light rejection Easy Installation and Setup:</li>\n<li>Single or Dual Zone operation modes: two sides can report to a single zone or to two separate zones</li>\n<li>Optical and digital range adjustments</li>\n<li>Bright LED and buzzer indicator for clear adjustment feedback</li>\n<li>No need for PCB removal</li>\n<li>Wall-mount, with built-in level tool</li>\n<li>In-field firmware upgradable via serial port</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/k5sf6md02tajqjnxpnrv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134758/products/k5sf6md02tajqjnxpnrv.jpg",
+      "thumb_id": "products/nzovbfxjb4xalmsxc0u0",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134756/products/nzovbfxjb4xalmsxc0u0.jpg",
+      "_id": {
+        "$oid": "626a512a1b17d508b16cc1b2"
+      }
+    },
+    {
+      "public_id": "products/vhvlrwwuziv5xo3w6bsr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134763/products/vhvlrwwuziv5xo3w6bsr.jpg",
+      "thumb_id": "products/iihgratems978juf6v1t",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134761/products/iihgratems978juf6v1t.jpg",
+      "_id": {
+        "$oid": "626a512a1b17d508b16cc1b3"
+      }
+    },
+    {
+      "public_id": "products/rvmgwuitsjkttw3ukuwz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134767/products/rvmgwuitsjkttw3ukuwz.jpg",
+      "thumb_id": "products/y0b0velgctygugmgo19s",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651134765/products/y0b0velgctygugmgo19s.jpg",
+      "_id": {
+        "$oid": "626a512a1b17d508b16cc1b4"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T08:32:42.805Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a52591b17d508b16cc1c6"
+  },
+  "serial": "PMD85",
+  "name": "Paradox Outdoor Digital Dual-Optic",
+  "slug": "paradox-outdoor-digital-dual-optic",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>PMD85 Series (formerly MG-PMD85W)</h5>\n<h5>Outdoor Digital Dual-Optic High-Performance PIR  (40kg/90lb True PetImmunity)\t \t</h5>\n<p>The PMD85 Outdoor Digital Dual-Optic HighPerformance PIR overcomes the environmental challenges of the outdoors while giving you the same reliability as a highperformance indoor motion detector by combining a special weatherproof design with the proven technology of Paradox’s patented digital detection. The PMD85 also features patented animal immunity, which by way of two sensors, allows the unit to identify humans while ignoring animals weighing up to 40kg (90lbs.).</p>\n<h4>&nbsp;Installation</h4>\n<p>There are three different mounting methods that can be used for the PMD85, they include corner-mount, flat surface mount, or swivel-mount using the SB85. When installing the PMD85, avoid placing the detector within proximity of sources of interference such as direct sunlight, reflective surfaces and moving cars. To install the PMD85</p>\n<ul>\n<li>Select the detector’s location.</li>\n<li>Remove the front cover screws holding the cover into place; open the cover.</li>\n<li>Loosen the screw holding the PCB into place and gently slide and lift from back cover.</li>\n<li>Drill or punch out the selected knockout holes from the PMD85 back cover as shown in Figure 1 and secure to surface using appropriate mounting screws.</li>\n</ul>\n<h4>Features</h4>\n<ul>\n<li>Impact and temperature resistant casing</li>\n<li>Operates at -35°C to +50°C (-31°F to +122°F)</li>\n<li>Casing lined with an injected rubber gasket</li>\n<li>UV protected lens</li>\n<li>Dual Optical Filtering System</li>\n<li>Multi-level sensitivity adjustment</li>\n<li>Patented Digital Motion Detection</li>\n<li>Dual optics (2 dual opposed element sensors)</li>\n<li>Digital Dual Opposed Detection</li>\n<li>Alive software (alarm LED continues to display when PIR is in energy save mode without compromising battery life)</li>\n<li>3-minute energy save mode after two detections within a five-minute period</li>\n<li>Can be used with the Heavy Duty Outdoor Swivel Bracket (SB85)</li>\n</ul>\n<p></p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ffm7qqf7ns5zfpiv1dnc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135070/products/ffm7qqf7ns5zfpiv1dnc.jpg",
+      "thumb_id": "products/eckyxp7ibttlkjzunhvz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135068/products/eckyxp7ibttlkjzunhvz.jpg",
+      "_id": {
+        "$oid": "626a52591b17d508b16cc1c7"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T08:37:45.219Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a53591b17d508b16cc1e0"
+  },
+  "serial": "PMD2P",
+  "name": "Paradox Wireless PIR Motion Detector",
+  "slug": "paradox-wireless-pir-motion-detector",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>PMD2P Wireless PIR Motion Detector with Built-in Pet Immunity</h5>\n<h5>(18kg/40lb Pet Immunity)\t \t\t \t</h5>\n<p>The Paradox PMD2P is an analog single-optic PIR motion detector with built-in pet immunity for use with Magellan wireless receivers/transceivers. The PMD2P is immune to animals weighing up to 18kg (40 pounds), and features automatic temperature compensation. The PMD2P is battery-powered and features an innovative three minute energy save mode (after two detections within a five-minute period). Also, the ALIVE software in the PMD2P ensures that the alarm LED continues to display when it is in energy save mode without compromising battery life.</p>\n<h4>Features</h4>\n<ul>\n<li>Dual element sensor</li>\n<li>Immune to animals weighing up to 18kg (40lb)</li>\n<li>11m x 11m (35ft x 35ft) and up to 15m (50ft) for center beams with 88.5° viewing angle</li>\n<li>Wireless range in a typical residential environment:</li>\n</ul>\n<p>&nbsp;&nbsp;&nbsp;- 35m (115ft) with MG6160, MG6130, and MG6250;</p>\n<p>&nbsp;&nbsp;&nbsp;- 70m (230ft) with MG5000, MG5050, and RTX3</p>\n<ul>\n<li>When a higher level of immunity is required, such as when animals are constantly in the etection area, consider using    PMD75</li>\n<li>Patented Auto Pulse Signal Processing</li>\n<li>Automatic Temperature Compensation</li>\n<li>Alive software (alarm LED continues to display when PIR is in energy save mode without compromising battery life)</li>\n<li>3-minute energy save mode after two detections within a five-minute period</li>\n<li>Dual tamper mechanism (wall/cover)</li>\n<li>Slide switch to select high or low sensitivity</li>\n<li>EN 300-200 certified</li>\n<li>EN 50131 certified</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/c6rinp7kum1wfcya2xzz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135321/products/c6rinp7kum1wfcya2xzz.jpg",
+      "thumb_id": "products/mspz9hjonpgterciofpv",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135319/products/mspz9hjonpgterciofpv.jpg",
+      "_id": {
+        "$oid": "626a53591b17d508b16cc1e1"
+      }
+    },
+    {
+      "public_id": "products/jox0xgl7w7desmxnfasr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135326/products/jox0xgl7w7desmxnfasr.jpg",
+      "thumb_id": "products/ibkz8dgbtxkh6mg6fk9v",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651135324/products/ibkz8dgbtxkh6mg6fk9v.jpg",
+      "_id": {
+        "$oid": "626a53591b17d508b16cc1e2"
+      }
+    }
+  ],
+  "categoryOne": "Security",
+  "categoryTwo": "Paradox",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T08:42:01.363Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "security",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "paradox"
+},{
+  "_id": {
+    "$oid": "626a599e1b17d508b16cc24c"
+  },
+  "serial": "IPC-HDBW5200P",
+  "name": "IP Network Dome Camera",
+  "slug": "ip-network-dome-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>1/3” 2Megapixel progressive scan Exmor CMOS</li>\n<li>H.264 &amp; MJPEG dual-stream encoding</li>\n<li>Max 25/30fps@1080P(1920×1080)</li>\n<li>DWDR, Day/Night(ICR), 3DNR, Auto iris, AWB, AGC, BLC</li>\n<li>Multiple network monitoring: Web viewer, CMS(DSS/PSS) &amp; DMSS</li>\n<li>2.7~12mm varifocal lens</li>\n<li>Built-in 1/1 alarm in/out</li>\n<li>Max. IR LEDs Length 20m</li>\n<li>Micro SD memory, IP66, IK10, PoE</li>\n</ul>\n<h5>Specification</h5>\n<ul>\n<li>Image Sensor1/3” 2Megapixel Exmor CMOS</li>\n<li>InterlacingProgressive</li>\n<li>Pixel1920(H) x 1080(V), 2Megapixels</li>\n<li>S/N RatioMore than 50db</li>\n<li>Electronic Shutter SpeedAuto/Manual 1/3~1/10000</li>\n<li>Min. Illumination0.1lux/F1.4(color), 0Lux/F1.4(IR on)</li>\n<li>Lens TypeVariofocal lens</li>\n<li>Lens MountBoard-in Type</li>\n<li>Lens ControlManual</li>\n<li>Focal Length2.7 - 12 mm</li>\n<li>Angle of ViewH: 105.6°(Wide)~27.4°(Tele)</li>\n<li>Vario-ObjektivVariofocal lens</li>\n<li>Day &amp; Night SystemAuto(ICR)/Color/B/W</li>\n<li>Digital Noise Reduction\t3D</li>\n<li>Automatic Gain Control (AGC)\tAuto/Manual</li>\n<li>Back Light Compensation (BLC) On/Off</li>\n<li>High Light Compensation (HLC) On/Off</li>\n<li>Wide Dynamic Range (WDR) DWDR</li>\n<li>IR LED Lighting Distance 020m</li>\n<li>Privacy ZoneUp to 4 areas</li>\n<li>Video CompressionH.264/ MJPEG</li>\n<li>Video Output Level1 channel BNC(1.0Vp-p, 75Ω)</li>\n<li>Resolution1080P(1920×1080)/D1(704×576)</li>\n<li>Frame Rate (main)1080P(1920×1080)/D1(704×576)</li>\n<li>Bit RateD1(1 ~ 25/30fps)</li>\n<li>Audio CompressionG.711a/G.711u(64kbps)/PCM(128kbps)</li>\n<li>Audio Interface 1/1 channel In/Out</li>\n<li>Ethernet1 RJ-45 port</li>\n<li>Protocol IPv4/IPv6, HTTP, HTTPS, SSL, TCP/IP, UDP,&nbsp;</li>\n</ul>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UPnP, ICMP, IGMP, SNMP, RTSP, RTP, SMTP,&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- NTP, DHCP, DNS, PPPOE, DDNS, FTP, IP Filter,&nbsp;</p>\n<ul>\n<li>Smart PhoneiPhone, iPad, Android, Windows Phone</li>\n<li>Mikro SDMicro SD, Max 32GB</li>\n<li>Memory SlotYes</li>\n<li>Alarm Output1/1 channel In/Out</li>\n<li>Power SupplyAC24V/DC12V, PoE(802.3af)</li>\n<li>Power Consumption&lt;7W</li>\n<li>Operating Temperature/Humidity-20°C~+60°C, Less than 90% RH</li>\n<li>IP RatingIK10</li>\n<li>Vandal-Resistant HousingIP66</li>\n</ul>\n<p>&nbsp;• Max. User Access20 users</p>\n<p>&nbsp;• Operating TemperatureΦ151mm×119mm</p>\n<p>&nbsp;• Dimensions1.25kg</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hgrqsr1hqiz38gcitwcr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651136931/products/hgrqsr1hqiz38gcitwcr.jpg",
+      "thumb_id": "products/hhrl16olwwj9ah2hk9lh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651136929/products/hhrl16olwwj9ah2hk9lh.jpg",
+      "_id": {
+        "$oid": "626a599e1b17d508b16cc24d"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T09:08:46.952Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a5d29769328d4611d0077"
+  },
+  "serial": "HAC-HDBW2120RP-Z",
+  "name": "HDCVI Dome Camera",
+  "slug": "hdcvi-dome-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor1/3” 1.4Megapixel CMOS</li>\n<li>Effective Pixels1305(H)×1049(V)</li>\n<li>Electronic Shutter1/3s~1/100,000s</li>\n<li>Video Frame Rate25/50fps@720P 30/60fps@720P</li>\n<li>Synchronization Internal</li>\n<li>Min. Illumination0.01Lux@F1.2(AGC ON), 0Lux IR on</li>\n<li>Video Output1-channel BNC HDCVI high definition video output/ CVBS standard definition video output (Can switch)</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max. IR LEDs Length 30m, Smart IR</li>\n<li>Day/Night Auto(ICR) / Color / B/W</li>\n<li>Noise Reduction 2D/3D</li>\n<li>OSD Menu Support</li>\n</ul>\n<h5>Lens</h5>\n<ul>\n<li>Focal Length 2.7~12mm</li>\n<li>Angle of View H: 87.6º~29º</li>\n<li>Lens Type Motorized / Fixed Iris</li>\n<li>Mount Type Φ14</li>\n</ul>\n<h5>General</h5>\n<ul>\n<li>Power Supply DC12V±20%</li>\n<li>Power Consumption Max 8.6W</li>\n<li>Working Environment -30°C~+60°C / Less than 95%RH (no condensation)</li>\n<li>Transmission Distance Over 800m via 75-3 coaxial cable</li>\n<li>Ingress Protection IP67 &amp; IK10</li>\n<li>Dimensions Φ122mm×89mm</li>\n<li>Weight 0.45kg</li>\n<li>Material Metal</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/mblyl0mezq4c2bbfnhx0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651137838/products/mblyl0mezq4c2bbfnhx0.jpg",
+      "thumb_id": "products/znaffgqrketkcjabiwth",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651137836/products/znaffgqrketkcjabiwth.jpg",
+      "_id": {
+        "$oid": "626a5d29769328d4611d0078"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T09:23:53.775Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a712d6b89e08aaf36cf84"
+  },
+  "serial": "IPC-HFW8301EP",
+  "name": "IP Bullet Camera",
+  "slug": "ip-bullet-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor1/3” 3Megapixel Aptina CMOS</li>\n<li>Effective Pixels2048(H)x1536(V)</li>\n<li>Scanning SystemProgressive</li>\n<li>Electronic Shutter Speed Auto/Manual, 1/3~1/10000sAuto/Manual, 1/4~1/10000s</li>\n<li>Min. IlluminationColor: 0. 1Lux/F1.2, B/W: 0.01Lux/F1.2</li>\n<li>S/N RatioMore than 50dB</li>\n<li>Video Output1 port</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max. IR LEDs Length30m，Smart IR technology</li>\n<li>Day/NightAuto(ICR)/Color/B/W</li>\n<li>Backlight CompensationBLC/HLC/WDR 120dB</li>\n<li>White BalanceAuto/Manual</li>\n<li>Gain ControlAuto/Manual</li>\n<li>Noise Reduction3D</li>\n<li>Privacy MaskingUp to 4 areas</li>\n<li>EISSupport</li>\n<li>Ultra DefogSupport</li>\n</ul>\n<h5>Lens</h5>\n<ul>\n<li>Focal Length2.7mm~12mm</li>\n<li>Max ApertureF1.2</li>\n<li>Focus ControlManual</li>\n<li>Angle of ViewH: 91.2°~31.1°</li>\n<li>Lens TypeManual/Auto Iris(DC)</li>\n<li>Mount TypeBoard-in Type</li>\n</ul>\n<h5>Video</h5>\n<ul>\n<li>Compression H.264/MJPEG</li>\n<li>Resolution  3M(2048×1536)/1080P(1920×1080)/720P(1280×720) /D1(704×576)/CIF(352×288)</li>\n<li>Frame Rate</li>\n</ul>\n<p>&nbsp;- Main Stream 3M/1080P (1~25/30fps)</p>\n<p>&nbsp;- Sub Stream  D1/CIF (1 ~ 25/30fps)</p>\n<p>&nbsp;- Third Stream 1080P/720P/D1 (1 ~ 25/30fps)</p>\n<ul>\n<li>Bit RateH.264: 48K ~ 8192Kbps</li>\n<li>ROIUp to 4 areas</li>\n</ul>\n<h5>Audio</h5>\n<ul>\n<li>CompressionG.711a/G.711u</li>\n<li>Interface1/1 channel In/Out</li>\n</ul>\n<h5>Smart Function(Optional)</h5>\n<ul>\n<li>Smart -detectionTripwire</li>\n</ul>\n<p>&nbsp;-Intrusion</p>\n<p>&nbsp;-Scene change</p>\n<p>&nbsp;-Missing/Abandoned</p>\n<p>&nbsp;-Audio detect</p>\n<p>&nbsp;-Face detect</p>\n<h5>Network</h5>\n<ul>\n<li>EthernetRJ-45 (10/100/1000Base-T)</li>\n<li>Wi-FiN/A</li>\n<li>Protocol IPv4/IPv6, HTTP, HTTPS, SSL, TCP/IP, UDP, UPnP, ICMP, IGMP, SNMP, RTSP, RTP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP, IP Filter, QoS, Bonjour</li>\n<li>CompatibilityONVIF, PSIA, CGI</li>\n<li>Max. User Access20 users</li>\n<li>Smart PhoneiPhone, iPad, Android, Windows Phone</li>\n<li>Auxiliary Interface</li>\n<li>Memory SlotMicro SD, Max 64GB</li>\n<li>Alarm2/1 channel In/Out</li>\n</ul>\n<h5>General</h5>\n<ul>\n<li>Power SupplyDC12V(AC24V optional), PoE (802.3af)</li>\n<li>Power ConsumptionMax 12W</li>\n<li>Working Environment-30°C~+60°C, Less than 90% RH</li>\n<li>Ingress ProtectionIP66</li>\n<li>Dimensions273.3mm × 94.8mm× 94.8mm</li>\n<li>Weight1.25kg</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/jhgiavtxpflaqcufmzge",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651142962/products/jhgiavtxpflaqcufmzge.jpg",
+      "thumb_id": "products/uja5ntginrbe3yruyt5p",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651142960/products/uja5ntginrbe3yruyt5p.jpg",
+      "_id": {
+        "$oid": "626a712d6b89e08aaf36cf85"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T10:49:17.461Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a72296b89e08aaf36cf97"
+  },
+  "serial": "HAC-HFW2120RP-Z",
+  "name": "HDCVI IR Bullet Camera",
+  "slug": "hdcvi-ir-bullet-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor1/3” 1.4Megapixel CMOS</li>\n<li>Effective Pixel1305(H)×1049(V)</li>\n<li>Electronic Shutter 1/3s~1/100,000s</li>\n<li>Video Frame Rate 25/50fps@720P 30/60fps@720P</li>\n<li>Synchronization Internal</li>\n<li>Mini. Illumination  0.01Lux@F1.2(AGC ON), 0Lux IR on</li>\n<li>Video Output 1-channel BNC HDCVI high definition video output/ CVBS standard definition video output (Can switch)</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max.IR LEDs Length 30m, Smart IR</li>\n<li>Day/Night Auto(ICR) / Color / B/W</li>\n<li>Noise Reduction 2D/3D</li>\n<li>OSD Menu Support</li>\n<li>Lens</li>\n<li>Focal Length 2.7~12mm</li>\n<li>Angle of View H: 87.6º~29º</li>\n<li>Lens Type Motorized / Fixed Iris</li>\n<li>Mount Type F14</li>\n</ul>\n<h5>General</h5>\n<ul>\n<li>Power Supply DC12V±20%</li>\n<li>Power Consumption Max 7.5W</li>\n<li>Working Environment -30°C~+60°C / Less than 95%RH (no condensation)</li>\n<li>Transmission Distance Over 800m via 75-3 coaxial cable</li>\n<li>Ingress Protection IP67</li>\n<li>Dimensions(W×D×H) 213mm×80mm×72mm</li>\n<li>Weight 0.55kg</li>\n<li>Material Metal</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/pujpr5u8nqwaxdn8lp3w",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143214/products/pujpr5u8nqwaxdn8lp3w.jpg",
+      "thumb_id": "products/iqmyci8oky6ex3lut5pf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143212/products/iqmyci8oky6ex3lut5pf.jpg",
+      "_id": {
+        "$oid": "626a72296b89e08aaf36cf98"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T10:53:29.741Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a73496b89e08aaf36cfaa"
+  },
+  "serial": "IPC-HDW4300C-0360B",
+  "name": "IP Mini Dome Camera",
+  "slug": "ip-mini-dome-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor1/3” 3Megapixel progressive scan CMOS</li>\n<li>Effective Pixels2052(H)x1536(V)</li>\n<li>Scanning SystemProgressive</li>\n<li>Electronic Shutter SpeedAuto/Manual, 1/3(4)~1/10000s</li>\n<li>Min. Illumination0. 01Lux/F1.2 (Color),0.005Lux/F1.2(B/W);0Lux/F1.2(IR on)</li>\n<li>S/N RatioMore than 50dB</li>\n<li>Video OutputN/A</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max. IR LEDs Length30m</li>\n<li>Day/NightAuto(ICR)/Color/B/W</li>\n<li>Backlight CompensationBLC / HLC / DWDR</li>\n<li>White BalanceAuto</li>\n<li>Gain ControlAuto/Manual</li>\n<li>Noise Reduction3D</li>\n<li>Privacy MaskingUp to 4 areas</li>\n</ul>\n<h5>Lens</h5>\n<ul>\n<li>Focal Length3.6mm (2.8mm, 6mm, 8mm optional)</li>\n<li>Max ApertureF1.8 (F2.0, F1.6/F1.6)</li>\n<li>Focus ControlManual</li>\n<li>Angle of ViewH: 72.5°(90°, 44°, 33.2°)</li>\n<li>Lens TypeFixed lens</li>\n<li>Mount TypeBoard-in Type</li>\n</ul>\n<h5>Video</h5>\n<ul>\n<li>CompressionH.264 / MJPEG</li>\n<li>Resolution3M(2048´1536)/ 1080P(1920×1080)/ 720P(1280×720)</li>\n<li>D1(704×576/704×480)/ CIF(352×288/352×240)</li>\n<li>Frame RateMain Stream\t3M(1~20fps)/1080P/720P(1 ~ 25/30fps)</li>\n<li>Sub StreamD1(1~20fps)/CIF(1 ~ 25/30fps)</li>\n<li>Bit RateH.264: 56K ~ 8192Kbps</li>\n</ul>\n<h5>Audio</h5>\n<p>• CompressionG.711a/G.711u/PCM</p>\n<p>• InterfaceBuilt-in MIC</p>\n<h5>Network</h5>\n<ul>\n<li>Ethernet RJ-45 (10/100Base-T)</li>\n<li>Wi-Fi N/A</li>\n<li>ProtocolIPv4/IPv6, HTTP, HTTPS, SSL, TCP/IP, UDP, UPnP, ICMP, IGMP, SNMP,  RTSP, RTP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP, IP Filter, QoS, Bonjour</li>\n<li>ONVIFONVIF Profile S</li>\n<li>Max. User Access20 users</li>\n<li>Smart PhoneiPhone, iPad, Android, Windows Phone</li>\n<li>Auxiliary Interface</li>\n<li>Memory SlotN/A</li>\n<li>RS485N/A</li>\n<li>AlarmN/A</li>\n<li>PIR Sensor RangeN/A</li>\n</ul>\n<h5>General</h5>\n<ul>\n<li>Power SupplyDC12V, PoE (802.3af)</li>\n<li>Power ConsumptionMax 4.5W</li>\n<li>Working Environment-20°C~+60°C, Less than 95%RH</li>\n<li>Ingress ProtectionIP66</li>\n<li>Vandal ResistanceIK10</li>\n<li>DimensionsΦ107.9mm×84.1mm</li>\n<li>Weight0.4kg</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/qhsqqnjotovh2udhz6hc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143502/products/qhsqqnjotovh2udhz6hc.jpg",
+      "thumb_id": "products/yyal63znyxhyx7f7qzta",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143500/products/yyal63znyxhyx7f7qzta.jpg",
+      "_id": {
+        "$oid": "626a73496b89e08aaf36cfab"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T10:58:17.857Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a74136b89e08aaf36cfbd"
+  },
+  "serial": "IPC-HFW4200EP",
+  "name": "IP Mini Bullet Camera",
+  "slug": "ip-mini-bullet-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor 1/2.8” 2Megapixel progressive scan Exmor CMOS</li>\n<li>Effective Pixels 1920(H)x1080(V)</li>\n<li>Scanning System Progressive</li>\n<li>Electronic Shutter Speed Auto/Manual, 1/3(4)~1/10000s</li>\n<li>Min. Illumination 0. 1Lux/F1.2 (Color), 0.01Lux/F1.2(B/W);0Lux/F1.2(IR on)</li>\n<li>S/N Ratio More than 50dB</li>\n<li>Video Output N/A</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max. IR LEDs Length 30m</li>\n<li>Day/Night Auto(ICR)/Color/B/W</li>\n<li>Backlight Compensation BLC / HLC / DWDR</li>\n<li>White Balance Auto/Manual</li>\n<li>Gain Control Auto/Manual</li>\n<li>Noise Reduction 3D</li>\n<li>Privacy Masking Up to 4 areas</li>\n</ul>\n<h5>Lens</h5>\n<ul>\n<li>Focal Length 3.6mm (6mm,8mm optional)</li>\n<li>Max Aperture F1.8(F1.6/F1.6)</li>\n<li>Focus Control Manual</li>\n<li>Angle of View H:88°(53°/39.7°)</li>\n<li>Lens Type Fixed lens</li>\n<li>Mount Type Board-in Type</li>\n</ul>\n<h5>Video</h5>\n<ul>\n<li>Compression H.264/MJPEG</li>\n<li>Resolution 1080P(1920× 1080)/720P(1280× 720)/ D1(704× 576/704× 480)/CIF(352× 288/352× 240)&nbsp;</li>\n<li>Frame Rate Main Stream 1080P/720P(1 ~ 25/30fps)</li>\n<li>Sub Stream D1/CIF(1 ~ 25/30fps)</li>\n<li>Bit Rate H.264: 32K ~ 8192Kbps</li>\n</ul>\n<p></p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ct7u1oqynb7dr1gs3dmi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143704/products/ct7u1oqynb7dr1gs3dmi.jpg",
+      "thumb_id": "products/q4xda6mjwndnbem2wgun",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143702/products/q4xda6mjwndnbem2wgun.jpg",
+      "_id": {
+        "$oid": "626a74136b89e08aaf36cfbe"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:01:39.470Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a750f6b89e08aaf36cfd0"
+  },
+  "serial": "IPC-HDBW1200EP",
+  "name": "Mini IP Dome Camera",
+  "slug": "mini-ip-dome-camera",
+  "price": 10000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Model</h5>\n<ul>\n<li>Image Sensor1/3” 3Megapixel Aptina CMOS</li>\n<li>Effective Pixels2048 (H)x1536(V)</li>\n<li>Scanning System Progressive</li>\n<li>Electronic Shutter SpeedAuto/Manual, 1/3(4)~1/10000s</li>\n<li>Min. IlluminationColor: 0. 1Lux/F1.6;  0Lux (IR on)</li>\n<li>S/N RatioMore than 50dB</li>\n<li>Video OutputN/A</li>\n</ul>\n<h5>Camera Features</h5>\n<ul>\n<li>Max. IR LEDs Length30m</li>\n<li>Day/NightAuto(ICR)/Color/B/W</li>\n<li>Backlight CompensationBLC / HLC / DWDR</li>\n<li>White BalanceAuto/Manual</li>\n<li>Gain ControlAuto/Manual</li>\n<li>Noise Reduction 2D</li>\n<li>Privacy Masking Up to 4 areas</li>\n</ul>\n<h5>Lens</h5>\n<ul>\n<li>Focal Length3.6mm (2.8mm, 6mm optional)</li>\n<li>Max ApertureF1.8(F2.0,F1.8)</li>\n<li>Focus ControlManual</li>\n<li>Angle of ViewH:71.9°(90°/45°)</li>\n<li>Lens TypeFixed lens</li>\n<li>Mount TypeBoard-in Type</li>\n</ul>\n<h5>Video</h5>\n<ul>\n<li>CompressionH.264/ H.264B/H.264H/MJPEG</li>\n<li>Resolution1080P(1920×1080) / 720P(1280×720) /&nbsp;</li>\n<li>D1(704×576/704×480) /CIF(352×288/352×240)</li>\n<li>Frame RateMain Stream 1080P/720P(1 ~ 25/30fps) Sub StreamD1/CIF(1 ~ 25/30fps)</li>\n<li>Bit RateH.264H: 16K ~ 8192Kbps Audio</li>\n<li>Compressioz N/A</li>\n<li>Interface N/A</li>\n</ul>\n<h5>Network</h5>\n<ul>\n<li>Ethernet RJ-45 (10/100Base-T)</li>\n<li>Wi-Fi N/A</li>\n<li>ONVIF\tONVIF Profile S</li>\n<li>Max. User Access20 users</li>\n<li>Smart PhoneiPhone, iPad, Android, Windows Phone</li>\n<li>Auxiliary Interface</li>\n<li>Memory SlotMicro SD Max 64GB(-S)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/xdddnm1kuefonqcemw9q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143956/products/xdddnm1kuefonqcemw9q.jpg",
+      "thumb_id": "products/rkzkfria7wqkxctley1m",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651143954/products/rkzkfria7wqkxctley1m.jpg",
+      "_id": {
+        "$oid": "626a750f6b89e08aaf36cfd1"
+      }
+    }
+  ],
+  "categoryOne": "Surveillance",
+  "categoryTwo": "Dahua",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:05:51.984Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "surveillance",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "dahua"
+},{
+  "_id": {
+    "$oid": "626a77e96b89e08aaf36cfed"
+  },
+  "serial": "ENH1750EXT",
+  "name": "Outdoor Access Point",
+  "slug": "outdoor-access-point",
+  "price": 36600,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ENH1750EXT supports Fast Roaming for clients authenticated to a RADIUS server. This means that employees can be constantly connected to the network whether they are warehouse workers scanning and capturing barcode information, employees on Wi-Fi phone calls while walking to meetings on another part of a corporate campus, healthcare professionals capturing patient information on mobile devices, or security personnel who need uninterrupted video surveillance on a mobile device when they are alerted to and making their way to the location of an incident.</p>\n<h5>Hardware</h5>\n<ul>\n<li>&nbsp;RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>&nbsp;Standards: IEEE 802.11a/n/ac on 5 GHz; IEEE 802.11b/g/n on 2.4 GHz</li>\n<li>&nbsp;Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>&nbsp;Radio II: 11a/n/ac: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>&nbsp;Data Rate: Up to 1300 Mbps on 5 GHz; Up to 450 Mbps on 2.4 GHz</li>\n<li>&nbsp;Memory: 256MB</li>\n<li>&nbsp;Flash Memory: 16MB</li>\n<li>&nbsp;Power Consumption: Up to 34W</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>&nbsp;Six (6) External N-type omni-directional antennas</li>\n<li>&nbsp;3 x 5 dBi omni-directional antennas for 2.4 GHz</li>\n<li>&nbsp;3 x 5 dBi omni-directional antennas for 2.4 GHz</li>\n<li>&nbsp;Compliant with N type Connector</li>\n<li>&nbsp;LED Indicators</li>\n</ul>\n<h5>Power</h5>\n<ul>\n<li>&nbsp;LAN 1</li>\n<li>&nbsp;LAN 2</li>\n<li>&nbsp;2.4 GHz</li>\n<li>&nbsp;5 GHz</li>\n</ul>\n<h5>Power Requirements</h5>\n<ul>\n<li>&nbsp;External Power Adapter on PoE Injector (EPE-48GR), DC IN 48 V/0.8A</li>\n<li>&nbsp;Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>&nbsp;Active Ethernet (Power-over-Ethernet, IEEE 802.3at)</li>\n<li>&nbsp;Power Adapter (United States) 48VDC/0.375A</li>\n<li>&nbsp;Device: 12V/2A</li>\n</ul>\n<p></p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/amd30sjbrtbpbaqwo3sb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144671/products/amd30sjbrtbpbaqwo3sb.jpg",
+      "thumb_id": "products/c2mzyv06lj3ssjfcrr4r",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144668/products/c2mzyv06lj3ssjfcrr4r.jpg",
+      "_id": {
+        "$oid": "626a77e96b89e08aaf36cfee"
+      }
+    },
+    {
+      "public_id": "products/cbfkyovlq3biz79vhe3l",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144676/products/cbfkyovlq3biz79vhe3l.jpg",
+      "thumb_id": "products/ryl4f4qyfpmfh0riavpu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144673/products/ryl4f4qyfpmfh0riavpu.jpg",
+      "_id": {
+        "$oid": "626a77e96b89e08aaf36cfef"
+      }
+    },
+    {
+      "public_id": "products/tk3ivi4r0bvadpfpwa7d",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144681/products/tk3ivi4r0bvadpfpwa7d.jpg",
+      "thumb_id": "products/ovteefmt8tgn6s5v7jt5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144679/products/ovteefmt8tgn6s5v7jt5.jpg",
+      "_id": {
+        "$oid": "626a77e96b89e08aaf36cff0"
+      }
+    },
+    {
+      "public_id": "products/jvvrhlfawrllcnpedaty",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144686/products/jvvrhlfawrllcnpedaty.jpg",
+      "thumb_id": "products/gikxsptobnxpqm4vchpl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144684/products/gikxsptobnxpqm4vchpl.jpg",
+      "_id": {
+        "$oid": "626a77e96b89e08aaf36cff1"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:18:01.738Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a79566b89e08aaf36d03f"
+  },
+  "serial": "ENH900EXT",
+  "name": "Outdoor Access Point (2)",
+  "slug": "outdoor-access-point-2",
+  "price": 28569,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>ENH900EXT a high-powered, long-range, 3x3 and Dual-Band Wireless 802.11a / b / g / n access points outdoors with speeds up to 450 Mbps in both the 2.4 GHz and 5 GHz high power radio can be configured as an Access Point or. WDS (AP, stations and bridges) ENH900EXT. Designed for use in a variety of outdoor environments, making it a high-powered, long-term nature of effective alternatives to conventional access points that do not have the access and connection to the growing number of users. wireless applications Want to connect to the business network ENH900EXT. It is easy to install in virtually any place on the integration of PoE (Power over Ethernet) for installing outdoor sprinklers quickly.&nbsp;</p>\n<h5>Hardware</h5>\n<ul>\n<li>&nbsp;RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>&nbsp;Standard: IEEE 802.11a/b/g/n</li>\n<li>&nbsp;Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>&nbsp;Radio II: 11a/n: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>&nbsp;Data Rate: Up to 450 Mbps on both frequency bands</li>\n<li>&nbsp;Memory: 256MB</li>\n<li>&nbsp;Flash Memory: 16MB</li>\n<li>&nbsp;Power Consumption: Up to 34W</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>&nbsp;Six (6) External N-type omni-directional antennas</li>\n<li>&nbsp;Three (3) x 5 dBi omni-directional antennas for 2.4 GHz</li>\n<li>&nbsp;Three (3) x 7 dBi omni-directional antennas for 5 GHz</li>\n</ul>\n<h5>Physical Interface</h5>\n<ul>\n<li>&nbsp;LAN 1: RJ-45 Gigabit Ethernet (10/100/1000 Mbps) - PoE Capable 802.3at (input)</li>\n<li>&nbsp;LAN 2: RJ-45 Gigabit Ethernet (10/100/1000 Mbps) - PoE Capable 802.3af (output)</li>\n<li>&nbsp;Both Gigabit Ethernet ports support Surge Protection up to 1.5KV</li>\n<li>&nbsp;1 x Reset Button on PoE Injector</li>\n<li>&nbsp;1 x Power Connector</li>\n</ul>\n<h5>LED Indicators Power</h5>\n<ul>\n<li>&nbsp;LAN 1</li>\n<li>&nbsp;LAN 2</li>\n<li>&nbsp;2.4 GHz</li>\n<li>&nbsp;5 GHz</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/lmezzaehk7kdjvp4el5b",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145037/products/lmezzaehk7kdjvp4el5b.jpg",
+      "thumb_id": "products/cwqaljr0dhjgm09nbuvk",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145034/products/cwqaljr0dhjgm09nbuvk.jpg",
+      "_id": {
+        "$oid": "626a79566b89e08aaf36d040"
+      }
+    },
+    {
+      "public_id": "products/gdf3vm418vdp4j7jb8ym",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145041/products/gdf3vm418vdp4j7jb8ym.jpg",
+      "thumb_id": "products/coqsyhbneyas2icoisca",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145039/products/coqsyhbneyas2icoisca.jpg",
+      "_id": {
+        "$oid": "626a79566b89e08aaf36d041"
+      }
+    },
+    {
+      "public_id": "products/wklfdlibggfi3kgcor7r",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145047/products/wklfdlibggfi3kgcor7r.jpg",
+      "thumb_id": "products/iof8qvo8lvbilgffkubr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145045/products/iof8qvo8lvbilgffkubr.jpg",
+      "_id": {
+        "$oid": "626a79566b89e08aaf36d042"
+      }
+    },
+    {
+      "public_id": "products/flp6kgeamr3rjg75bto7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145051/products/flp6kgeamr3rjg75bto7.jpg",
+      "thumb_id": "products/y6qedtneo6y9cvpyc0dh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145049/products/y6qedtneo6y9cvpyc0dh.jpg",
+      "_id": {
+        "$oid": "626a79566b89e08aaf36d043"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:24:06.895Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a7a846b89e08aaf36d058"
+  },
+  "serial": "ENH710EXT",
+  "name": "Outdoor Access Point (3)",
+  "slug": "outdoor-access-point-3",
+  "price": 19474,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ENH710EXT can be configured in a number of different modes giving VARs, system integrators, IT managers, and installers the ability to configure the device for discrete functionality based on their unique network topology or scalable needs. With two onboard radios, each can be configured into different operation modes independently, thus the ENH700EXT adds an additional layer of flexibility that single-band Access Points do not offer.</p>\n<p>In Access Point mode, the ENH710EXT expands the overall bandwidth of an outdoor Wi-Fi solution and users who wish to stream video or transfer large files now have the option to associate to any one of the AP’s up to eight configurable 5GHz SSIDs (Service Set Identifiers) – particularly useful in areas where there may be a preponderance of competing and overlapping 2.4GHz signals from Access Points and devices not affiliated with the company’s network.</p>\n<h5>Hardware</h5>\n<ul>\n<li>&nbsp;RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>&nbsp;Standard: IEEE 802.11a/b/g/n</li>\n<li>&nbsp;IEEE 802.11a: 5.15~5.35 GHz, 5.47~5.725 GHz, 5.725~5.825 GHz</li>\n<li>&nbsp;IEEE 802.11b/g: 2.400~2.484 GHz</li>\n<li>&nbsp;Data Rate: Up to 300 Mbps on both frequency bands</li>\n<li>&nbsp;Memory: 128MB</li>\n<li>&nbsp;Flash Memory: 16MB</li>\n<li>&nbsp;Power Consumption: Up to 18.3W</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>&nbsp;Four (4) External 5 dBi omni-directional antennas with N-type connectors</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>&nbsp;Active Ethernet (Power-over-Ethernet)</li>\n<li>&nbsp;Power Adapter (United States) 48V/0.8A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/qjoud8o9dx7f1ghjx99m",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145348/products/qjoud8o9dx7f1ghjx99m.jpg",
+      "thumb_id": "products/n81wviwn9vugyrxan1ps",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145346/products/n81wviwn9vugyrxan1ps.jpg",
+      "_id": {
+        "$oid": "626a7a846b89e08aaf36d059"
+      }
+    },
+    {
+      "public_id": "products/ix6cm5krmswsucygxsyk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145353/products/ix6cm5krmswsucygxsyk.jpg",
+      "thumb_id": "products/cenemjj7grkatn8ohodx",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145351/products/cenemjj7grkatn8ohodx.jpg",
+      "_id": {
+        "$oid": "626a7a846b89e08aaf36d05a"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:29:08.210Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a7c0c6b89e08aaf36d06c"
+  },
+  "serial": "ENS1750",
+  "name": "Outdoor Access Point (4)",
+  "slug": "outdoor-access-point-4",
+  "price": 15950,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Operating on both the 2.4 GHz and 5 GHz frequency bands and supporting 802.11a/b/g/n/ac standards, the ENS1750 features wireless speeds up to 450 Mbps on the 2.4 GHz and 1300 Mbps on the 5 GHz frequency bands and a Gigabit port for connecting to 802.3at-capable PoE Switches. The ENS1750 is built with a higher signal strength and sensitivity than other Access Points in its class allowing for fewer access points required in a deployment. These specifications assist in reducing dead zones in a deployed network. As the ENS1750 is designed to be mounted in high locations where power outlets may be scarce, it also supports PoE (Power-over-Ethernet) IEEE 802.3at with the included PoE injector or 802.3at-capable PoE Switches, drawing up to 22 Watts of power.</p>\n<h5>Hardware</h5>\n<ul>\n<li>Standard: IEEE 802.11a/b/g/n/ac</li>\n<li>Data Rate: Up to 450 Mbps on 2.4 GHz, up to 1300 Mbps on 5 GHz</li>\n<li>Memory: 64MB</li>\n<li>IEEEE 802.3at</li>\n<li>Transmit Power</li>\n<li>2.4 GHz: 29 dBm</li>\n<li>5 GHz: 28 dBm</li>\n<li>Maximum power is limited by regulatory power</li>\n</ul>\n<h5>Temperature Range</h5>\n<ul>\n<li>Operating: -4º~140ºF/-20ºC~60ºC</li>\n<li>Storage: /-22Fº~176ºF/-30ºC~80ºC</li>\n<li>Humidity (non-condensing)</li>\n<li>Operating: 90% or less</li>\n<li>Storage: 90% or less</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>Internal 5 dBi Dual Concurrent Omni Antenna</li>\n<li>Polarization: Linear</li>\n<li>Azimuth Beam-Width: 360°</li>\n<li>Elevation Beam-Width: 2.4 Ghz: 45°, 5 GHz: 40°</li>\n</ul>\n<p></p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ruz5eaeauh7mi4dnrbfx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145741/products/ruz5eaeauh7mi4dnrbfx.jpg",
+      "thumb_id": "products/arplchfjshb5iwxxbf6p",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145740/products/arplchfjshb5iwxxbf6p.jpg",
+      "_id": {
+        "$oid": "626a7c0c6b89e08aaf36d06d"
+      }
+    },
+    {
+      "public_id": "products/gbqeiusmxwumhmfx5mt2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145746/products/gbqeiusmxwumhmfx5mt2.jpg",
+      "thumb_id": "products/m5x8lrkaepnolhsospr2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145744/products/m5x8lrkaepnolhsospr2.jpg",
+      "_id": {
+        "$oid": "626a7c0c6b89e08aaf36d06e"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:35:40.796Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a7cfd6b89e08aaf36d080"
+  },
+  "serial": "ENS1200",
+  "name": "Outdoor Access Point (5)",
+  "slug": "outdoor-access-point-5",
+  "price": 13803,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Operating on both the 2.4 GHz and 5 GHz frequency bands and supporting 802.11a/b/g/n/ac standards, the ENS1200 features wireless speeds up to 300 Mbps on the 2.4 GHz and 866 Mbps on the 5 GHz frequency bands and a Gigabit port for connecting to 802.3at-capable PoE Switches. The ENS1200 is built with a higher signal strength and sensitivity than other Access Points in its class allowing for fewer access points required in a deployment. These specifications assist in reducing dead zones in a deployed WLAN and help boost received signal quality on both ends of the AP as well as client devices in the network.</p>\n<h5>Hardware</h5>\n<ul>\n<li>Standard: IEEE 802.11a/b/g/n/ac</li>\n<li>Data Rate: Up to 300 Mbps on 2.4 GHz, up to 866 Mbps on 5 GHz</li>\n<li>IEEEE 802.3at</li>\n<li>Transmit Power</li>\n<li>2.4 GHz: 27 dBm</li>\n<li>5 GHz: 26 dBm Maximum power is limited by regulatory power</li>\n<li>Power Source</li>\n<li>802.3at Compliant Source</li>\n<li>Active Ethernet (Power over Ethernet, PoE)&nbsp;</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>Internal 5 dBi Dual Concurrent Omni Antenna</li>\n<li>Polarization: Linear</li>\n<li>Azimuth Beam-Width: 360°</li>\n<li>Elevation Beam-Width: 2.4 Ghz: 45°, 5 GHz: 40°</li>\n</ul>\n<h5>Temperature Range</h5>\n<ul>\n<li>Operating: -4º~140ºF/-20ºC~60ºC</li>\n<li>Storage: /-22Fº~176ºF/-30ºC~80ºC</li>\n</ul>\n<h5>Humidity (non-condensing)</h5>\n<ul>\n<li>Operating: 90% or less</li>\n<li>Storage: 90% or less</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/mucnzxl6uxexyv8mqlcz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145982/products/mucnzxl6uxexyv8mqlcz.jpg",
+      "thumb_id": "products/eqejdsmmljudgqlerysy",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145980/products/eqejdsmmljudgqlerysy.jpg",
+      "_id": {
+        "$oid": "626a7cfd6b89e08aaf36d081"
+      }
+    },
+    {
+      "public_id": "products/o7xxkxar8vfru8oulyry",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145986/products/o7xxkxar8vfru8oulyry.jpg",
+      "thumb_id": "products/irc0cszog9clozfbdbhq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651145984/products/irc0cszog9clozfbdbhq.jpg",
+      "_id": {
+        "$oid": "626a7cfd6b89e08aaf36d082"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:39:41.471Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a7df66b89e08aaf36d094"
+  },
+  "serial": "ECB1750",
+  "name": "Wireless Access Point/Client Bridge",
+  "slug": "wireless-access-pointclient-bridge",
+  "price": 10490,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ECB1750 connects to AC compatible computers and other devices (up to 1300 Mbps) exceeding wired Gigabit speeds and nearly 3x faster than Wireless N. The ECB1750’s Gigabit Ethernet port also offers greater bandwidth capacity and faster data transfers through the network. This means that bandwidth sensitive applications such as video and VoIP (Voice over IP) perform with improved quality and a minimum of packet loss. The ECB1750 supports wireless encryption standards such as Wi-Fi Protected Access (WPA-PSK/WPA2-PSK) Encryption, IEEE 802.1X with RADIUS. MAC Address Filtering is also included allowing network administrators to allow or deny network access to client devices (computers, tablet PCs, NAS, smartphones, etc.) according to their MAC addresses.&nbsp;</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>Standards: IEEE 802.11a/n/ac on 5 GHz; IEEE 802.11b/g/n on 2.4 GHz</li>\n<li>Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>Radio II: 11a/n: 5.18-5.24, 5.26-5.32, 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>Data Rate: Up to 450 Mbps on 2.4 GHz and up to 1300 Mbps on 5 Ghz</li>\n<li>Memory: 128MB</li>\n<li>Flash Memory: 16MB</li>\n<li>Peak Power: Up to 22W</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>Six (6) External 5 dBi Omni-Directional Antennas</li>\n<li>Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps) Port with PoE Support</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3at/af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/2A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/lig2zs72cs5ketq8zpdn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146231/products/lig2zs72cs5ketq8zpdn.jpg",
+      "thumb_id": "products/izllus6jicnlw7gzvrtf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146229/products/izllus6jicnlw7gzvrtf.jpg",
+      "_id": {
+        "$oid": "626a7df66b89e08aaf36d095"
+      }
+    },
+    {
+      "public_id": "products/d5igqhsghszcvie6weov",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146236/products/d5igqhsghszcvie6weov.jpg",
+      "thumb_id": "products/o4v8mzsayaiqhtlrhbjg",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146234/products/o4v8mzsayaiqhtlrhbjg.jpg",
+      "_id": {
+        "$oid": "626a7df66b89e08aaf36d096"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:43:50.983Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a7f536b89e08aaf36d0a8"
+  },
+  "serial": "EAP1200H",
+  "name": "Wireless Indoor Access Point",
+  "slug": "wireless-indoor-access-point",
+  "price": 8240,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The EAP1200H leverages the breakthrough speed and performance 802.11ac for connecting to laptops and other devices that need to wirelessly stream HD video or transfer large files. This high-powered 802.11ac 2x2 ceiling mount Dual Band Access Point features speeds up to 300 Mbps on 2.4 GHz, and up to 866 Mbps on the 5 GHz band when associated with AC client devices. It can be configured as an Access Point, Client Bridge, or WDS (AP &amp; Bridge) and features a high transmit RF power of 26 dBm transmit RF power on both 2.4 and 5 GHz frequency bands for long range connectivity. The EAP1200H includes a Gigabit Ethernet port for connecting to 802.3at-capable PoE Switches and an enhanced receive sensitivity MIMO (Multiple In / Multiple Out) integrated sectorized 3D antenna array. It’s an ideal solution for spacious interior environments such as large homes, startups, small and medium-sized businesses, multiple-floor buildings, hotels, hospitals, and other venues wishing to expand their network.</p>\n<h5>Standard</h5>\n<ul>\n<li>IEEE 802.11a/n/ac on 5 GHz</li>\n<li>IEEE 802.11b/g/n on 2.4 GHz</li>\n<li>IEEE 802.3at&nbsp;</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>(4) Integrated 3D Sectorized Antenna Array</li>\n<li>(2) Internal 5 dBi on 2.4 GHz</li>\n<li>(2) Internal 5 dBi on 5 GHz</li>\n</ul>\n<h5>Physical Interface</h5>\n<ul>\n<li>1 x 10.100/1000 Gigabit Ethernet Port with PoE support</li>\n<li>1 x Reset Button</li>\n<li>1 x Power Connector</li>\n<li>LED Indicators</li>\n<li>1 x Power&nbsp;</li>\n<li>1 x LAN&nbsp;</li>\n<li>1 x 2.4 GHz&nbsp;</li>\n<li>1 x 5 GHz&nbsp;</li>\n<li>1 x WPS</li>\n<li>LED Control</li>\n<li>On/Off</li>\n</ul>\n<h5>Power Source</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz</li>\n<li>DC Input: 12VDC/2A</li>\n<li>PoE: Compatible with 802.3at</li>\n<li>Memory Capacity</li>\n<li>16 MB Flash</li>\n<li>128 MB SDRAM</li>\n<li>Wireless &amp; Radio Specifications</li>\n<li>Dual Band, Dual Concurrent Radio</li>\n<li>Operation Modes</li>\n</ul>\n<h5>Access Point</h5>\n<ul>\n<li>WDS Bridge</li>\n<li>WDS Access Point</li>\n</ul>\n<h5>Transmit Power (combined)</h5>\n<ul>\n<li>2.4 GHz up to 26 dBm</li>\n<li>5 GHz up to 26 dBm</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/blyn7lmrutzvpcjtnvd0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146584/products/blyn7lmrutzvpcjtnvd0.jpg",
+      "thumb_id": "products/dvs9vdsaia1odoy7b97b",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146582/products/dvs9vdsaia1odoy7b97b.jpg",
+      "_id": {
+        "$oid": "626a7f536b89e08aaf36d0a9"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:49:39.859Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a802c6b89e08aaf36d0bb"
+  },
+  "serial": "ECB600",
+  "name": "Wireless N Indoor Access Point",
+  "slug": "wireless-n-indoor-access-point",
+  "price": 8669,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>With the dual band Wireless N600 ECB600, companies can now offer employees, guests, staff or students more expanded options for users who transfer large files within the network or use other bandwidth intensive applications like streaming HD video. The AP’s Gigabit Ethernet (10/100/1000) port also offers greater bandwidth capacity and faster data transfers through the network. This high-powered Access Point/Bridge with its enhanced receive sensitivity and internal MIMO (Multiple In/Multiple Out) antenna array extends wireless coverage and enhances connectivity to client devices even in areas where connections have been previously challenging or non-existent and in some buildings it’s wireless signal can penetrate up to 3 floors. This makes the ECB600 ideal for extending networks within large or multi-story buildings or expansive, client-intensive facilities like hotels, resorts, hospitals, office buildings, universities or other multi-building campus facilities.&nbsp;</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>Standard: IEEE 802.11a/b/g/n</li>\n<li>Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>Radio II: 11a/n: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>Data Rate: Up to 300 Mbps in both frequency bands</li>\n<li>Memory: 64MB</li>\n<li>Flash Memory: 8MB</li>\n<li>Power Consumption: Up to 14W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Four (4) External 5 dBi Omni-Directional Antennas Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3at/af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/2A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/qqowpz53odml1wxtkfrm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146796/products/qqowpz53odml1wxtkfrm.jpg",
+      "thumb_id": "products/czcv7ie3o85yc6zsc8hd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146794/products/czcv7ie3o85yc6zsc8hd.jpg",
+      "_id": {
+        "$oid": "626a802c6b89e08aaf36d0bc"
+      }
+    },
+    {
+      "public_id": "products/ykvxsodp098g9rpnucjw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146801/products/ykvxsodp098g9rpnucjw.jpg",
+      "thumb_id": "products/bc4ptpejztcojke2yetb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651146799/products/bc4ptpejztcojke2yetb.jpg",
+      "_id": {
+        "$oid": "626a802c6b89e08aaf36d0bd"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:53:16.637Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a81506b89e08aaf36d0cf"
+  },
+  "serial": "EAP1750H",
+  "name": "Mount Wireless Access Point/WDS",
+  "slug": "mount-wireless-access-pointwds",
+  "price": 9630,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The EAP1750H leverages the breakthrough speed and performance 802.11ac for connecting to laptops and other devices that need to wirelessly stream HD video or transfer large files. The EAP1750H is an 802.11ac 3x3 Indoor Access Point. This high-powered ceiling mount Dual band Access Point features speeds up to 450 Mbps on 2.4 GHz and up to 1300 Mbps on the 5 GHz band when associated with AC client devices. It can be configured as an Access Point, Client Bridge, or WDS (AP &amp; Bridge) and features a high transmit RF power of 28 dBm transmit RF power on both the 2.4/5 GHz bands for long range connectivity. The EAP1750H includes a Gigabit Ethernet port for connecting to 802.3at-capable PoE Switches and an enhanced receive sensitivity MIMO (Multiple In / Multiple Out) integrated sectorized 3D antenna array. It’s an ideal solution for spacious interior environments such as large homes, small and medium-sized businesses, multiple-floor buildings, hotels, hospitals, and other venues.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>Standards: IEEE 802.11a/n/ac on 5 GHz; IEEE 802.11b/g/n on 2.4 GHz</li>\n<li>Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>Radio II: 11a/n/ac: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>Data Rate: Up to 1300 Mbps in 5 GHz; Up to 450 Mbps in 2.4 GHz</li>\n<li>Memory: 128MB</li>\n<li>Flash Memory: 16MB</li>\n<li>Power Consumption: Up to 22W</li>\n</ul>\n<h5>Antenna Array</h5>\n<ul>\n<li>Integrated 3D Sectorized Antenna Array</li>\n<li>4 dBi on 2.4 GHz</li>\n<li>5 dBi on 5 GHz</li>\n</ul>\n<h5>Physical Interface</h5>\n<ul>\n<li>1 x RJ-45 Gigabit Ethernet Port (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>1 x Power Connector</li>\n</ul>\n<h5>LED Indicators</h5>\n<ul>\n<li>Power</li>\n<li>WPS</li>\n<li>2.4 GHz</li>\n<li>5 GHz</li>\n</ul>\n<h5>&nbsp;LAN</h5>\n<ul>\n<li>Power Requirements&nbsp;</li>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>Active Ethernet: (Power-over-Ethernet, IEEE 802.3at)</li>\n<li>Power Adapter: 12V/2A</li>\n</ul>\n<p></p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ky3zyynpu95xsi0m0eht",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147088/products/ky3zyynpu95xsi0m0eht.jpg",
+      "thumb_id": "products/pridnibqcvzp0os2db9t",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147086/products/pridnibqcvzp0os2db9t.jpg",
+      "_id": {
+        "$oid": "626a81506b89e08aaf36d0d0"
+      }
+    },
+    {
+      "public_id": "products/njtmbucuj4jqy7camxre",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147093/products/njtmbucuj4jqy7camxre.jpg",
+      "thumb_id": "products/djnjc44kgrj27gqeji98",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147091/products/djnjc44kgrj27gqeji98.jpg",
+      "_id": {
+        "$oid": "626a81506b89e08aaf36d0d1"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T11:58:08.151Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a82c06b89e08aaf36d0e3"
+  },
+  "serial": "EAP600",
+  "name": "Wireless-N Access Point with Gigabit",
+  "slug": "wireless-n-access-point-with-gigabit",
+  "price": 6640,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>With the Dual Band Wireless N600 EAP600 companies can now offer employees, guests, staff or students more expanded options for transferring large files within the network or when using other bandwidth intensive applications like streaming HD video. The AP’s Gigabit Ethernet (10/100/1000) port also offers greater bandwidth capacity and faster data transfers through the network. This high-powered Access Point/Bridge with its enhanced receive sensitivity and internal MIMO (Multiple In/Multiple Out) antenna array extends wireless coverage and enhances connectivity to client devices even in areas where connections have been previously challenging or non-existent and in some buildings it’s wireless signal can penetrate up to 3 floors. This makes the EAP600 ideal for extending networks within large or multi-story buildings or expansive, client-intensive facilities like hotels, resorts, hospitals, office buildings, universities or other multi-building campus facilities.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>Standard: IEEE 802.11a/b/g/n</li>\n<li>Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>Radio II: 11a/n: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>Data Rate: Up to 300 Mbps in both frequency bands</li>\n<li>Memory: 64MB</li>\n<li>Flash Memory: 8MB</li>\n<li>Power: Consumption: Up to 16W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Four (4) Internal 5 dBi Omni-Directional Antennas Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 H (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3at/af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/2A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/k3ay4bjvuxrt367xr6qn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147427/products/k3ay4bjvuxrt367xr6qn.jpg",
+      "thumb_id": "products/bmlwrpbvglobrejlzbct",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147423/products/bmlwrpbvglobrejlzbct.jpg",
+      "_id": {
+        "$oid": "626a82c06b89e08aaf36d0e4"
+      }
+    },
+    {
+      "public_id": "products/g4sclq5e0h3xphfyuphg",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147436/products/g4sclq5e0h3xphfyuphg.jpg",
+      "thumb_id": "products/kh55rkmjwy5zwa1hhtap",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147432/products/kh55rkmjwy5zwa1hhtap.jpg",
+      "_id": {
+        "$oid": "626a82c06b89e08aaf36d0e5"
+      }
+    },
+    {
+      "public_id": "products/b08hnbjf1vk1uktmh1uj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147443/products/b08hnbjf1vk1uktmh1uj.jpg",
+      "thumb_id": "products/nox3mhol3im9cxau4fhc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147439/products/nox3mhol3im9cxau4fhc.jpg",
+      "_id": {
+        "$oid": "626a82c06b89e08aaf36d0e6"
+      }
+    },
+    {
+      "public_id": "products/ekz1rirzfqomj9jq4i6w",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147451/products/ekz1rirzfqomj9jq4i6w.jpg",
+      "thumb_id": "products/o4s4jjterhkwb6gw5bjt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147447/products/o4s4jjterhkwb6gw5bjt.jpg",
+      "_id": {
+        "$oid": "626a82c06b89e08aaf36d0e7"
+      }
+    },
+    {
+      "public_id": "products/comiz8bvu1ma1nzybiob",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147459/products/comiz8bvu1ma1nzybiob.jpg",
+      "thumb_id": "products/o6rurel25ijq0ytinp78",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147456/products/o6rurel25ijq0ytinp78.jpg",
+      "_id": {
+        "$oid": "626a82c06b89e08aaf36d0e8"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:04:16.733Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a83be6b89e08aaf36d0fa"
+  },
+  "serial": "ECB300",
+  "name": "Wireless-N Access Point",
+  "slug": "wireless-n-access-point",
+  "price": 3860,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>This high-powered AP/CB is designed to expand the number of users and devices that can access an existing wireless network within large or multi-story buildings or expansive, client-intensive facilities like hotels, resorts, hospitals, office buildings, universities or other multi-building campus facilities that need to offer employees, guests, staff or students access to network resources like printers, content or the Internet. The ECB300 can be configured to operate in several modes – as a Wireless-N Access Point, Client Bridge, WDS Access Point, WDS Bridge, Repeater, or AP Router.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 GHz Frequency Band</li>\n<li>Standard: IEEE 802.11b/g/n</li>\n<li>IEEE 802.11b/g: 2.400~2.484 GHz</li>\n<li>Data Rate: Up to 300 Mbps</li>\n<li>Memory: 32MB</li>\n<li>Flash Memory: 4MB</li>\n<li>Power Consumption: Up to 9W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Two (2) External 5 dBi Omni-Directional SMA Antennas (diversity support) Physical Interface</li>\n<li>1 x RJ-45 Fast Ethernet (10/100 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n<li>LEDs Status</li>\n</ul>\n<h5>&nbsp;Power</h5>\n<ul>\n<li>LAN (10/100 Mbps)</li>\n<li>WLAN (Wireless Connection)</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/1A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hlk26iszzrcckynydgy4",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147705/products/hlk26iszzrcckynydgy4.jpg",
+      "thumb_id": "products/ovxjnshgfnztztorlmav",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147703/products/ovxjnshgfnztztorlmav.jpg",
+      "_id": {
+        "$oid": "626a83be6b89e08aaf36d0fd"
+      }
+    },
+    {
+      "public_id": "products/etui6qerxfy5uyh08odl",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147700/products/etui6qerxfy5uyh08odl.jpg",
+      "thumb_id": "products/dvdxfwxsi646s2aysqvk",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147698/products/dvdxfwxsi646s2aysqvk.jpg",
+      "_id": {
+        "$oid": "626a83be6b89e08aaf36d0fc"
+      }
+    },
+    {
+      "public_id": "products/u6m8k8e3lnv4pkmxa8dw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147710/products/u6m8k8e3lnv4pkmxa8dw.jpg",
+      "thumb_id": "products/jegeacbfvsuhzrava7cn",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147708/products/jegeacbfvsuhzrava7cn.jpg",
+      "_id": {
+        "$oid": "626a83be6b89e08aaf36d0fe"
+      }
+    },
+    {
+      "public_id": "products/nrryirsxme7j5lo1j8e0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147695/products/nrryirsxme7j5lo1j8e0.jpg",
+      "thumb_id": "products/bmgxl3rsz9jgzmg9uepa",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147693/products/bmgxl3rsz9jgzmg9uepa.jpg",
+      "_id": {
+        "$oid": "626a83be6b89e08aaf36d0fb"
+      }
+    },
+    {
+      "public_id": "products/tae9dyhwco472dt2cmql",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147715/products/tae9dyhwco472dt2cmql.jpg",
+      "thumb_id": "products/jshheuzwco2pqqy5kmfd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147713/products/jshheuzwco2pqqy5kmfd.jpg",
+      "_id": {
+        "$oid": "626a83be6b89e08aaf36d0ff"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:08:30.618Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a84bb6b89e08aaf36d15b"
+  },
+  "serial": "EAP900H",
+  "name": "Wireless N900 Indoor Access Point",
+  "slug": "wireless-n900-indoor-access-point",
+  "price": 7600,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The EAP900H is a high-powered Dual band N900 Indoor Ceiling Mount Access Point for hotels, resorts, hospitals, office buildings, universities, or other multi-building campus environments or large homes that need to extend and expand an existing network wirelessly. The EAP900H supports large file transfers and HD media streaming, as well as PMKSA support that ensures seamless handovers of a client device’s active sessions from one EAP900H access point to another to maintain a reliable connection to the network so hotel guests, patrons, employees, doctors, staff and others can maintain constant connection and watch video or transfer files without interruption no matter where they roam within a large, multi-story facility.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 and 5 GHz Frequency Bands</li>\n<li>Standard: IEEE 802.11a/b/g/n</li>\n<li>Radio I: 11b/g/n: 2.412~2.484 GHz</li>\n<li>Radio II: 11a/n: 5.18-5.24 and 5.26-5.32 and 5.5-5.7 and 5.745-5.825 GHz</li>\n<li>Data Rate: Up to 450 Mbps in both frequency bands</li>\n<li>Memory: 64MB</li>\n<li>Flash Memory: 8MB</li>\n<li>Power Consumption: Up to 22W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Six (6) Internal 5 dBi Omni-Directional Antennas</li>\n<li>Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>1 x Power Connector</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz(depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3at)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/2A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/bwweyenchaptgk4fyxx7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147963/products/bwweyenchaptgk4fyxx7.jpg",
+      "thumb_id": "products/isrkeatswvmjsje9qa7e",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147961/products/isrkeatswvmjsje9qa7e.jpg",
+      "_id": {
+        "$oid": "626a84bb6b89e08aaf36d15c"
+      }
+    },
+    {
+      "public_id": "products/xeufyodmd59ahmyxrdhx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147968/products/xeufyodmd59ahmyxrdhx.jpg",
+      "thumb_id": "products/ugtfjgcncerzzth6zkyp",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651147966/products/ugtfjgcncerzzth6zkyp.jpg",
+      "_id": {
+        "$oid": "626a84bb6b89e08aaf36d15d"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:12:43.384Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a86336b89e08aaf36d16f"
+  },
+  "serial": "ECB350",
+  "name": "Wireless-N Access Point/Client Bridge",
+  "slug": "wireless-n-access-pointclient-bridge",
+  "price": 5250,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ECB350 features eight different operation modes to meet the changing needs of evolving business The ECB350’s robust transmit power, enhanced receive sensitivity and its MIMO (Multiple In/Multiple Out) antenna array extends wireless coverage and enhances connectivity to client devices even in areas where connections have been previously challenging or non-existent. This capability also helps to reduce the number of Access Points needed to deploy over large properties and helps to eliminate the need for roaming clients to constantly re-associate to different APs in the building or throughout the property. For deployments near ceilings or in crawlspaces where power outlets may be scarce, the ECB350 is also PoE (Power-over-Ethernet) capable when used with a PoE injector, like the 802.3af compliant EnGenius EPE5818Gaf. environments.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 GHz Frequency Band</li>\n<li>Standard: IEEE 802.11b/g/n</li>\n<li>IEEE 802.11b/g: 2.400~2.484 GHz</li>\n<li>Data Rate: Up to 300 Mbps</li>\n<li>Memory: 32MB</li>\n<li>Flash Memory: 8MB</li>\n<li>Power Consumption: Up to 7W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Two (2) External 5 dBi Omni-Directional SMA Antennas (diversity support) Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n<li>LEDs Status</li>\n</ul>\n<p>Power</p>\n<ul>\n<li>LAN (10/100/1000 Mbps)</li>\n<li>WLAN (Wireless Connection)</li>\n<li>Power Requirements&nbsp;</li>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz(depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/1A</li>\n</ul>\n",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/ppj3wsjiyihbysadzdhr",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148328/products/ppj3wsjiyihbysadzdhr.jpg",
+      "thumb_id": "products/chjbsijgplqmu0fisobh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148326/products/chjbsijgplqmu0fisobh.jpg",
+      "_id": {
+        "$oid": "626a86336b89e08aaf36d170"
+      }
+    },
+    {
+      "public_id": "products/jzrwnm5kwrhmgcels0y5",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148333/products/jzrwnm5kwrhmgcels0y5.jpg",
+      "thumb_id": "products/rffntlo1uy0pyx8gqwpi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148331/products/rffntlo1uy0pyx8gqwpi.jpg",
+      "_id": {
+        "$oid": "626a86336b89e08aaf36d171"
+      }
+    },
+    {
+      "public_id": "products/awuvlxvfz2kvxyj1yjvc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148339/products/awuvlxvfz2kvxyj1yjvc.jpg",
+      "thumb_id": "products/zku9alvxgszybujmwbl9",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148336/products/zku9alvxgszybujmwbl9.jpg",
+      "_id": {
+        "$oid": "626a86336b89e08aaf36d172"
+      }
+    },
+    {
+      "public_id": "products/emjmaenqdv8ir6xehbdz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148344/products/emjmaenqdv8ir6xehbdz.jpg",
+      "thumb_id": "products/ocx4kugzano6f5owcdgd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148341/products/ocx4kugzano6f5owcdgd.jpg",
+      "_id": {
+        "$oid": "626a86336b89e08aaf36d173"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 5,
+      "comment": "<p>A fine router!</p>\r\n",
+      "_id": {
+        "$oid": "626abd7dbb962260d668282a"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-28T16:14:53.575Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T12:18:59.273Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a871e6b89e08aaf36d185"
+  },
+  "serial": "EAP350",
+  "name": "Wireless N350 Indoor Access Point",
+  "slug": "wireless-n350-indoor-access-point",
+  "price": 5460,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>This high-powered Access Point/WDS/Repeater is designed for extending networks within large or multi-story buildings or expansive, client-intensive facilities like hotels, resorts, hospitals, office buildings, universities or other multi-building campus facilities that need to offer employees, guests, staff or students access to network resources like printers, content or the Internet.   The EAP350 also features industry standard wireless network encryption settings, like WEP, and WPA/WPA2, to protect the network from unauthorized access. For small-to-medium-sized office or larger corporate deployments the EAP350 also can be configured with MAC address filtering so only known and MAC address recognized client devices can access the network and unauthorized client devices can be isolated.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 GHz Frequency Band</li>\n<li>Standard: IEEE 802.11b/g/n</li>\n<li>IEEE 802.11b/g: 2.400~2.484 GHz</li>\n<li>Data Rate: Up to 300 Mbps</li>\n<li>Memory: 32MB</li>\n<li>Flash Memory: 4MB</li>\n<li>Power Consumption: Up to 9W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Internal 5 dBi Omni-Directional Antenna (diversity support) Physical Interface</li>\n<li>1 x RJ-45 Gigabit Ethernet (10/100/1000 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n<li>LEDs Status</li>\n</ul>\n<h5>&nbsp;Power</h5>\n<ul>\n<li>LAN (10/100/1000 Mbps)</li>\n<li>WLAN (Wireless Connection)</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/1A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/fbjuk6nrnvazs3hxywrj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148574/products/fbjuk6nrnvazs3hxywrj.jpg",
+      "thumb_id": "products/okfyzkowvj6iy8na5yyb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148572/products/okfyzkowvj6iy8na5yyb.jpg",
+      "_id": {
+        "$oid": "626a871e6b89e08aaf36d186"
+      }
+    },
+    {
+      "public_id": "products/sm92lis4lj7iaejukdps",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148579/products/sm92lis4lj7iaejukdps.jpg",
+      "thumb_id": "products/crkvkrmfaoo7vpg9sqlm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148577/products/crkvkrmfaoo7vpg9sqlm.jpg",
+      "_id": {
+        "$oid": "626a871e6b89e08aaf36d187"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:22:54.706Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a882d6b89e08aaf36d1b2"
+  },
+  "serial": "EAP300",
+  "name": "Wireless N300 Indoor Access Point",
+  "slug": "wireless-n300-indoor-access-point",
+  "price": 4500,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The EAP300 is a high-powered, long-range Wireless N300 Indoor Access Point that operates in the 2.4 GHz frequency band to provide wireless connectivity to users and their wireless devices in office, hotel or educational venues. The Access Point features up to 29 dBm transmit power that delivers long-range coverage and enables its wireless signal to better penetrate walls, ceiling and floors.  The EAP300 supports WPA/WPA2 wireless encryption to protect the wireless network from unauthorized access. MAC address filtering additionally lets network administrators to select exactly which devices should have access to the network. In addition, a user isolation function can protect the private network between client users.</p>\n<h5>Hardware</h5>\n<ul>\n<li>RF: 2.4 GHz Frequency Band</li>\n<li>Standard: IEEE 802.11b/g/n</li>\n<li>IEEE 802.11b/g: 2.400~2.484 GHz</li>\n<li>Data Rate: Up to 300 Mbps</li>\n<li>Memory: 32MB</li>\n<li>Flash Memory: 4MB</li>\n<li>Power Consumption: Up to 4W</li>\n</ul>\n<h5>Antenna</h5>\n<ul>\n<li>Internal 5 dBi Omni-Directional Antenna (diversity support) Physical Interface</li>\n<li>1 x RJ-45 Fast Ethernet (10/100 Mbps)</li>\n<li>1 x Reset Button</li>\n<li>Power Jack</li>\n<li>LEDs Status</li>\n</ul>\n<h5>&nbsp;Power</h5>\n<ul>\n<li>LAN (10/100 Mbps)</li>\n<li>WLAN (Wireless Connection)</li>\n</ul>\n<h5>Power Requirements&nbsp;</h5>\n<ul>\n<li>Power Supply: 90 to 240 VDC ± 10%, 50/60 Hz  (depends on different countries)</li>\n<li>Active Ethernet (Power-over-Ethernet, IEEE 802.3af)</li>\n<li>Power Adapter (United States) 48VDC/0.375A</li>\n<li>Device: 12V/1A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/bjdevpbgoe7zcuiljugu",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148844/products/bjdevpbgoe7zcuiljugu.jpg",
+      "thumb_id": "products/svvbowi2qugrcxxpzfau",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148842/products/svvbowi2qugrcxxpzfau.jpg",
+      "_id": {
+        "$oid": "626a882d6b89e08aaf36d1b3"
+      }
+    },
+    {
+      "public_id": "products/zjz0htfgizm6pvzqpkyy",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148850/products/zjz0htfgizm6pvzqpkyy.jpg",
+      "thumb_id": "products/jrbbsvtmmxuxuz8taodl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651148847/products/jrbbsvtmmxuxuz8taodl.jpg",
+      "_id": {
+        "$oid": "626a882d6b89e08aaf36d1b4"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:27:25.026Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a891c6b89e08aaf36d1c6"
+  },
+  "serial": "ESR1750",
+  "name": "Wireless AC1750 IoT Gigabit Cloud Router with USB Port",
+  "slug": "wireless-ac1750-iot-gigabit-cloud-router-with-usb-port",
+  "price": 4930,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ESR1750 also supports several security features and settings including industry standard wireless encryption, such as WPA/WPA2 (Wireless Protected Access) to prevent unauthorized access to the home network; an advanced SPI (Stateful Packet Inspection) firewall to block malicious software from the Internet from accessing networked devices; MAC Address filtering to grant only known computers and devices network access; and URL filtering to block access to unwanted or offensive websites. The ESR1750 also includes robust VPN (Virtual Private Network) features so remote workers can securely connect to a corporate office while still meets the sharing and Internet access needs of other family members and their devices.</p>\n<h5>Device Interface&nbsp;</h5>\n<ul>\n<li>Gigabit WAN Port</li>\n<li>4 Gigabit LAN Ports</li>\n<li>USB2.0 Port</li>\n<li>Push Button for WPS Reset Button</li>\n</ul>\n<h5>Frequency Bands</h5>\n<ul>\n<li>2.400~2.484 GHz (11b/11g/11n)</li>\n<li>5.18~5.82 GHz (11a/11n/ac)</li>\n</ul>\n<h5>Operating Mode</h5>\n<ul>\n<li>AP Router</li>\n</ul>\n<h5>Wireless Features</h5>\n<ul>\n<li>Auto Channel Selection</li>\n<li>Output Power Control</li>\n<li>WMM (Wireless Multimedia)</li>\n<li>MSSID (Multiple SSID)</li>\n<li>LED Indicators Power</li>\n<li>WLAN (Wireless Connection) Internet</li>\n<li>Package Contents ESR1750 Router&nbsp;</li>\n<li>Power Adapter (12V 1.5A)</li>\n<li>Power Specification External Power Adapter</li>\n<li>DC In, 12V 1.5A</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/lt6l6wthadowb7vp96hb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149090/products/lt6l6wthadowb7vp96hb.jpg",
+      "thumb_id": "products/rksemr4t9mnljtsaeseo",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149087/products/rksemr4t9mnljtsaeseo.jpg",
+      "_id": {
+        "$oid": "626a891c6b89e08aaf36d1c9"
+      }
+    },
+    {
+      "public_id": "products/lzecnmamw0utckmrtou2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149085/products/lzecnmamw0utckmrtou2.jpg",
+      "thumb_id": "products/csyarvexzwdjpkeukj4g",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149082/products/csyarvexzwdjpkeukj4g.jpg",
+      "_id": {
+        "$oid": "626a891c6b89e08aaf36d1c8"
+      }
+    },
+    {
+      "public_id": "products/rwjsqidrtku0mrpiek14",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149080/products/rwjsqidrtku0mrpiek14.jpg",
+      "thumb_id": "products/m7wpwamusrpkmqijbbnj",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149078/products/m7wpwamusrpkmqijbbnj.jpg",
+      "_id": {
+        "$oid": "626a891c6b89e08aaf36d1c7"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:31:24.993Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a8a7f6b89e08aaf36d208"
+  },
+  "serial": "ESR900",
+  "name": "N900 Gigabit Cloud Router with USB Port",
+  "slug": "n900-gigabit-cloud-router-with-usb-port",
+  "price": 4930,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ESR900’s high transmit power capability is designed to deliver extended range and expanded coverage so your family can connect more devices throughout your home. The ESR900 also supports several security features and settings including industry standard wireless encryption, such as WPA/WPA2 (Wireless Protected Access) to prevent unauthorized access to the home network; an advanced SPI (Stateful Packet Inspection) firewall to block malicious software from the Internet from accessing networked devices; MAC Address filtering to grant only known computers and devices network access; and URL filtering to block access to unwanted or offensive websites. The ESR900 also includes robust VPN (Virtual Private Network) features so remote workers can securely connect to a corporate office while still meets the sharing and Internet access needs of other family members and their devices.</p>\n<h5>Device Interface</h5>\n<ul>\n<li>Gigabit WAN Port</li>\n<li>4 Gigabit LAN Ports</li>\n<li>USB2.0 Port</li>\n<li>Push Button for WPS Reset Button</li>\n</ul>\n<h5>IEEE Standards</h5>\n<ul>\n<li>802.11a/b/g/n</li>\n<li>Up to 450 Mbps wireless speed in both the 2.4 and 5 GHz frequency bands 802.3i/u/ab</li>\n<li>LED Indicators  Power</li>\n<li>WLAN (Wireless Connection) Internet</li>\n</ul>\n<h5>Package Contents</h5>\n<ul>\n<li>ESR900 Router&nbsp;</li>\n<li>Power Adapter (12V 1.5A)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/qq3gbpdwf77riiwanmfo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149434/products/qq3gbpdwf77riiwanmfo.jpg",
+      "thumb_id": "products/chekrkkeshfha0p9djer",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149431/products/chekrkkeshfha0p9djer.jpg",
+      "_id": {
+        "$oid": "626a8a7f6b89e08aaf36d209"
+      }
+    },
+    {
+      "public_id": "products/dzft4tqym5mr5hikh1gn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149444/products/dzft4tqym5mr5hikh1gn.jpg",
+      "thumb_id": "products/wlqaml8obvlmowxao5te",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149442/products/wlqaml8obvlmowxao5te.jpg",
+      "_id": {
+        "$oid": "626a8a7f6b89e08aaf36d20b"
+      }
+    },
+    {
+      "public_id": "products/gmqeoa6ok4tg6nxlgezj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149439/products/gmqeoa6ok4tg6nxlgezj.jpg",
+      "thumb_id": "products/mha9yfzth0lhahjs1kil",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149437/products/mha9yfzth0lhahjs1kil.jpg",
+      "_id": {
+        "$oid": "626a8a7f6b89e08aaf36d20a"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:37:19.629Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a8b9d6b89e08aaf36d23f"
+  },
+  "serial": "ESR600",
+  "name": "Wireless N600 IoT Gigabit Cloud Router with USB Port",
+  "slug": "wireless-n600-iot-gigabit-cloud-router-with-usb-port",
+  "price": 3120,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The ESR600’s high transmit power capability is designed to deliver extended range and expanded coverage so your family can connect more devices throughout your home. The ESR600 also supports several security features and settings including industry standard wireless encryption, such as WPA/WPA2 (Wireless Protected Access) to prevent unauthorized access to the home network; an advanced SPI (Stateful Packet Inspection) firewall to block malicious software from the Internet from accessing networked devices; MAC Address filtering to grant only known computers and devices network access; and URL filtering to block access to unwanted or offensive websites. The ESR600 also includes robust VPN (Virtual Private Network) features so remote workers can securely connect to a corporate office while still meets the sharing and Internet access needs of other family members and their devices.</p>\n<h5>Device Interface</h5>\n<ul>\n<li>Gigabit WAN Port</li>\n<li>4 Gigabit LAN Ports</li>\n<li>USB2.0 Port</li>\n<li>Push Button for WPS Reset Button</li>\n</ul>\n<h5>IEEE Standards</h5>\n<ul>\n<li>802.11a/b/g/n</li>\n<li>Up to 300 Mbps wireless speed in both the 2.4 and 5 GHz frequency bands 802.3i/u/ab</li>\n<li>LED Indicators Power</li>\n<li>WLAN (Wireless Connection) Internet</li>\n</ul>\n<h5>Package Contents</h5>\n<ul>\n<li>ESR600 Router&nbsp;</li>\n<li>Power Adapter (12V 1.25A)</li>\n</ul>\n<h5>Power Specification</h5>\n<ul>\n<li>External Power Adapter DC In, 12V 1.25A</li>\n<li>Frequency Bands</li>\n<li>2.400~2.484 GHz (11b/11g/11n)</li>\n<li>5.18~5.82 GHz (11a/11n)</li>\n</ul>\n<h5>Operating Mode</h5>\n<ul>\n<li>AP Router/WDS</li>\n</ul>\n<h5>Wireless Features</h5>\n<ul>\n<li>Auto Channel Selection</li>\n<li>Output Power Control</li>\n<li>WMM (Wireless Multimedia)</li>\n<li>MSSID (Multiple SSID)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/umf3zlrr5n06fos0jpfj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149724/products/umf3zlrr5n06fos0jpfj.jpg",
+      "thumb_id": "products/enrrvttn5czvswfzzmlq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149722/products/enrrvttn5czvswfzzmlq.jpg",
+      "_id": {
+        "$oid": "626a8b9d6b89e08aaf36d240"
+      }
+    },
+    {
+      "public_id": "products/w4cwiavdlcwfxxa73uaw",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149730/products/w4cwiavdlcwfxxa73uaw.jpg",
+      "thumb_id": "products/wki4e2inv6qpdmel12ba",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149728/products/wki4e2inv6qpdmel12ba.jpg",
+      "_id": {
+        "$oid": "626a8b9d6b89e08aaf36d241"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:42:05.693Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a8c7b6b89e08aaf36d253"
+  },
+  "serial": "EPE-4818G",
+  "name": "Gigabit Power-over-Ethernet (PoE) Injector",
+  "slug": "gigabit-power-over-ethernet-poe-injector",
+  "price": 1610,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The EPE-4818G gives network administrators, IT managers, and installers the option to place PoE-client devices on or near ceilings or in crawl-spaces where power outlets may not be available and power Access Points or while at the same time connecting them to the company’s network. The EPE-4818G PoE injector features two Gigabit Ethernet (10/100/1000 Mbps) ports; one port for connecting to an Ethernet Switch and the other for connecting to a PoE-enabled device.</p>\n<h5>Standard</h5>\n<ul>\n<li>IEEE 802.3 10Base-T</li>\n<li>IEEE 802.3u 100Base-T</li>\n<li>IEEE 802.3ab Gigabit Ethernet</li>\n</ul>\n<h5>Protocol</h5>\n<ul>\n<li>CSMA/CD</li>\n</ul>\n<h5>Ports</h5>\n<ul>\n<li>data-In</li>\n<li>PoE Out</li>\n<li>DC Jack</li>\n</ul>\n<h5>Data Lines</h5>\n<ul>\n<li>Pair 1: Pin1 (Rx+)/Pin2 (Rx-)</li>\n<li>Pair 2: Pin3 (Tx+)/Pin6 (Tx-)</li>\n<li>Pair 3: Pin4 (Vdc)/Pin5 (Vdc-)</li>\n<li>Pair 4: PIn7 (Vdc-)/Pin8 (Vdc-)</li>\n</ul>\n<h5>Power Lines</h5>\n<ul>\n<li>Pair 3: 4/5</li>\n<li>Pair 4: 7/8</li>\n<li>Diagnostics LED</li>\n<li>Power: Green</li>\n</ul>\n<h5>Power Output</h5>\n<ul>\n<li>Provides up to 24W</li>\n<li>Input: AC100-240 V, 50-60 Hz</li>\n<li>Output: DC 48V/0.5A (Maximum Output)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/kjzj0bpy1mbxubtdvuuq",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149952/products/kjzj0bpy1mbxubtdvuuq.jpg",
+      "thumb_id": "products/oijdvd0gphefyjjea7ft",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651149950/products/oijdvd0gphefyjjea7ft.jpg",
+      "_id": {
+        "$oid": "626a8c7b6b89e08aaf36d254"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:45:47.602Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a8d0a6b89e08aaf36d266"
+  },
+  "serial": "EGS1005",
+  "name": "Five-Port Gigabit Switch",
+  "slug": "five-port-gigabit-switch",
+  "price": 1290,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>EnGenius EGS1005 is 5-Port Gigabit Switch for families that need to attach additional home entertainment devices (game consoles, DVRs, HDTVs, Blu-ray players, and set top boxes) to their home’s router. Once connected to the router via the EGS1005, these devices can access the family’s Internet connection and access subscription-based entertainment services.  For AV enthusiasts, the EGS1005 is an ideal and cost-effective way to quickly expand the number of entertainment devices in a home theater that have access to one another or the family’s Internet connection available from a gateway or home router. For gamers, the switch’s outrageously fast wired speed (up to 1,000 Mbps) eliminates lag and make multi-player gaming more fun and intense</p>\n<ul>\n<li>5 Gigabit Ethernet ports</li>\n<li>10Gbps Switching Fabric</li>\n<li>Auto MDI/MDIX cross over for all ports</li>\n<li>Secure store-and-forward switching scheme</li>\n<li>Full/half-duplex for Ethernet/Fast Ethernet speeds</li>\n<li>IEEE 802.3x flow control</li>\n<li>Supports 9KBytes Jumbo frames (supported in 1000Mbps)</li>\n<li>Supports IEEE802.1p QoS (8 Queues, Strict Mode)</li>\n<li>Supports H/W IGMPv1/v2 and MLDv1 Snooping</li>\n<li>Supports Loopback Detection</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/gjbkgqnfxwj9jk0g5c9f",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150095/products/gjbkgqnfxwj9jk0g5c9f.jpg",
+      "thumb_id": "products/hcgkufj3fr9udlrpkhl2",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150093/products/hcgkufj3fr9udlrpkhl2.jpg",
+      "_id": {
+        "$oid": "626a8d0a6b89e08aaf36d267"
+      }
+    }
+  ],
+  "categoryOne": "Network and WIFI",
+  "categoryTwo": "Engenius",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:48:10.076Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "network-and-wifi",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "engenius"
+},{
+  "_id": {
+    "$oid": "626a8e3a6b89e08aaf36d280"
+  },
+  "serial": "APC Smart 1000XLI",
+  "name": "APC Smart 1000XLI",
+  "slug": "apc-smart-1000xli",
+  "price": 25260,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Smart-UPS RT is a family of high performance UPSs for servers, networking equipment, telecommunication systems, industrial and medical equipment, and other mission-critical applications. Smart-UPS RT UPSs are based on the field-proven, industry-leading Smart-UPS functionality, but feature double conversion on-line topology, which delivers tight voltage and frequency regulation, zero transfer time to and from battery, and input power factor correction. While offering advanced performance and high availability features, the Smart-UPS RT can be managed using PowerChute software, as well as an array of SmartSlot accessories.</p>\n<h5>Features&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h5>\n<ul>\n<li>Product Name: Smart-UPS RT 1000VA 230V</li>\n<li>Manufacturer Part Number: APC SURT1000XLI</li>\n<li>Technology: OnLine</li>\n<li>Power: (VA) 1000 VA (700 W).</li>\n<li>Input Voltage: (VAC) 220+25%</li>\n<li>Output Voltage: (VAC) 230 (default). 220,240 VAC (user selectable)</li>\n<li>Operating frequency: (Hz) 50 Hz+0.2%.</li>\n<li>Type of outlet: 6: IEC320C13,2: IEC Jumpers</li>\n<li>Surge Protection: Surge Protection (420 Joules).</li>\n<li>Manager: DB-9 RS-232, SmartSlot&nbsp;</li>\n<li>Connectthe: DB-9 RS-232, SmartSlot</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/emykqefkdt5kretjjx0o",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150399/products/emykqefkdt5kretjjx0o.jpg",
+      "thumb_id": "products/nahzejsdqjpbfn6vkjgt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150397/products/nahzejsdqjpbfn6vkjgt.jpg",
+      "_id": {
+        "$oid": "626a8e3a6b89e08aaf36d281"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:53:14.288Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a8f146b89e08aaf36d293"
+  },
+  "serial": "APC-SUA1000I",
+  "name": "APC Smart 1000",
+  "slug": "apc-smart-1000",
+  "price": 18660,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Model: SUA1000I</li>\n<li>Rated Capacity: 670 Watts/1000 VA</li>\n<li>AC INPUT (Voltage): 230V</li>\n<li>AC OUTPUT (Voltage): 230V</li>\n<li>Width: 170.00 mm</li>\n<li>Length: 439.00 mm</li>\n<li>Height: 216.00 mm</li>\n<li>Weight: 18.86 KG</li>\n<li>Indicator &amp; Audible Alam/ Protection: Alarm when on battery : distinctive low battery alarm : configurable delays</li>\n<li>Input Frequency: 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections: IEC-320 C14</li>\n<li>Input voltage range for main: 160 - 286V</li>\n<li>Battery Type: Maintenance-free sealed Lead-Acid battery with suspended electrolyte leakproof</li>\n<li>Typical recharge time: 3 hour(s)</li>\n<li>Output Connections: (8) IEC 320 C13 , (2) IEC Jumpers</li>\n<li>Waveform Type: Sine wave</li>\n<li>Output Frequency (sync to mains): 47 - 53 Hz for 50 Hz nominal, 57 - 63 Hz</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ppyv1gk5tcfx12oe5sfo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150600/products/ppyv1gk5tcfx12oe5sfo.jpg",
+      "thumb_id": "products/k9rbfmph4lnyrsgbbywl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150598/products/k9rbfmph4lnyrsgbbywl.jpg",
+      "_id": {
+        "$oid": "626a8f146b89e08aaf36d294"
+      }
+    },
+    {
+      "public_id": "products/tr4uickfbtgrjleyhfoi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150606/products/tr4uickfbtgrjleyhfoi.jpg",
+      "thumb_id": "products/wlwvtindrkig7jkcntgf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150604/products/wlwvtindrkig7jkcntgf.jpg",
+      "_id": {
+        "$oid": "626a8f146b89e08aaf36d295"
+      }
+    },
+    {
+      "public_id": "products/vndzymjp54vkznrgleeo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150612/products/vndzymjp54vkznrgleeo.jpg",
+      "thumb_id": "products/bycmjpn8k7lnfnir7357",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150609/products/bycmjpn8k7lnfnir7357.jpg",
+      "_id": {
+        "$oid": "626a8f146b89e08aaf36d296"
+      }
+    },
+    {
+      "public_id": "products/mry9b8yzujbwthtxp9aa",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150618/products/mry9b8yzujbwthtxp9aa.jpg",
+      "thumb_id": "products/scw7mgf5gvfz74xhhwsb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150615/products/scw7mgf5gvfz74xhhwsb.jpg",
+      "_id": {
+        "$oid": "626a8f146b89e08aaf36d297"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:56:52.873Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a8f996b89e08aaf36d2a9"
+  },
+  "serial": "APC-SURT2000XLI",
+  "name": "APC Smart 2000XLI",
+  "slug": "apc-smart-2000xli",
+  "price": 46620,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p></p>\n<p style=\"text-align:left;\"></p>\n<div style=\"text-align:right;\"><img src=\"https://res.cloudinary.com/marine-graphics/image/upload/v1651167651/richtext/aao32hops7ddmgla8gpz.jpg\" alt=\"APC Smart 2000XLI\" style=\"height: auto;width: 240px\"/></div>\n<p>APC Smart 2000XLI Smart-UPS On-Line provides high density, true double-conversion on-line power protection for servers, voice / data networks, medical labs, and light industrial applications. Capable of supporting loads to 2kVA in a rack/tower convertible form. When business-critical systems require runtime in hours, not minutes, APC Smart 2000XLI can be configured with matching battery packs to comply with aggressive runtime demands. The included PowerChute management software provides unattended graceful shutdown of network operating systems.&nbsp;</p>\n<h5>Key features: APC Smart 2000XLI</h5>\n<ul>\n<li>Product Name: Smart-UPS RT 2000VA 230V</li>\n<li>Manufacturer Part Number: APC SURT2000XLI</li>\n<li>Technology: OnLine</li>\n<li>Power: (VA) 2000 VA (1400 W).</li>\n<li>Input Voltage: (VAC) 220+25%</li>\n<li>Input Voltage: (VAC) 220 + 25%.</li>\n<li>Output Voltage: (VAC) 230 (default). 220,240 VAC (user selectable)</li>\n<li>Operating frequency: (Hz) 50 Hz+0.2%.</li>\n<li>Type of outlet 6: IEC320C13 2:IEC Jumpers.</li>\n<li>Surge Protection: Surge Protection (420 Joules).</li>\n<li>Manager: UPS PowerChute Plus.&nbsp;</li>\n<li>Connectthe: DB-9 RS-232, SmartSlot</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/n676yzleqnozzfyky2l2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150745/products/n676yzleqnozzfyky2l2.jpg",
+      "thumb_id": "products/ytu1nnup66ubixmp9aqh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150742/products/ytu1nnup66ubixmp9aqh.jpg",
+      "_id": {
+        "$oid": "626a8f996b89e08aaf36d2aa"
+      }
+    },
+    {
+      "public_id": "products/e2qsynqgldho2mow1pmo",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150750/products/e2qsynqgldho2mow1pmo.jpg",
+      "thumb_id": "products/g2m8jowjuxep4jfqj4hs",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150748/products/g2m8jowjuxep4jfqj4hs.jpg",
+      "_id": {
+        "$oid": "626a8f996b89e08aaf36d2ab"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T12:59:05.608Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a902c6b89e08aaf36d2c8"
+  },
+  "serial": "APC-SMC1000I-2U",
+  "name": "APC Smart 1000-2U LCD",
+  "slug": "apc-smart-1000-2u-lcd",
+  "price": 14770,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The SMC1000-2U Smart-UPS C 1000VA Rackmount 2U with LCD by APC is a 600W out, 120V in UPS (uninterrupted power supply) with a USB interface port, multi function LCD status and control console, and 6x battery-powered outlets. It is a rackmount unit, designed for server rooms or installation in a rack with other components. It uses NEMA 5-15R connections for output, and a NEMA 5-15P input connection. Its maintenance free sealed lead-acid battery has a typical recharge time of 3 hours, and you can purchase backup batteries for the unit separately.The Smart-UPS C 1000VA Rackmount 2U with LCD also bypasses unused electrical components in good power condition in certain power modes to help stay green by using less power without sacrificing protection. It also uses pure sine wave output to simulate utility power as close to the original as possible to protect servers and sensitive electronics.The Smart-UPS C 1000VA Rackmount 2U with LCD is a smart investment for end users looking to protect their equipment from sudden power loss. for 60 Hz nominal.&nbsp;</p>\n<h5>Features</h5>\n<ul>\n<li>Technology: Line Interactive Power (VA): 1000VA (600W).</li>\n<li>Voltage Input (VAC): 230V.</li>\n<li>Voltage Output (VAC): 230V.</li>\n<li>Operating frequency (Hz): 50 Hz.</li>\n<li>Outlet Output: (4) IEC 320 C13 (Battery Backup + Surge Protection) LCD indicator: LCD.</li>\n<li>Driver: Power chute / Not support network card.</li>\n<li>Channel management connection: USB, Serial (RJ45).</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/fxhdmymc5rqo281hsasp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150897/products/fxhdmymc5rqo281hsasp.jpg",
+      "thumb_id": "products/amuu4ar3zlbruxy8gg97",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150894/products/amuu4ar3zlbruxy8gg97.jpg",
+      "_id": {
+        "$oid": "626a902c6b89e08aaf36d2ca"
+      }
+    },
+    {
+      "public_id": "products/z6sziy2ezmimhgimw2lv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150891/products/z6sziy2ezmimhgimw2lv.jpg",
+      "thumb_id": "products/v91fltl6wyc5gvrpbdqi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651150889/products/v91fltl6wyc5gvrpbdqi.jpg",
+      "_id": {
+        "$oid": "626a902c6b89e08aaf36d2c9"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:01:32.775Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a920b6b89e08aaf36d2f7"
+  },
+  "serial": "APC-SURT3000XLI",
+  "name": "APC Smart 3000XLI",
+  "slug": "apc-smart-3000xli",
+  "price": 59253,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The Smart-UPS RT 3000VA 230V protects your data by supplying reliable, network-grade power. An unlimited number of matching battery packs can be added to comply with aggressive runtime demands of \"always on\" business-critical systems. Customers looking for extremely tight voltage and frequency regulation, internal bypass, and input power factor correction will find them in the Smart-UPS RT 3000VA 230V</p>\n<h5>Features</h5>\n<ul>\n<li>Product Name: Smart-UPS RT 3000VA 230V</li>\n<li>Manufacturer Part Number: SURT3000XLI</li>\n<li>Backup/Run Time: 0.24 Hour 2.1 kW Full Load0.56 Hour 1.1 kW Half Load</li>\n<li>Batteries: Spill Proof, Maintenance Free Sealed Lead Acid User replaceable Hot-swappable</li>\n<li>Package Contents:&nbsp;</li>\n<li>Smart-UPS RT 3000VA 230V</li>\n<li>CD with software</li>\n<li>Smart UPS signalling RS-232 cable</li>\n<li>User Manual</li>\n<li>Product Type: Dual conversion Online UPS</li>\n<li>Dimensions: 5\" Height x 17\" Width x 26\" Depth</li>\n<li>Form Factor: 3U Rack-mountable Tower</li>\n<li>Input Voltage: 220V AC</li>\n<li>Output Voltage: 230 V AC Nominal</li>\n<li>Load Capacity: 2.65k VA/2.1kW</li>\n<li>Input Voltage Range: 230 V AC Nominal160 V AC to 280 V AC Mains&nbsp;</li>\n<li>Operation100 V AC to 280 V AC Adjustable Mains Operation</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/xbrj4d2tsvapyqzqzo5q",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151375/products/xbrj4d2tsvapyqzqzo5q.jpg",
+      "thumb_id": "products/gizzzstbefqb9g5w3ztt",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151373/products/gizzzstbefqb9g5w3ztt.jpg",
+      "_id": {
+        "$oid": "626a920b6b89e08aaf36d2f8"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:09:31.041Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a92fa6b89e08aaf36d30a"
+  },
+  "serial": "APC-BR1500GI",
+  "name": "ฺBack Pro UPS1500GI",
+  "slug": "back-pro-ups1500gi",
+  "price": 13000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The Power-Saving Back-UPS Pro 1500 International Version (230V) from APC provides power to your important computer components in the event of an electrical outage. The Uninterruptible Power Supply (UPS) contains a battery which continues to power computers, monitors and other components if the electricity is cut from them. An LCD status display provides information including remaining battery life, load capacity, and event notices. The battery is hot-swappable and easy to replace. An audible alarm alerts you of events like power outage and low battery.</p>\n<h5>Features</h5>\n<ul>\n<li>Model 1500VA APC BR1500GI</li>\n<li>Voltage 230V</li>\n<li>AC OUTPUT (Voltage) 865 Watts / 1500 VA</li>\n<li>Weight 12.7 kg</li>\n<li>Nominal Input Voltage 230VAC, single phase, 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Frequency 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections IEC-320 C14</li>\n<li>Input voltage range for main 176 - 294V</li>\n<li>Input Breaker Capacity 10.0 A</li>\n<li>Battery Type Maintenance-free sealed Lead-Acid battery with suspended electrolyte : leakproof&nbsp;</li>\n<li>Typical recharge time 8 hour(s)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/iscsht07qrvaatmvjdtz",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151604/products/iscsht07qrvaatmvjdtz.jpg",
+      "thumb_id": "products/jpreu0ps1ofnp8wxdj6e",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151602/products/jpreu0ps1ofnp8wxdj6e.jpg",
+      "_id": {
+        "$oid": "626a92fa6b89e08aaf36d30b"
+      }
+    },
+    {
+      "public_id": "products/kgvjajroclkeehsjcs3o",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151610/products/kgvjajroclkeehsjcs3o.jpg",
+      "thumb_id": "products/svsnnegfjuryvqirhq5t",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151607/products/svsnnegfjuryvqirhq5t.jpg",
+      "_id": {
+        "$oid": "626a92fa6b89e08aaf36d30c"
+      }
+    },
+    {
+      "public_id": "products/k5haisfqyahstij7h1di",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151615/products/k5haisfqyahstij7h1di.jpg",
+      "thumb_id": "products/rqi6fzweczxg1zob8j04",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151613/products/rqi6fzweczxg1zob8j04.jpg",
+      "_id": {
+        "$oid": "626a92fa6b89e08aaf36d30d"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:13:30.209Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a941f6b89e08aaf36d31f"
+  },
+  "serial": "APC-BR900GI",
+  "name": "Back Pro UPS 900GI",
+  "slug": "back-pro-ups-900gi",
+  "price": 6250,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>The Back-UPS Pro family offers guaranteed power protection for high performance computer systems, routers/modems, external storage devices, game consoles and other electronics in your home or business. These UPSs supply electronics with abundant battery backup during outages and stabilize unsafe voltagelevels.They also provide power protection from damaging surges and spikes, and allow the use of management software so you get the most out of your UPS. Premium features of this family may include Automatic Voltage Regulation (AVR), an LCD display, Smart Outlets, energy saving functions that reduce electricity use, network manageability, Watchdog, orconfigurable outlets.Together with the rest of the Back-UPS Pro's standard features, they are the perfect choice to protect your data and keep your system available.</p>\n<h5>Features</h5>\n<ul>\n<li>Rated Capacity 540 Watts/ 900 VA</li>\n<li>Voltage 230V</li>\n<li>AC INPUT (Voltage) 230V</li>\n<li>Width 100.00 mm</li>\n<li>Length 382.00 mm</li>\n<li>Height 250.00 mm</li>\n<li>Weight 10.7 kg</li>\n<li>Indicator &amp; Audible Alam/ Protection Alarm when on battery : distinctive low battery alarm : overload continuous tone alarm</li>\n<li>Nominal Input Voltage  230VAC, single phase, 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Frequency  50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections  IEC-320 C14</li>\n<li>Input voltage range for main 176 - 294V</li>\n<li>Maximum Input Current 8A</li>\n<li>Input Breaker Capacity 10.0 A</li>\n<li>Battery Type Maintenance-free sealed Lead-Acid battery with suspended electrolyte leakproof</li>\n<li>Typical recharge time 8 hour(s)</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/n2gxxynma330rnseu9k9",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151908/products/n2gxxynma330rnseu9k9.jpg",
+      "thumb_id": "products/z5p4oldyt1ocepuopsbb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151906/products/z5p4oldyt1ocepuopsbb.jpg",
+      "_id": {
+        "$oid": "626a941f6b89e08aaf36d321"
+      }
+    },
+    {
+      "public_id": "products/ikmuoszoxvhmuwyrqgnn",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151903/products/ikmuoszoxvhmuwyrqgnn.jpg",
+      "thumb_id": "products/bdugpaepux8v7z0vz7d9",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151900/products/bdugpaepux8v7z0vz7d9.jpg",
+      "_id": {
+        "$oid": "626a941f6b89e08aaf36d320"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:18:23.135Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a95026b89e08aaf36d354"
+  },
+  "serial": "APC-BX1400U-MS",
+  "name": "Back UPS 1400VA",
+  "slug": "back-ups-1400va",
+  "price": 6200,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Resettable circuit breaker Easy recovery from overloads; no need to replace a fuse.Automatic restart of loads after UPS shutdown Automatically starts up the connected equipment upon the return of utility power.Automatic self-test Periodic battery self-test ensures early detection of a battery that needs to be replaced.Back-UPS Features &amp; BenefitsProtectionBattery and surge protected outletsBack up and protect your hardware and data during power outages, surges and spikes.Surge only outletsProtect secondary electronics from surges and spikes without reducing battery power used to run primary electronics during an outage.AvailabilityAutomatic self-testPeriodic battery self-test ensures early detection of a battery that needs to be replaced.Battery failure notificationProvides early-warning fault analysis on batteries enabling timely preventive maintenanceIntelligent battery managementMaximizes battery performance, life, and reliability through intelligent, precision charging.ServiceabilityResettable circuit breakerEasy recovery from overloads; no need to replace a fuse.ManageabilityAudible alarmsProvides notification of changing utility power and UPS power conditionsLED status displayQuickly understand unit and power status with visual indicators.SafetySafety-agency approvedEnsures the product has been tested and approved to work safely with the connected service provider equipment and within the specified environment.</p>\n<h5>Features</h5>\n<ul>\n<li>P/N : BX1400U-MS</li>\n<li>Max Configurable Power 700 Watts / 1400 VA</li>\n<li>Nominal Output Voltage 230V</li>\n<li>Output Frequency (sync to mains) 50/60 Hz +/-1 Hz</li>\n<li>Topology Line Interactive</li>\n<li>Waveform Type Stepped approximation to a sinewave</li>\n<li>Output Connections (2) IEC 320 C13 (Battery Backup)IEC 320 C13 (4) Universal Receptacle    (Battery Backup)</li>\n<li>Nominal Input Voltage 230V</li>\n<li>Input Frequency 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections IEC-320 C14 NEMA 5-15P</li>\n<li>Cord Length 1.22 meters</li>\n<li>Input voltage range for main operations 150 - 280V</li>\n<li>Maximum Input Current 6A</li>\n<li>Input Breaker Capacity 10 A</li>\n<li>Type of Input Protection Required 3-pole breaker</li>\n<li>Battery Type Maintenance-free sealed Lead-Acid battery with suspended electrolyte leakproof</li>\n<li>Included Battery Modules 1</li>\n<li>Typical recharge time 8 hour(s)</li>\n<li>Control panel LED status display with On Line : On Battery : Replace Battery and Overload       indicators</li>\n<li>Audible Alarm Alarm when on battery : distinctive low battery alarm : overload continuous      tone alarm</li>\n<li>Surge Protection and Filtering Surge energy rating 273 Joules</li>\n<li>&nbsp;Data Line Protection RJ-11 Modem/Fax protection</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/wfdjb1yqxyosmgl4irjk",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152135/products/wfdjb1yqxyosmgl4irjk.jpg",
+      "thumb_id": "products/ywbhbxb0cnqs1nepmatp",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152133/products/ywbhbxb0cnqs1nepmatp.jpg",
+      "_id": {
+        "$oid": "626a95026b89e08aaf36d356"
+      }
+    },
+    {
+      "public_id": "products/bfy7lsly7ivnltet38nd",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152130/products/bfy7lsly7ivnltet38nd.jpg",
+      "thumb_id": "products/beykhmb0vlkaksm0bnqr",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152127/products/beykhmb0vlkaksm0bnqr.jpg",
+      "_id": {
+        "$oid": "626a95026b89e08aaf36d355"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:22:10.564Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a95f36b89e08aaf36d383"
+  },
+  "serial": "APC-BX950U-MS",
+  "name": "Back UPS 950VA",
+  "slug": "back-ups-950va",
+  "price": 4940,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Use your PC to access additional power protection and management features for your UPS via a USB Port. Provides protection of connected equipment from power surges traveling on telephone lines.Outlets provide abundant runtime for network gateway equipment and other critical low-power devices, allowing for hours of internet access during a power outage.Automatically steps up low voltage and steps down high voltage to levels that are suitable for your equipment. Provide easy-to-read status of the unit and utility power conditions.Enables communication with Smart-UPS RTD, SMX and SMT using the APC's historical proprietary USB usages Eliminates voltage fluctuations as a source of AV signal degradation and component power-supply stress.Provides the ability to adapt the UPS for optimal performance in specific power environments or generator applications.Provides notification of changing utility power and UPS power conditions Periodic battery self-test ensures early detection of a battery that needs to be replaced.Provides protection of connected equipment from power surges on the data lines. Provides early-warning fault analysis on batteries enabling timely preventive maintenance Gives higher application availability by correcting low and high voltage conditions without using the battery (not available on all models).&nbsp;</p>\n<h5>Features</h5>\n<ul>\n<li>P/N : BX950U-MS</li>\n<li>APC Back-UPS 950VA, AVR, 230V (APC044)</li>\n<li>Output Power Capacity 480 Watts / 950 VA</li>\n<li>Max Configurable Power 480 Watts / 950 VA</li>\n<li>Nominal Output Voltage 230V</li>\n<li>Output Frequency (sync to mains) 50/60 Hz +/-1 Hz</li>\n<li>Topology Line Interactive</li>\n<li>Waveform Type Stepped approximation to a sinewave</li>\n<li>Output Connections</li>\n<li>Nominal Input Voltage 230V</li>\n<li>Input Frequency 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections IEC-320 C14 NEMA 5-15P  Cord Length 1.22 meters</li>\n<li>Input voltage range for main operations 150 - 280V</li>\n<li>Maximum Input Current 4A</li>\n<li>Input Breaker Capacity 7 A</li>\n<li>Type of Input Protection Required 3-pole breaker</li>\n<li>Battery Type Maintenance-free sealed Lead-Acid battery with suspended electrolyte leakproof</li>\n<li>Included Battery Modules 1</li>\n<li>Typical recharge time 8 hour(s)</li>\n<li>Replacement Battery (Service center technician only) RBC17</li>\n<li>Interface Port(s) USB</li>\n<li>Control panel LED status display with On Line : On Battery : Replace Battery and Overload      indicators&nbsp;</li>\n<li>Audible Alarm Alarm when on battery : distinctive low battery alarm : overload continuous      tone alarm</li>\n<li>Surge energy rating 273 Joules</li>\n<li>Data Line Protection RJ-11 Modem/Fax protection</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/bc1j7povgna1ynmuubyv",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152376/products/bc1j7povgna1ynmuubyv.jpg",
+      "thumb_id": "products/i6vpat9vwh7v1cod2g97",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152373/products/i6vpat9vwh7v1cod2g97.jpg",
+      "_id": {
+        "$oid": "626a95f36b89e08aaf36d385"
+      }
+    },
+    {
+      "public_id": "products/rrj8owwiee3fiwhpuxt7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152370/products/rrj8owwiee3fiwhpuxt7.jpg",
+      "thumb_id": "products/covveccsjppuk5ma9epu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152368/products/covveccsjppuk5ma9epu.jpg",
+      "_id": {
+        "$oid": "626a95f36b89e08aaf36d384"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:26:11.098Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a96b86b89e08aaf36d3b2"
+  },
+  "serial": "APC-BR550GI",
+  "name": "Back UPS RS LCD 550VA",
+  "slug": "back-ups-rs-lcd-550va",
+  "price": 4600,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Back-UPS Pro family offers guaranteed power protection for high performance computer systems, routers / modems, external storage devices, gaming consoles and other electronics in your home or business. These electronic uninterruptible power supply with battery backup in the absence of fertility and stabilize unsafe voltage levels.They are also protected from damage and power surges, spikes and allows the use of management software so you get the most out of your UPS. A special feature of this family may include Automatic Voltage Regulation (AVR), a screen LCD,Outlets smart, function, energy saving, reducing electricity use in networkmanagement Watchdog or stores. setTogether with the rest of the Back-UPS Pro's standard features, they are the perfect choice to protect your data and your system is available.</p>\n<h5>Features</h5>\n<ul>\n<li>Brand: APC</li>\n<li>Item Weight: 7 kg</li>\n<li>Size: 31 x 9.1 x 19.2 cm.</li>\n<li>Battery: 12V 1 required (included).</li>\n<li>Item model number: BR550GI</li>\n<li>Color: Black</li>\n<li>Voltage 230 volts.</li>\n<li>Wattage: 330 W</li>\n<li>Packaging Lithium: equipment.</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/qrfoyasyndg7m2ak4uec",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152567/products/qrfoyasyndg7m2ak4uec.jpg",
+      "thumb_id": "products/u63c6dgszwkjr4qh2mdi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152565/products/u63c6dgszwkjr4qh2mdi.jpg",
+      "_id": {
+        "$oid": "626a96b86b89e08aaf36d3b4"
+      }
+    },
+    {
+      "public_id": "products/etq0y9jsuamqrkcpdxge",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152573/products/etq0y9jsuamqrkcpdxge.jpg",
+      "thumb_id": "products/dpd0ldablxes8dqcbkij",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152570/products/dpd0ldablxes8dqcbkij.jpg",
+      "_id": {
+        "$oid": "626a96b86b89e08aaf36d3b5"
+      }
+    },
+    {
+      "public_id": "products/ccsoa4tucc8hvhvq61ca",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152562/products/ccsoa4tucc8hvhvq61ca.jpg",
+      "thumb_id": "products/xsaszc3qzu8na42punwx",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152560/products/xsaszc3qzu8na42punwx.jpg",
+      "_id": {
+        "$oid": "626a96b86b89e08aaf36d3b3"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:29:28.245Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a977d6b89e08aaf36d405"
+  },
+  "serial": "APC-BK500EI",
+  "name": "Back UPS 500EI",
+  "slug": "back-ups-500ei",
+  "price": 2880,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Rated Capacity  300 Watts / 500 VA</li>\n<li>Weight  6.30 kg</li>\n<li>Nominal Input Voltage 230VAC, single phase, 50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Frequency   50/60 Hz +/- 3 Hz (auto sensing)</li>\n<li>Input Connections  EC-320-C14 inlet</li>\n<li>Cord Length  1.83 meters</li>\n<li>Input voltage range for main  180 - 266V</li>\n<li>Maximum Input Current  7A</li>\n<li>Input Breaker Capacity  7.0 A</li>\n<li>Battery Type   Maintenance-free sealed Lead-Acid battery with suspended electrolyte : leakproof</li>\n<li>Output Connections  - IEC 320 C13 (Surge Protection)</li>\n</ul>\n<p>&nbsp;- IEC 320 C13 (Battery Backup)&nbsp;</p>\n<p>&nbsp;- IEC Jumpers (Surge Protection)</p>\n<ul>\n<li>Waveform Type  Stepped approximation to a sinewave</li>\n<li>Output Frequency (sync to mains)  47 - 63 Hz</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/nugvctctrscu4uwr3tje",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152763/products/nugvctctrscu4uwr3tje.jpg",
+      "thumb_id": "products/gw0jn4hf9738wd7fu2du",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152760/products/gw0jn4hf9738wd7fu2du.jpg",
+      "_id": {
+        "$oid": "626a977d6b89e08aaf36d406"
+      }
+    },
+    {
+      "public_id": "products/t3zzlxthg6wqptsjul2f",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152769/products/t3zzlxthg6wqptsjul2f.jpg",
+      "thumb_id": "products/kbwhcxj03wqw0i9xr7sq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152767/products/kbwhcxj03wqw0i9xr7sq.jpg",
+      "_id": {
+        "$oid": "626a977d6b89e08aaf36d407"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:32:45.255Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a98316b89e08aaf36d419"
+  },
+  "serial": "APC-BX625CI-MS",
+  "name": "Back UPS 625VA",
+  "slug": "back-ups-625va",
+  "price": 2140,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>A power outage should be no reason to keep your hardware up and running. Let the APC Atago BX625CI-MS 625VA UPS backs up and protect your hardware and data during power outages, surges and spikes.The APC Atago BX625CI-MS 625VA UPS gives you a dependable back-up power source for your electronic appliances. The APC Atago BX625CI-MS 625VA UPS provides temporary battery power when the utility power is out. As you use it, it protects secondary electronics without reducing the battery power used to run primary electronics during a power outage. The APC Atago BX625CI-MS 625VA UPS also safeguards unit from damage by automatically turning it off in the event of a short circuit or overload.Always stay powered with the help of the APC Atago BX625CI-MS 625VA UPS. Make sure to browse through Lazada's wire and cable organizers and give your power source back-up a complementary tool.&nbsp;</p>\n<h5>Features</h5>\n<ul>\n<li>Output Power Capacity: 325 Watts/625 VA&nbsp;</li>\n<li>Max Configurable Powe: 325 Watts/0 VA&nbsp;</li>\n<li>Nominal Output Voltage: 230V&nbsp;</li>\n<li>Efficiency at Full Load: 65.3%&nbsp;</li>\n<li>Topology: Standby&nbsp;</li>\n<li>Waveform: TypeSquare wave&nbsp;</li>\n<li>Output Connections: (3) Universal Receptacle (Battery Backup)&nbsp;</li>\n<li>Efficiency at Half Load: 75.8%&nbsp;</li>\n<li>Nominal Input Voltage: 230V Input Frequency: 45 - 65 Hz&nbsp;</li>\n<li>Input Connections: IEC-320 C14&nbsp;</li>\n<li>Cord Length: 1.22 meters&nbsp;</li>\n<li>Input voltage range for main operations: 151 - 299V&nbsp;</li>\n<li>Maximum Input Curren: 3A&nbsp;</li>\n<li>Type of Input Protection Required: 3-pole breaker&nbsp;</li>\n<li>Operating Environment: 0 - 40 °C&nbsp;</li>\n<li>Operating Relative Humidity: 0 - 95%&nbsp;</li>\n<li>Storage Temperature: -15 - 40 °C&nbsp;</li>\n<li>Storage Relative Humidity: 0 - 95%&nbsp;</li>\n<li>Audible noise at 1 meter from surface of unit: 45.00 dBA</li>\n</ul>\n",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/ddo6tj2mrwpf778m5stj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152950/products/ddo6tj2mrwpf778m5stj.jpg",
+      "thumb_id": "products/smlob0vq7ktnuk4kvak9",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152948/products/smlob0vq7ktnuk4kvak9.jpg",
+      "_id": {
+        "$oid": "626a98316b89e08aaf36d41b"
+      }
+    },
+    {
+      "public_id": "products/ludo424hywr7bzbo7ds4",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152945/products/ludo424hywr7bzbo7ds4.jpg",
+      "thumb_id": "products/yuhs2ae5tw0tboykvyfm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651152942/products/yuhs2ae5tw0tboykvyfm.jpg",
+      "_id": {
+        "$oid": "626a98316b89e08aaf36d41a"
+      }
+    }
+  ],
+  "categoryOne": "Power Systems",
+  "categoryTwo": "APC",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 5,
+      "comment": "<p>Very reliable product and a great price!😀</p>\r\n",
+      "_id": {
+        "$oid": "626ab1d8d3023021c412b10a"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-28T15:25:12.912Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T13:35:45.689Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "power-systems",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "apc"
+},{
+  "_id": {
+    "$oid": "626a9abd6b89e08aaf36d4d4"
+  },
+  "serial": "TRACKR-W",
+  "name": "TrackR wallet",
+  "slug": "trackr-wallet",
+  "price": 1290,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>&nbsp;TrackR wallet Details</h5>\n<ul>\n<li>Length: 65mm</li>\n<li>Width: 40mm</li>\n<li>Thickness: 4mm</li>\n<li>Battery Type: CR2016 (2x)</li>\n<li>Max Battery Life: 2 years</li>\n<li>Bluetooth Type: 4.0</li>\n<li>Bluetooth Range: Up to 100ft</li>\n<li>Crowd GPS Range: World Wide</li>\n<li>Device Ringer Volume: 85dB</li>\n<li>Materials: Black Shine Plastic</li>\n</ul>\n<p></p>\n<p>&nbsp;• Safe for Pets: Yes</p>\n<p></p>\n<p>&nbsp;• Works World Wide: Yes</p>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/a6rr3jkohshkauuuack6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153598/products/a6rr3jkohshkauuuack6.jpg",
+      "thumb_id": "products/qqk2wvgdfnh6hadkox6x",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153595/products/qqk2wvgdfnh6hadkox6x.jpg",
+      "_id": {
+        "$oid": "626a9abd6b89e08aaf36d4d8"
+      }
+    },
+    {
+      "public_id": "products/yj7v4eqfwih9khd0iqm0",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153588/products/yj7v4eqfwih9khd0iqm0.jpg",
+      "thumb_id": "products/xas8zz4swfqc29rc9und",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153585/products/xas8zz4swfqc29rc9und.jpg",
+      "_id": {
+        "$oid": "626a9abd6b89e08aaf36d4d6"
+      }
+    },
+    {
+      "public_id": "products/uasdqpspoidhokudxpij",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153582/products/uasdqpspoidhokudxpij.jpg",
+      "thumb_id": "products/nzfxlttbc8lxxabu7jaz",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153580/products/nzfxlttbc8lxxabu7jaz.jpg",
+      "_id": {
+        "$oid": "626a9abd6b89e08aaf36d4d5"
+      }
+    },
+    {
+      "public_id": "products/lmepsisahhsmvu9kj0a6",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153593/products/lmepsisahhsmvu9kj0a6.jpg",
+      "thumb_id": "products/zdqgewp1j3ouc0q38nhw",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153590/products/zdqgewp1j3ouc0q38nhw.jpg",
+      "_id": {
+        "$oid": "626a9abd6b89e08aaf36d4d7"
+      }
+    },
+    {
+      "public_id": "products/brnfgsf8y08dlseakajh",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153603/products/brnfgsf8y08dlseakajh.jpg",
+      "thumb_id": "products/k8gzdty8spnpwkni8hbs",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153601/products/k8gzdty8spnpwkni8hbs.jpg",
+      "_id": {
+        "$oid": "626a9abd6b89e08aaf36d4d9"
+      }
+    }
+  ],
+  "categoryOne": "Tracking",
+  "categoryTwo": "TRACKR",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T13:46:37.976Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "tracking",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "trackr"
+},{
+  "_id": {
+    "$oid": "626a9b8d6b89e08aaf36d51c"
+  },
+  "serial": "TRACKR-S",
+  "name": "TrackR",
+  "slug": "trackr",
+  "price": 1290,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>&nbsp;TrackR sticker Details</h5>\n<ul>\n<li>Diameter: 25mm</li>\n<li>Width: 40mm</li>\n<li>Thickness: 5mm</li>\n<li>Battery Type: CR2016</li>\n<li>Max Battery Life: 1 year</li>\n<li>Bluetooth Type: 4.0</li>\n<li>Bluetooth Range: Up to 100ft</li>\n<li>Crowd GPS Range: World Wide</li>\n<li>Device Ringer Volume: 85dB</li>\n<li>Materials: Black Shine Plastic</li>\n</ul>\n",
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "products/tg5owee0ugomayqpup7k",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153804/products/tg5owee0ugomayqpup7k.jpg",
+      "thumb_id": "products/oecm1asjq7ujgivfdzo5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153802/products/oecm1asjq7ujgivfdzo5.jpg",
+      "_id": {
+        "$oid": "626a9b8d6b89e08aaf36d520"
+      }
+    },
+    {
+      "public_id": "products/c3kj6uzyak8hrin4asnp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153789/products/c3kj6uzyak8hrin4asnp.jpg",
+      "thumb_id": "products/ixxu50xzbs6o4ikbd1al",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153787/products/ixxu50xzbs6o4ikbd1al.jpg",
+      "_id": {
+        "$oid": "626a9b8d6b89e08aaf36d51d"
+      }
+    },
+    {
+      "public_id": "products/hzbgqg0b4jusaurvm4af",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153794/products/hzbgqg0b4jusaurvm4af.jpg",
+      "thumb_id": "products/bcnidydri8qfgdny4z3l",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153792/products/bcnidydri8qfgdny4z3l.jpg",
+      "_id": {
+        "$oid": "626a9b8d6b89e08aaf36d51e"
+      }
+    },
+    {
+      "public_id": "products/kod2cnrkn2wi2ch7ftir",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153800/products/kod2cnrkn2wi2ch7ftir.jpg",
+      "thumb_id": "products/n0c9cw1jwetufjl5dkuh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153797/products/n0c9cw1jwetufjl5dkuh.jpg",
+      "_id": {
+        "$oid": "626a9b8d6b89e08aaf36d51f"
+      }
+    },
+    {
+      "public_id": "products/fv1re6f1uzhelcd17z89",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153810/products/fv1re6f1uzhelcd17z89.jpg",
+      "thumb_id": "products/eexcuv8srzyzznuw1og3",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153807/products/eexcuv8srzyzznuw1og3.jpg",
+      "_id": {
+        "$oid": "626a9b8d6b89e08aaf36d521"
+      }
+    }
+  ],
+  "categoryOne": "Tracking",
+  "categoryTwo": "TRACKR",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 4,
+      "comment": "<p>Very convenient product. 😃</p>\r\n",
+      "_id": {
+        "$oid": "626ab8b53b4b3cd293a33c37"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-28T15:54:29.498Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T13:50:05.812Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "tracking",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "trackr"
+},{
+  "_id": {
+    "$oid": "626aa34fe195475408b835a6"
+  },
+  "serial": "SOLAR IP65",
+  "name": "Solar step wall light",
+  "slug": "solar-step-wall-light",
+  "price": 3000,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>Characteristics:</h5>\n<ul>\n<li>Solar panel: 5.5V/1W</li>\n<li>Li-ion battery: 3.7V,2000mAh</li>\n<li>LED: 5 LEDs, 50000Hrs span life.</li>\n<li>Solar charging time: about 11 Hrs by bright sunlight.</li>\n<li>Auto off for sun charging in daytime, and auto turn on light at night.</li>\n<li>Lighting time: around 3 nights!</li>\n<li>The product is locked during shipment, so users have to unlock the system by sunlight charging.</li>\n<li>1 year warranty.</li>\n<li>Waterproof: IP65</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/yx9rm2tvnv25l2d8cfgc",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155790/products/yx9rm2tvnv25l2d8cfgc.jpg",
+      "thumb_id": "products/rik77rbfw04c53tyhhm8",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155787/products/rik77rbfw04c53tyhhm8.jpg",
+      "_id": {
+        "$oid": "626aa34fe195475408b835a7"
+      }
+    },
+    {
+      "public_id": "products/a4djsvwnqh3kd1habthf",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155796/products/a4djsvwnqh3kd1habthf.jpg",
+      "thumb_id": "products/kwm7f8nhypqayorui2rf",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155793/products/kwm7f8nhypqayorui2rf.jpg",
+      "_id": {
+        "$oid": "626aa34fe195475408b835a8"
+      }
+    }
+  ],
+  "categoryOne": "Solar Equipment",
+  "categoryTwo": "Solar",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:23:11.744Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "solar-equipment",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "solar"
+},{
+  "_id": {
+    "$oid": "626aa406e195475408b835c1"
+  },
+  "serial": "F8M935BT06-BLK",
+  "name": "Belkin USB In-Car Charger 7.24A",
+  "slug": "belkin-usb-in-car-charger-724a",
+  "price": 1990,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<h5>THE BACK SEAT JUST CAUGHT UP</h5>\n<p>Charging is no longer limited to the front seat with the Road Rockstar. Designed with a 6ft cable and 4 USB ports, you can seamlessly charge 4 devices simultaneously while on the go. 2 front seat USB ports charge smartphones at optimum speeds with shared 2.4A capacity, while the extendable hub allows backseat passengers to charge 2 tablets simultaneously at 2.4A per port - perfect for watching movies on long road trips.</p>\n<h5>Features</h5>\n<ul>\n<li>&nbsp;Plugs Into Vehicle Lighter Port</li>\n<li>&nbsp;Charge 4 Devices Simultaneously</li>\n<li>&nbsp;2USB Ports in Front Car Charger</li>\n<li>&nbsp;2-Port Hub Clips onto Backseat Pocket</li>\n<li>&nbsp;Charge Phones at 1A &amp; Tablets at 2.4A</li>\n<li>&nbsp;Will Charge Most USB-Powered Devices&nbsp;</li>\n</ul>\n",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/j4yjpwlo5cl3wr9xe313",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155979/products/j4yjpwlo5cl3wr9xe313.jpg",
+      "thumb_id": "products/vityzvtzsuilykufdom1",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651155977/products/vityzvtzsuilykufdom1.jpg",
+      "_id": {
+        "$oid": "626aa406e195475408b835c2"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Belkin",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 5,
+      "comment": "<p>A real life-saver!</p>\r\n",
+      "_id": {
+        "$oid": "626ac0ea582ab0292f29e610"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-28T16:29:30.567Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T14:26:14.512Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "belkin"
+},{
+  "_id": {
+    "$oid": "626aa52fe195475408b835db"
+  },
+  "serial": "IPHONE 4200 MAH",
+  "name": "iPhone 5 & 5S",
+  "slug": "iphone-5--5s",
+  "price": 930,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Power level indicator</li>\n<li>Charging indicator</li>\n<li>PU leather cover</li>\n<li>8 pin lightning input port</li>\n<li>8 pin lightning output port</li>\n<li>Input: 5V DC 1000 mA</li>\n<li>Output: 5V DC 1000 mA</li>\n<li>Dimension: 136*66*22mm</li>\n<li>Charging time: 4.5 hours</li>\n<li>Weight: 209g</li>\n</ul>\n",
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "products/rkchqxqtc8hqv9trtkfp",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156276/products/rkchqxqtc8hqv9trtkfp.jpg",
+      "thumb_id": "products/s1grghcddialindw8iuu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156274/products/s1grghcddialindw8iuu.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835e2"
+      }
+    },
+    {
+      "public_id": "products/uiwkzuc7rbmbxqgcxvyi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156266/products/uiwkzuc7rbmbxqgcxvyi.jpg",
+      "thumb_id": "products/krhngxoxa4b6xp9foemk",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156264/products/krhngxoxa4b6xp9foemk.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835e0"
+      }
+    },
+    {
+      "public_id": "products/vlbymvw7wp19ivy6wen2",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156247/products/vlbymvw7wp19ivy6wen2.jpg",
+      "thumb_id": "products/n5nsu4gn7ezxi60dx9ns",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156245/products/n5nsu4gn7ezxi60dx9ns.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835dc"
+      }
+    },
+    {
+      "public_id": "products/zvxdphcorwpp8kei8o1o",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156252/products/zvxdphcorwpp8kei8o1o.jpg",
+      "thumb_id": "products/d9fsu1rlgqk4caqqnieh",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156249/products/d9fsu1rlgqk4caqqnieh.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835dd"
+      }
+    },
+    {
+      "public_id": "products/vwtux28whulfq0nyxmui",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156257/products/vwtux28whulfq0nyxmui.jpg",
+      "thumb_id": "products/rlangpweeb5xmbjjhnta",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156254/products/rlangpweeb5xmbjjhnta.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835de"
+      }
+    },
+    {
+      "public_id": "products/hbjf1aadme8pxsybx9km",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156261/products/hbjf1aadme8pxsybx9km.jpg",
+      "thumb_id": "products/bu6vfy87ojnyjmxvu8rv",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156259/products/bu6vfy87ojnyjmxvu8rv.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835df"
+      }
+    },
+    {
+      "public_id": "products/lb5r0gm1lxsmardwmig7",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156271/products/lb5r0gm1lxsmardwmig7.jpg",
+      "thumb_id": "products/ro74rd6gxadsy6tpfgqb",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156269/products/ro74rd6gxadsy6tpfgqb.jpg",
+      "_id": {
+        "$oid": "626aa52fe195475408b835e1"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Power Case",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 4,
+      "comment": "<p>Nice, hard wearing product.</p>\r\n",
+      "_id": {
+        "$oid": "626ac05c966f27c776417202"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-28T16:27:08.841Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T14:31:11.597Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "power-case"
+},{
+  "_id": {
+    "$oid": "626aa634e195475408b8363d"
+  },
+  "serial": "F8J107TTWHT",
+  "name": "Belkin Swivel Home Dual USB Charger 2.1A",
+  "slug": "belkin-swivel-home-dual-usb-charger-21a",
+  "price": 1190,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Belkin 2-Port Swivel Charger features two rapid-charge USB ports that deliver 2.1 amps / 10 watts per port. It allows you to charge two USB-powered devices at once. Additionally, the charger has folding prongs that allow for easy portability.&nbsp;</p>\n<h5>Features</h5>\n<ul>\n<li>2 Rapid-charge USB ports&nbsp;&nbsp;</li>\n<li>2.1 Amp/10 Watts per port&nbsp;&nbsp;</li>\n<li>90 Degree rotating prongs&nbsp;&nbsp;&nbsp;</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/i5ljxeskdgdxqylmzajm",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156532/products/i5ljxeskdgdxqylmzajm.jpg",
+      "thumb_id": "products/cyrzrrlyquoyw0ndcd9r",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156530/products/cyrzrrlyquoyw0ndcd9r.jpg",
+      "_id": {
+        "$oid": "626aa634e195475408b8363e"
+      }
+    },
+    {
+      "public_id": "products/y63yutbuvfqpzkugnytb",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156537/products/y63yutbuvfqpzkugnytb.jpg",
+      "thumb_id": "products/c7rkizrlf7wunvwbb9w0",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156534/products/c7rkizrlf7wunvwbb9w0.jpg",
+      "_id": {
+        "$oid": "626aa634e195475408b8363f"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Belkin",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:35:32.042Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "belkin"
+},{
+  "_id": {
+    "$oid": "626aa6d4e195475408b83651"
+  },
+  "serial": "GALAXY 4200 MAH",
+  "name": "Samsung Galaxy Note 3",
+  "slug": "samsung-galaxy-note-3",
+  "price": 930,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Output Voltage: 5V</li>\n<li>Output Current: 0.8A</li>\n<li>Capacity: 4,200mAh</li>\n<li>Input Voltage: 5V</li>\n<li>Input Current: 1A</li>\n<li>Cell type:Lithium-polymer battery</li>\n<li>Cycle Life: 500times</li>\n<li>Operating Temperature:-10-+45</li>\n<li>Charging Time: 2.5 h</li>\n<li>Weight: 120g</li>\n<li>Dimension(mm): 164*84*20</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ukkzzliaxln60dsjm2zl",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156682/products/ukkzzliaxln60dsjm2zl.jpg",
+      "thumb_id": "products/joc3lmxneho2iknzsn6l",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156680/products/joc3lmxneho2iknzsn6l.jpg",
+      "_id": {
+        "$oid": "626aa6d4e195475408b83652"
+      }
+    },
+    {
+      "public_id": "products/csclsdowkrbimv0qut6k",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156688/products/csclsdowkrbimv0qut6k.jpg",
+      "thumb_id": "products/dldofxrx8p0bd4ghupkd",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156686/products/dldofxrx8p0bd4ghupkd.jpg",
+      "_id": {
+        "$oid": "626aa6d4e195475408b83653"
+      }
+    },
+    {
+      "public_id": "products/njtbk35qwiqhicechxuj",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156693/products/njtbk35qwiqhicechxuj.jpg",
+      "thumb_id": "products/i6htiwspbp7wm8awr0xl",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156690/products/i6htiwspbp7wm8awr0xl.jpg",
+      "_id": {
+        "$oid": "626aa6d4e195475408b83654"
+      }
+    },
+    {
+      "public_id": "products/sa6pn0a2h8pi1eqigujq",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156697/products/sa6pn0a2h8pi1eqigujq.jpg",
+      "thumb_id": "products/v5pqpcazfwhkxurxkrj5",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156695/products/v5pqpcazfwhkxurxkrj5.jpg",
+      "_id": {
+        "$oid": "626aa6d4e195475408b83655"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Samsung",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:38:12.466Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "samsung"
+},{
+  "_id": {
+    "$oid": "626aa7c0e195475408b83667"
+  },
+  "serial": "F8M731DQWHT",
+  "name": "Belkin Home Charger 2.4A White",
+  "slug": "belkin-home-charger-24a-white",
+  "price": 1190,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<p>Metallic Home Charger offers fast, convenient charging for smartphones, tablets, and any other device that charges via USB cable. This charger plugs directly into your AC wall socket, so you'll always be within reach of a quick battery boost. You'll be able to charge your devices without having to connect them to a computer or bulky docking port.&nbsp;</p>\n<h5>Features</h5>\n<ul>\n<li>Convenient charger plugs into AC outlets</li>\n<li>Charges smartphone, tablet, or other mobile devices up to 40  • percent faster than ordinary 5-watt chargers</li>\n<li>Sleek design with metallic finish</li>\n<li>Compatible with any USB charging cable (sold separately)</li>\n<li>Smart circuitry protects device from power spikes&nbsp;&nbsp;</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/hkzkftgh3nmpq4yfk7tf",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156933/products/hkzkftgh3nmpq4yfk7tf.jpg",
+      "thumb_id": "products/laxe6uh4yfxfbveaa2yu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651156930/products/laxe6uh4yfxfbveaa2yu.jpg",
+      "_id": {
+        "$oid": "626aa7c0e195475408b83668"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Belkin",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:42:08.024Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "belkin"
+},{
+  "_id": {
+    "$oid": "626aa99101f9945db5486aba"
+  },
+  "serial": "IPHONE 2200 MAH",
+  "name": "iPhone 5 & 5S (2)",
+  "slug": "iphone-5--5s-2",
+  "price": 890,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Output 5V 1000 mA</li>\n<li>Input 5v 1000 mA</li>\n<li>Capacity: 2,200 mAh</li>\n<li>Cycle Life: 500 times</li>\n<li>Charging Time: -3h</li>\n<li>Dimension(mm): 137*62*16mm</li>\n<li>Cell type: Lithium-Polymer battery</li>\n<li>Operating Temperatuer:-20-+45</li>\n<li>Weight: 79g</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/dybgondd7yzr4irnapjx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157398/products/dybgondd7yzr4irnapjx.jpg",
+      "thumb_id": "products/lgajiwydilhxkpk2fy6d",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157396/products/lgajiwydilhxkpk2fy6d.jpg",
+      "_id": {
+        "$oid": "626aa99101f9945db5486abc"
+      }
+    },
+    {
+      "public_id": "products/mzhjdzt0tf1gvkztukqi",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157394/products/mzhjdzt0tf1gvkztukqi.jpg",
+      "thumb_id": "products/wgwa2zge95q3n9k5bxwu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157392/products/wgwa2zge95q3n9k5bxwu.jpg",
+      "_id": {
+        "$oid": "626aa99101f9945db5486abb"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Power Case",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:49:53.697Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "power-case"
+},{
+  "_id": {
+    "$oid": "626aaa2b01f9945db5486ad1"
+  },
+  "serial": "IPHONE 2800 MAH",
+  "name": "iPhone 5 & 5S (3)",
+  "slug": "iphone-5--5s-3",
+  "price": 860,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Capacity:2,800 mAh</li>\n<li>Charging indicator</li>\n<li>Micro USB Input port</li>\n<li>USB Output port</li>\n<li>Input: 5V DC 1000mA</li>\n<li>Output: 5V DC 1000mA</li>\n</ul>\n",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "products/ia1lzhmkcelvityyjx2m",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157552/products/ia1lzhmkcelvityyjx2m.jpg",
+      "thumb_id": "products/qipw5wk7vxuevrgub6lm",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157549/products/qipw5wk7vxuevrgub6lm.jpg",
+      "_id": {
+        "$oid": "626aaa2b01f9945db5486ad4"
+      }
+    },
+    {
+      "public_id": "products/uluz7azd2asnuqiqusmt",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157541/products/uluz7azd2asnuqiqusmt.jpg",
+      "thumb_id": "products/d3khla4yz75zrjfbcwuc",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157537/products/d3khla4yz75zrjfbcwuc.jpg",
+      "_id": {
+        "$oid": "626aaa2b01f9945db5486ad2"
+      }
+    },
+    {
+      "public_id": "products/us0laehk5cnieioxxsdx",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157545/products/us0laehk5cnieioxxsdx.jpg",
+      "thumb_id": "products/jhya5a6ta084v5ntlxzi",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157543/products/jhya5a6ta084v5ntlxzi.jpg",
+      "_id": {
+        "$oid": "626aaa2b01f9945db5486ad3"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Power Case",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7bae1939ff81896b8cd56"
+      },
+      "name": "Nick Dittmer",
+      "avatar": {
+        "public_id": "avatars/gccxbl5yi157sfrqtqcv",
+        "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
+      },
+      "rating": 5,
+      "comment": "<p>Great product!</p>\r\n",
+      "_id": {
+        "$oid": "626b7d2919dc32c96eb90f00"
+      },
+      "reviewCreatedAt": {
+        "$date": "2022-04-29T05:52:41.327Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-04-28T14:52:27.461Z"
+  },
+  "__v": 1,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "power-case"
+},{
+  "_id": {
+    "$oid": "626aaaed01f9945db5486b29"
+  },
+  "serial": "IPHONE 1900 MAH",
+  "name": "iPhone Power Case",
+  "slug": "iphone-power-case",
+  "price": 890,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "<h4>Product Specifications</h4>\n<ul>\n<li>Weight: 65g</li>\n<li>Capacity: 1900 mAh</li>\n<li>Cell type: Li polymer battery Lithium-ion</li>\n<li>Dimension: 12.5 x 63 x 16mm</li>\n<li>Output voltage: 5V</li>\n<li>Output current: 500 mA</li>\n<li>Cycle life: 500 times</li>\n<li>Function &amp; character</li>\n<li>Enhance signalPower check &amp; Indication</li>\n<li>Power switch</li>\n<li>Protective and powerful</li>\n<li>Signature</li>\n<li>Standby Time: Up to 230 hours</li>\n<li>Talk Time: Up to 6 hours</li>\n<li>Internet Use: Up to 5.5 hours on 3G &amp; Up to 8 hours on Wi-Fi</li>\n<li>Audio Playback: Up to 30 hours</li>\n<li>Video Playback: Up to 8 hours</li>\n</ul>\n",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "products/ph2jtss0ikgsfjut4rtq",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157742/products/ph2jtss0ikgsfjut4rtq.jpg",
+      "thumb_id": "products/efyr1o1teey0i2f3w9xu",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157740/products/efyr1o1teey0i2f3w9xu.jpg",
+      "_id": {
+        "$oid": "626aaaed01f9945db5486b2a"
+      }
+    },
+    {
+      "public_id": "products/otot7tdkc681jroztuim",
+      "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157747/products/otot7tdkc681jroztuim.jpg",
+      "thumb_id": "products/cewzayb1s2dk1zoxamgq",
+      "thumbUrl": "https://res.cloudinary.com/marine-graphics/image/upload/v1651157744/products/cewzayb1s2dk1zoxamgq.jpg",
+      "_id": {
+        "$oid": "626aaaed01f9945db5486b2b"
+      }
+    }
+  ],
+  "categoryOne": "Accessories",
+  "categoryTwo": "Power Case",
+  "categoryThree": "",
+  "datePublished": {
+    "$date": "2022-04-28T00:00:00Z"
+  },
+  "stock": 99,
+  "numOfReviews": 0,
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "visible": 1,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-04-28T14:55:41.916Z"
+  },
+  "__v": 0,
+  "categoryOneSlug": "accessories",
+  "categoryThreeSlug": "",
+  "categoryTwoSlug": "power-case"
+}]

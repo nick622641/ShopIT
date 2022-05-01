@@ -1,0 +1,124 @@
+/* Header Styles */
+header {  
+    box-shadow: var(--box-shadow);
+    position: relative;
+    top: 0;
+    background: var(--secondary-color);    
+    z-index: 1;    
+    transition: all var(--speed);
+    color: white;
+}
+.header-wrapper {    
+    padding: 0 40px;  
+}
+.header-wrapper .parent {
+    align-items: center;
+}
+header.fixed {    
+    position: sticky;   
+}
+header .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 40px;
+    background: white;
+    padding: 20px;
+    width: 200px;
+    text-align: right;    
+    box-shadow: var(--box-shadow);   
+    z-index: 2000;
+}
+header .dropdown-menu a {
+    display: block;
+    line-height: 1.8em;
+}
+.logo {
+    max-width: 100px;
+}
+.logo:hover {
+    transform: scale(1.05);
+}
+/* search */
+ .searchform {
+    flex: 1;
+    margin: 0 40px;
+    align-items: center;
+ }
+ .searchform input {
+    border: solid 1px #ccc;
+    background: white;
+    width: 100%;
+    height: 24px;
+    padding: 0 10px;
+    border-radius: 3px;
+}
+.searchform input:focus {    
+    border-color: var(--primary-color);
+}
+.searchform button {
+    width: 24px; 
+    height: 24px;
+}
+.searchform button svg {
+    background: var(--primary-color);
+    color: white;
+    width: 24px;
+    height: 24px; 
+}
+/* Icons */
+.icons {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+header button {
+    width: 50px;
+    height: 50px;    
+}
+.header-icon  {
+    color: white;
+    transition: all var(--speed) !important;
+}
+header .icons button:hover svg {
+    color: var(--primary-color);
+}
+.mobile-menu {
+    display: none !important;
+}
+/* Footer Styles */
+footer small {
+    display: block;
+    text-align: center;
+    line-height: 3rem; 
+    color: #999;
+}  
+@media ( max-width: 768px ) {  
+    .header-wrapper {    
+        padding: 0;  
+    }
+    .mobile-menu {
+        display: block !important;
+    }
+    .searchform.d-flex {
+        display: none;
+    }
+    .searchform.d-flex.open {
+        display: block;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        white-space: nowrap;
+        width: calc(100% - 40px);        
+        margin: 0;
+        box-shadow: var(--box-shadow);
+    }
+    .searchform input {
+        padding: 20px 10px;
+        font-size: 18px;
+        text-align: center;        
+    }
+    .searchform button,
+    .searchform button svg {
+        width: 40px; 
+        height: 40px;
+    }
+ }
