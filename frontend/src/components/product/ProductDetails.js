@@ -82,7 +82,7 @@ const ProductDetails = () => {
 
         dispatch(getProductDetails(slug))
 
-        dispatch(getProducts( '', 1, [1, 100000], product.categoryOne, '', '', ''))
+        dispatch(getProducts( '', 1, [1, 100000], product.categoryOneSlug, '', '', ''))
         
         if(error) {            
             alert.error(error)  
@@ -106,7 +106,7 @@ const ProductDetails = () => {
             alert.success('Review Deleted Successfully')            
             dispatch({ type: DELETE_REVIEW_RESET })
         }         
-    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, product.categoryOne ])
+    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, product.categoryOneSlug ])
 
     const addToCart = () => {
         dispatch(addItemToCart(product.slug, quantity))
