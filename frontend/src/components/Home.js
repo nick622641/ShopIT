@@ -1,15 +1,15 @@
-import React, { Fragment, useEffect, useState } from 'react'
-import { useDispatch, useSelector             } from 'react-redux'
-import { getProducts } from '../actions/productActions'
-import Pagination                               from 'react-js-pagination'
-import MetaData                                 from './layouts/MetaData'
-import Product                                  from './product/Product'
-import FirstPageIcon from '@mui/icons-material/FirstPage'
-import LastPageIcon from '@mui/icons-material/LastPage'
-import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft'
-import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight'
-import Loader from './layouts/Loader'
-import { FormControl, InputLabel, MenuItem, Select } from '@mui/material'
+import React, { Fragment, useEffect, useState      } from 'react'
+import { useDispatch, useSelector                  } from 'react-redux'
+import { getProducts                               } from '../actions/productActions'
+import FirstPageIcon                                 from '@mui/icons-material/FirstPage'
+import LastPageIcon                                  from '@mui/icons-material/LastPage'
+import KeyboardArrowLeftIcon                         from '@mui/icons-material/KeyboardArrowLeft'
+import KeyboardArrowRightIcon                        from '@mui/icons-material/KeyboardArrowRight'
+import Pagination                                    from 'react-js-pagination'
+import MetaData                                      from './layouts/MetaData'
+import Loader                                        from './layouts/Loader'
+import Product                                       from './product/Product'
+import Filter from './product/Filter'
 
 const Home = () => {  
     
@@ -24,46 +24,22 @@ const Home = () => {
         if(error) {
             return alert.error(error)        
         } 
-        dispatch(getProducts('', currentPage, [1, process.env.REACT_APP_MAX_PRICE])) 
-    }, [dispatch, currentPage, error])
+        dispatch(getProducts('', currentPage, [1, process.env.REACT_APP_MAX_PRICE], '', '', '', 0, filter)) 
+    }, [dispatch, currentPage, error, filter])
 
-    function setCurrentPageNo(pageNumber) {
+    const setCurrentPageNo = (pageNumber) => {
         setCurrentPage(pageNumber)
     }
 
     return (
         <Fragment>
-
-            <MetaData title={'Home'} />     
-              
+            <MetaData title={'Home'} />   
             <div className="container">
-
                 <div className="wrapper"> 
-
                     {loading ? <Loader /> : (
-
                         <Fragment>
-
                             <h1>Latest Products</h1>
-
-                            <FormControl variant="standard"  fullWidth sx={{ mb: 1 }}>
-                                <InputLabel>Filter</InputLabel>
-                                <Select 
-                                    value={filter}
-                                    onChange={(e) => setFilter(e.target.value)}   
-                                >                                                                   
-                                    <MenuItem value="popular">  
-                                        Most Popular
-                                    </MenuItem>  
-                                    <MenuItem value="highToLow">  
-                                        Price High to Low
-                                    </MenuItem>
-                                    <MenuItem value="lowToHigh">  
-                                        Price Low to High
-                                    </MenuItem>
-                                </Select>
-                            </FormControl>
-
+                            <Filter filter={filter} setFilter={setFilter} />                            
                             <div className="showroom">
                                 {products && products.length > 0                             
                                     ?   products.map(product => (
@@ -72,10 +48,8 @@ const Home = () => {
                                     :   <p>No Results Found</p>
                                 }    
                             </div>  
-
                         </Fragment>                  
                     )}
-
                     {resPerPage <= productsCount && (
                         <div onClick={() => window.scrollTo(0, 0)}>
                             <Pagination
@@ -89,12 +63,9 @@ const Home = () => {
                                 lastPageText={<LastPageIcon />}  
                             />
                         </div>
-                    )}                 
-                          
+                    )}  
                 </div>
-
-            </div>   
-           
+            </div>              
         </Fragment>
     )
 }

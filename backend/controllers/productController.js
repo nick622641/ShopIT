@@ -120,12 +120,33 @@ exports.updateProduct = catchAsyncErrors(async (req, res, next) => {
 // Get all products => /api/v1/products?keyword=apple
 exports.getProducts = catchAsyncErrors(async (req, res, next) => {       
 
-    const resPerPage = 12
+    const resPerPage = 12    
+
+    let filter
+    let apiFeatures
+
+    if(req.query.filter) {        
+        filter = req.query.filter
+    }    
     
     const productsCount = await Product.countDocuments()
-    const apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ createdAt: -1 }), req.query)
-        .search()
-        .filter()
+    if (filter === 'popular') {
+        apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ ratings: -1 }), req.query)
+            .search()
+            .filter()
+    } else if (filter === 'highToLow') {
+        apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ price: -1 }), req.query)
+            .search()
+            .filter()
+    } else if (filter === 'lowToHigh') {
+        apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ price: +1 }), req.query)
+            .search()
+            .filter()
+    } else {
+        apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ createdAt: -1 }), req.query)
+            .search()
+            .filter()
+    }  
 
     let products = await apiFeatures.query
     let filteredProductsCount = products.length

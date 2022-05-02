@@ -21,6 +21,7 @@ import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft'
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight'
 import Rating from '@mui/material/Rating'
 import FormattedPrice from './layouts/FormattedPrice'
+import Filter from './product/Filter'
 import 'rc-slider/assets/index.css'
 
 const { createSliderWithTooltip } = Slider
@@ -41,6 +42,7 @@ const Gallery = () => {
     const [ currentPage, setCurrentPage ] = useState(1)
     const [ price,       setPrice       ] = useState([1, process.env.REACT_APP_MAX_PRICE])    
     const [ isMenuOpen,  setIsMenuOpen  ] = useState(false)   
+    const [ filter,      setFilter      ] = useState('') 
 
     const { categoryOnes   } = useSelector( state => state.categoryOnes )    
     const { categoryTwos   } = useSelector( state => state.categoryTwos )  
@@ -61,9 +63,9 @@ const Gallery = () => {
         if(error) {
             return alert.error(error)        
         }         
-        dispatch(getProducts(keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating))    
+        dispatch(getProducts(keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating, filter))    
 
-    }, [dispatch, alert, error, keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating])
+    }, [dispatch, alert, error, keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating, filter])
 
     useEffect( () => {
         dispatch(getCategoryOnes())        
@@ -71,7 +73,7 @@ const Gallery = () => {
         dispatch(getCategoryThrees())
     }, [dispatch] )
     
-    function setCurrentPageNo(pageNumber) {
+    const setCurrentPageNo = (pageNumber) => {
         setCurrentPage(pageNumber)
     }
 
@@ -110,7 +112,7 @@ const Gallery = () => {
                         {(isMenuOpen || !isMobile) && (
                             <animated.div style={isMobile ? menuAppear : {}}>
                                 <h3>
-                                    Filters
+                                    Options
                                     <Link to="/gallery">
                                         <Tooltip title="Clear Filters" arrow>
                                             <IconButton className="float-r">
@@ -136,9 +138,10 @@ const Gallery = () => {
                                     }}
                                     style={{ margin: "70px 0 20px 0" }}
                                 />  
+                                <Filter filter={filter} setFilter={setFilter} />
                                 {categoryOnes && categoryOnes.length > 0 && (                                       
                                     <Fragment>
-                                        <h6>{process.env.REACT_APP_CATEGORY_ONE}</h6>
+                                        <h6 style={{ marginTop: "40px" }}>{process.env.REACT_APP_CATEGORY_ONE}</h6>
                                         <ul>   
                                             {categoryOnes.map(_categoryOne => (
                                                 <li                                           
