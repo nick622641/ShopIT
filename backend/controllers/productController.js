@@ -122,15 +122,10 @@ exports.getProducts = catchAsyncErrors(async (req, res, next) => {
 
     const resPerPage = 12    
 
-    let filter
+    let filter = req.query.filter
     let apiFeatures
-
-    if(req.query.filter) {        
-        filter = req.query.filter
-    }    
-    if(req.query.id) {
-        filter = 'similar'
-    }
+     
+    if(req.query.id) filter = 'similar'
     
     const productsCount = await Product.countDocuments()
     if (filter === 'popular') {

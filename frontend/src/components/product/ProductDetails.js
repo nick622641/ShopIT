@@ -39,7 +39,6 @@ const ProductDetails = () => {
     const { user                            } = useSelector( state => state.auth )  
     const { isDeleted, error: deleteError   } = useSelector( state => state.review ) 
     const { products, filteredProductsCount } = useSelector( state => state.products )
-    const { categoryOne                     } = useSelector( state => state.categoryOneDetails )
 
     const [ modalType,         setIModalType        ] = useState()    
     const [ quantity,          setQuantity          ] = useState(1)
@@ -47,9 +46,6 @@ const ProductDetails = () => {
     const [ isModalVisible,    setIsModalVisible    ] = useState(false)
     const [ isLightboxVisible, setIsLightboxVisible ] = useState(false)     
     
-    // const categoryOne = process.env.REACT_APP_CATEGORY_ONE
-    // const categoryTwo = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
-
     let rating = 0
     let comment = ''  
 
@@ -81,13 +77,8 @@ const ProductDetails = () => {
 
     useEffect( () => {   
 
-        dispatch(getProductDetails(slug))
         dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOne, '', '', 0, '', product._id))
-        
-        if(error) {            
-            alert.error(error)  
-            dispatch(clearErrors())          
-        } 
+ 
         if(reviewError) { 
             alert.error(reviewError)
             dispatch(clearErrors())
@@ -98,15 +89,24 @@ const ProductDetails = () => {
             setIsModalVisible(false)
         } 
         if (deleteError) {
-            alert.error(error)
+            alert.error(deleteError)
             dispatch(clearErrors())
-        }          
-      
+        }    
         if(isDeleted) {
             alert.success('Review Deleted Successfully')            
             dispatch({ type: DELETE_REVIEW_RESET })
         }         
-    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, categoryOne, product.categoryOne, product._id])
+    }, [dispatch, success, alert, reviewError, deleteError, isDeleted, product.categoryOne, product._id])
+
+    useEffect(() => {
+
+        dispatch(getProductDetails(slug))
+        
+        if(error) {            
+            alert.error(error)  
+            dispatch(clearErrors())          
+        } 
+    }, [dispatch, alert, error, slug])
 
     const addToCart = () => {
         dispatch(addItemToCart(product.slug, quantity))
