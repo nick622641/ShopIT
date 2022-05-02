@@ -7,6 +7,7 @@ import { logout                               } from '../../actions/userActions'
 import { styled                               } from '@mui/material/styles'
 import { Tooltip                              } from '@mui/material'
 import IconButton                               from '@mui/material/IconButton'
+import MoreVertIcon                             from '@mui/icons-material/MoreVert'
 import ShoppingBasketIcon                       from '@mui/icons-material/ShoppingBasket'
 import PersonOutlineIcon                        from '@mui/icons-material/PersonOutline'
 import ShoppingCartIcon                         from '@mui/icons-material/ShoppingCart'
@@ -95,7 +96,12 @@ const Header = () => {
 
                         <div className="parent">
 
-                            <div className="d-flex align-items-center">                           
+                            <div className="d-flex align-items-center">  
+                                <Link to="/gallery">
+                                    <IconButton style={{ marginLeft: "-20px" }}>
+                                        <MoreVertIcon />
+                                    </IconButton>
+                                </Link>                         
                                 <Tooltip title="Home" arrow>
                                     <Link to="/">
                                         <img src="/images/shopit_logo.png" alt="Logo" className="logo" />
