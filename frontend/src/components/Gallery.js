@@ -262,20 +262,25 @@ const Gallery = () => {
                                             sx={{ color: "var(--primary-color)" }} 
                                             readOnly
                                         />
-                                    </span>
-                                    <small>
+                                    </span>                                    
+                                    <span style={{ fontSize: "14px" }}>
                                         {resPerPage * (currentPage - 1) + 1} 
                                         &nbsp;-&nbsp; 
                                         {resPerPage * currentPage > filteredProductsCount ? filteredProductsCount : resPerPage * currentPage} 
                                         &nbsp;  / &nbsp;{filteredProductsCount}
-                                    </small> 
+                                    </span> 
                                 </div>
+                                {categoryThree && (
+                                    <span>
+                                        Service: <b>{categoryThree}</b>
+                                    </span>
+                                )}
                                 <div className="showroom">
                                     {products && filteredProductsCount > 0                             
                                         ?   products.map(product => (
                                                 <Product key={product._id} product={product} />                                    
                                             )) 
-                                        :   <p>No Results Found</p>
+                                        :   <p style={{ padding: "0 15px" }}>No Results Found</p>
                                     }    
                                 </div>
                                 {resPerPage <= filteredProductsCount && (

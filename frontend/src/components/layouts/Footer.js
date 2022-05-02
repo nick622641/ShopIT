@@ -31,6 +31,7 @@ const Footer = () => {
 
             <ScrollToTop 
                 smooth 
+                top={500}
                 style={{ background: 'none', boxShadow: 'none' }} 
                 component={<ArrowCircleUpIcon color="primary" fontSize="large" />} 
             />
