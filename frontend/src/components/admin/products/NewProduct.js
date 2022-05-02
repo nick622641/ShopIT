@@ -35,13 +35,10 @@ const NewProduct = () => {
     const [ width,             setWidth             ] = useState('')
     const [ height,            setHeight            ] = useState('')
     const [ depth,             setDepth             ] = useState('')
-    const [ description,       setDescription       ] = useState('')
+    const [ description,       setDescription       ] = useState('')    
     const [ categoryOne,       setCategoryOne       ] = useState('')
-    const [ categoryOneSlug,   setCategoryOneSlug   ] = useState('')
     const [ categoryTwo,       setCategoryTwo       ] = useState('')
-    const [ categoryTwoSlug,   setCategoryTwoSlug   ] = useState('')
     const [ categoryThree,     setCategoryThree     ] = useState('')
-    const [ categoryThreeSlug, setCategoryThreeSlug ] = useState('')
     const [ stock,             setStock             ] = useState('')
     const [ visible,           setVisible           ] = useState(0)
     const [ datePublished,     setDatePublished     ] = useState(Date.now())
@@ -52,13 +49,13 @@ const NewProduct = () => {
     const { loading, error, success } = useSelector( state => state.newProduct )
     const { categoryOnes            } = useSelector( state => state.categoryOnes )
     const { categoryTwos            } = useSelector( state => state.categoryTwos )
-    const { categoryThrees          } = useSelector( state => state.categoryThrees )
+    const { categoryThrees          } = useSelector( state => state.categoryThrees )    
 
     useEffect(() => {
         
         dispatch(getCategoryOnes())        
         dispatch(getCategoryTwos())  
-        dispatch(getCategoryThrees())      
+        dispatch(getCategoryThrees())
 
         if(error) {
             alert.error(error)
@@ -69,7 +66,7 @@ const NewProduct = () => {
             dispatch({ type: NEW_PRODUCT_RESET })
             navigate('/admin/products')
         }
-    }, [dispatch, alert, error, success, navigate])
+    }, [dispatch, navigate, alert, error, success])
 
     const submitHandler = (e) => {
         
@@ -84,11 +81,8 @@ const NewProduct = () => {
         formData.set('depth', depth)
         formData.set('description', description)
         formData.set('categoryOne', categoryOne)
-        formData.set('categoryOneSlug', categoryOneSlug)
         formData.set('categoryTwo', categoryTwo)
-        formData.set('categoryTwoSlug', categoryTwoSlug)
         formData.set('categoryThree', categoryThree)
-        formData.set('categoryThreeSlug', categoryThreeSlug)
         formData.set('stock', stock)
         formData.set('visible', visible)
         formData.set('datePublished', datePublished)
@@ -124,13 +118,10 @@ const NewProduct = () => {
         return params.toString()
     }
 
-    const sanitizeInput = (value, type) => {
+    const sanitizeInput = (value) => {
         value = value.replace(/[^\w -]/ig, '')
         value = value.replace(/ /ig, '-')
-        if(type === 'name')          setSlug(value.toLowerCase())
-        if(type === 'categoryOne')   setCategoryOneSlug(value.toLowerCase())
-        if(type === 'categoryTwo')   setCategoryTwoSlug(value.toLowerCase())
-        if(type === 'categoryThree') setCategoryThreeSlug(value.toLowerCase())
+        setSlug(value.toLowerCase())        
     }
 
     return (
@@ -167,7 +158,7 @@ const NewProduct = () => {
                                             variant="standard"
                                             onChange={(e) => {
                                                 setName(e.target.value)
-                                                sanitizeInput(e.target.value, 'name')
+                                                sanitizeInput(e.target.value)
                                             }} 
                                             sx={{ mb: 1 }}
                                         />                                 
@@ -206,21 +197,7 @@ const NewProduct = () => {
 
                                         </div>
 
-                                        <div>  
-                                            <FormControl fullWidth>
-                                                <TextField
-                                                    label="Url Slug - (Read Only)"
-                                                    variant="filled"
-                                                    value={slug}
-                                                    disabled={true}
-                                                    InputProps={{
-                                                        readOnly: true,
-                                                    }}
-                                                    InputLabelProps={{
-                                                        shrink: true,
-                                                    }}
-                                                />
-                                            </FormControl>
+                                        <div>                                              
 
                                             <FormControl fullWidth>
                                                 <TextField 
@@ -323,17 +300,14 @@ const NewProduct = () => {
 
                                     </div>
 
-                                    <h4>Categories</h4>  
+                                    <h4>Categories</h4>                                     
 
                                     {categoryOnes.length > 0 && (
                                         <FormControl variant="standard" fullWidth sx={{ mb: 1 }}>
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_ONE}</InputLabel>
                                             <Select 
                                                 value={categoryOne}
-                                                onChange={(e) => {
-                                                    setCategoryOne(e.target.value)
-                                                    sanitizeInput(e.target.value, 'categoryOne')
-                                                }}                                             
+                                                onChange={(e) => setCategoryOne(e.target.value)}  
                                             >
                                                 {categoryOnes.map(categoryOne => (                                
                                                     <MenuItem 
@@ -352,13 +326,13 @@ const NewProduct = () => {
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_TWO}</InputLabel>
                                             <Select 
                                                 value={categoryTwo}
-                                                onChange={(e) => {
-                                                    setCategoryTwo(e.target.value)
-                                                    sanitizeInput(e.target.value, 'categoryTwo')
-                                                }}                                             
+                                                onChange={(e) => setCategoryTwo(e.target.value)}                                             
                                             >
                                                 {categoryTwos.map(categoryTwo => (                                
-                                                    <MenuItem key={categoryTwo._id} value={categoryTwo.name}>  
+                                                    <MenuItem 
+                                                        key={categoryTwo._id} 
+                                                        value={categoryTwo.name}
+                                                    >  
                                                         {categoryTwo.name} 
                                                     </MenuItem>                                                
                                                 ))} 
@@ -371,13 +345,13 @@ const NewProduct = () => {
                                             <InputLabel>{process.env.REACT_APP_CATEGORY_THREE}</InputLabel>
                                             <Select 
                                                 value={categoryThree}
-                                                onChange={(e) => {
-                                                    setCategoryThree(e.target.value)
-                                                    sanitizeInput(e.target.value, 'categoryThree')
-                                                }}                                             
+                                                onChange={(e) => setCategoryThree(e.target.value)}                                             
                                             >
                                                 {categoryThrees.map(categoryThree => (                                
-                                                    <MenuItem key={categoryThree._id} value={categoryThree.name}>  
+                                                    <MenuItem 
+                                                        key={categoryThree._id} 
+                                                        value={categoryThree.name
+                                                    }>  
                                                         {categoryThree.name} 
                                                     </MenuItem>                                                
                                                 ))} 

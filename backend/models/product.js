@@ -27,13 +27,11 @@ const productSchema = new mongoose.Schema({
     },
     width: {
         type: Number,
-        // required: [true, 'Please enter a width in CM'],
         maxLength: [5, 'Width may not exceed 5 digits'],
         default: 0.0
     },
     height: {
         type: Number,
-        // required: [true, 'Please enter a height in CM'],
         maxLength: [5, 'Height may not exceed 5 digits'],
         default: 0.0
     },
@@ -73,23 +71,13 @@ const productSchema = new mongoose.Schema({
     categoryOne: {
         type: String,
         required: [true, 'Please select a category']
-    },
-    categoryOneSlug: {
-        type: String,
-        required: true
-    },
+    },  
     categoryTwo: {
         type: String     
-    },
-    categoryTwoSlug: {
-        type: String
-    },
+    },   
     categoryThree: {
         type: String        
-    },
-    categoryThreeSlug: {
-        type: String
-    },
+    },     
     datePublished: {
         type: Date,
         default: Date.now

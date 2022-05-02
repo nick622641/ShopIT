@@ -46,28 +46,34 @@ import {
 } from '../constants/productConstants'
 
 // Get all products
-export const getProducts = ( keyword = '', currentPage = 1, price, categoryOneSlug = '', categoryTwoSlug = '', categoryThreeSlug = '', rating = 0) => async (dispatch) => {
+export const getProducts = ( keyword = '', currentPage = 1, price, categoryOne = '', categoryTwo = '', categoryThree = '', rating = 0) => async (dispatch) => {
     try {
 
         dispatch({ type: ALL_PRODUCTS_REQUEST })
 
-        let link = `/api/v1/products?page=${currentPage}&keyword=${keyword}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        let link = `/api/v1/products?page=${currentPage}&keyword=${keyword}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
  
-        if( categoryOneSlug ) {    
-            link = `/api/v1/products?page=${currentPage}&categoryOneSlug=${categoryOneSlug}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        if( categoryOne ) {   
+            link = `/api/v1/products?page=${currentPage}&categoryOne=${categoryOne}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
         }   
-        if( categoryTwoSlug ) {    
-            link = `/api/v1/products?page=${currentPage}&categoryTwoSlug=${categoryTwoSlug}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        if( categoryTwo ) {    
+            link = `/api/v1/products?page=${currentPage}&categoryTwo=${categoryTwo}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
         } 
-        if( categoryThreeSlug ) {    
-            link = `/api/v1/products?page=${currentPage}&categoryThreeSlug=${categoryThreeSlug}&price[lte]=${price[1]}&price[gte]=${price[0]}`
-        }        
-        // if( rating ) {    
-        //     link = `/api/v1/products?page=${currentPage}&ratings[gte]=${rating}&price[lte]=${price[1]}&price[gte]=${price[0]}`
-        // } 
-        if( rating ) {    
-            link = `/api/v1/products?page=${currentPage}&ratings=${rating}&price[lte]=${price[1]}&price[gte]=${price[0]}`
+        if( categoryThree ) {    
+            link = `/api/v1/products?page=${currentPage}&categoryThree=${categoryThree}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
+        } 
+        if( categoryOne && categoryTwo ) {
+            link = `/api/v1/products?page=${currentPage}&categoryOne=${categoryOne}&categoryTwo=${categoryTwo}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
         }
+        if( categoryOne && categoryThree ) {
+            link = `/api/v1/products?page=${currentPage}&categoryOne=${categoryOne}&categoryThree=${categoryThree}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
+        }
+        if( categoryTwo && categoryThree ) {
+            link = `/api/v1/products?page=${currentPage}&categoryTwo=${categoryTwo}&categoryThree=${categoryThree}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
+        }
+        if( categoryOne && categoryTwo && categoryThree ) {
+            link = `/api/v1/products?page=${currentPage}&categoryOne=${categoryOne}&categoryTwo=${categoryTwo}&categoryThree=${categoryThree}&price[lte]=${price[1]}&price[gte]=${price[0]}&ratings[gte]=${rating}`
+        }  
 
         const { data } = await axios.get(link)
 

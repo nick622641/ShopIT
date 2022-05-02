@@ -20,7 +20,6 @@ const NewCategoryTwo = () => {
     const dispatch = useDispatch()
 
     const [ name,       setName       ] = useState('')  
-    const [ slug,       setSlug       ] = useState('')
     const [ fullscreen, setFullscreen ] = useState(false)
 
     const { loading, error, success } = useSelector( state => state.newCategoryTwo )
@@ -43,15 +42,8 @@ const NewCategoryTwo = () => {
         e.preventDefault()
         const formData = new FormData()
         formData.set('name', name)  
-        formData.set('slug', slug)      
         dispatch(newCategoryTwo(formData))
-    }   
-
-    const sanitizeInput = (value) => {
-        value = value.replace(/[^\w -]/ig, '')
-        value = value.replace(/ /ig, '-')
-        setSlug(value.toLowerCase())
-    }
+    }     
 
     return (
 
@@ -82,28 +74,10 @@ const NewCategoryTwo = () => {
                                         label={`${process.env.REACT_APP_CATEGORY_TWO} Name`} 
                                         value={name}
                                         variant="standard"
-                                        onChange={(e) => {
-                                            setName(e.target.value)
-                                            sanitizeInput(e.target.value)
-                                        }} 
+                                        onChange={(e) => setName(e.target.value)} 
                                         sx={{ mb: 1 }}
                                     />                                 
-                                </FormControl>
-
-                                <FormControl fullWidth>
-                                    <TextField
-                                        label="Url Slug - (Read Only)"
-                                        variant="filled"
-                                        value={slug}
-                                        disabled={true}
-                                        InputProps={{
-                                            readOnly: true,
-                                        }}
-                                        InputLabelProps={{
-                                            shrink: true,
-                                        }}
-                                    />
-                                </FormControl>
+                                </FormControl>                                
 
                                 <LoadingButton 
                                     loading={loading}

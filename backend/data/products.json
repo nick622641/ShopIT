@@ -38,10 +38,7 @@
     "$date": "2022-04-28T04:46:39.617Z"
   },
   "__v": 0,
-  "serial": "G550",
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "serial": "G550"
 },{
   "_id": {
     "$oid": "626a2fba76bd34a5c13c9f09"
@@ -82,10 +79,7 @@
     "$date": "2022-04-28T06:10:02.010Z"
   },
   "__v": 0,
-  "serial": "REM101",
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "serial": "REM101"
 },{
   "_id": {
     "$oid": "626a3b94813f6f30ebf353dc"
@@ -135,10 +129,7 @@
     "$date": "2022-04-28T07:00:36.707Z"
   },
   "__v": 0,
-  "serial": "REM2",
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "serial": "REM2"
 },{
   "_id": {
     "$oid": "626a48dd8e85565bcb9629e9"
@@ -188,10 +179,7 @@
     "$date": "2022-04-28T07:57:17.047Z"
   },
   "__v": 0,
-  "serial": "DCT2",
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "serial": "DCT2"
 },{
   "_id": {
     "$oid": "626a4ff31b17d508b16cc187"
@@ -241,10 +229,7 @@
   "createdAt": {
     "$date": "2022-04-28T08:27:31.762Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a512a1b17d508b16cc1b1"
@@ -303,10 +288,7 @@
   "createdAt": {
     "$date": "2022-04-28T08:32:42.805Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a52591b17d508b16cc1c6"
@@ -347,10 +329,7 @@
   "createdAt": {
     "$date": "2022-04-28T08:37:45.219Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a53591b17d508b16cc1e0"
@@ -400,10 +379,7 @@
   "createdAt": {
     "$date": "2022-04-28T08:42:01.363Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "security",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "paradox"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a599e1b17d508b16cc24c"
@@ -444,10 +420,7 @@
   "createdAt": {
     "$date": "2022-04-28T09:08:46.952Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a5d29769328d4611d0077"
@@ -488,10 +461,7 @@
   "createdAt": {
     "$date": "2022-04-28T09:23:53.775Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a712d6b89e08aaf36cf84"
@@ -532,10 +502,7 @@
   "createdAt": {
     "$date": "2022-04-28T10:49:17.461Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a72296b89e08aaf36cf97"
@@ -576,10 +543,7 @@
   "createdAt": {
     "$date": "2022-04-28T10:53:29.741Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a73496b89e08aaf36cfaa"
@@ -620,10 +584,7 @@
   "createdAt": {
     "$date": "2022-04-28T10:58:17.857Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a74136b89e08aaf36cfbd"
@@ -664,10 +625,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:01:39.470Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a750f6b89e08aaf36cfd0"
@@ -708,10 +666,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:05:51.984Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "surveillance",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a77e96b89e08aaf36cfed"
@@ -779,10 +734,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:18:01.738Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a79566b89e08aaf36d03f"
@@ -850,10 +802,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:24:06.895Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a7a846b89e08aaf36d058"
@@ -903,10 +852,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:29:08.210Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a7c0c6b89e08aaf36d06c"
@@ -956,10 +902,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:35:40.796Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a7cfd6b89e08aaf36d080"
@@ -1009,10 +952,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:39:41.471Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a7df66b89e08aaf36d094"
@@ -1062,10 +1002,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:43:50.983Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a7f536b89e08aaf36d0a8"
@@ -1106,10 +1043,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:49:39.859Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a802c6b89e08aaf36d0bb"
@@ -1159,10 +1093,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:53:16.637Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a81506b89e08aaf36d0cf"
@@ -1212,10 +1143,7 @@
   "createdAt": {
     "$date": "2022-04-28T11:58:08.151Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a82c06b89e08aaf36d0e3"
@@ -1292,10 +1220,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:04:16.733Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a83be6b89e08aaf36d0fa"
@@ -1372,10 +1297,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:08:30.618Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a84bb6b89e08aaf36d15b"
@@ -1425,10 +1347,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:12:43.384Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a86336b89e08aaf36d16f"
@@ -1515,10 +1434,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:18:59.273Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626a871e6b89e08aaf36d185"
@@ -1568,10 +1484,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:22:54.706Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a882d6b89e08aaf36d1b2"
@@ -1621,10 +1534,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:27:25.026Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a891c6b89e08aaf36d1c6"
@@ -1683,10 +1593,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:31:24.993Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8a7f6b89e08aaf36d208"
@@ -1745,10 +1652,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:37:19.629Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8b9d6b89e08aaf36d23f"
@@ -1798,10 +1702,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:42:05.693Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8c7b6b89e08aaf36d253"
@@ -1842,10 +1743,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:45:47.602Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8d0a6b89e08aaf36d266"
@@ -1886,10 +1784,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:48:10.076Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "network-and-wifi",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8e3a6b89e08aaf36d280"
@@ -1930,10 +1825,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:53:14.288Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8f146b89e08aaf36d293"
@@ -2001,10 +1893,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:56:52.873Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8f996b89e08aaf36d2a9"
@@ -2054,10 +1943,7 @@
   "createdAt": {
     "$date": "2022-04-28T12:59:05.608Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a902c6b89e08aaf36d2c8"
@@ -2107,10 +1993,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:01:32.775Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a920b6b89e08aaf36d2f7"
@@ -2151,10 +2034,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:09:31.041Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a92fa6b89e08aaf36d30a"
@@ -2213,10 +2093,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:13:30.209Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a941f6b89e08aaf36d31f"
@@ -2266,10 +2143,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:18:23.135Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a95026b89e08aaf36d354"
@@ -2319,10 +2193,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:22:10.564Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a95f36b89e08aaf36d383"
@@ -2372,10 +2243,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:26:11.098Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a96b86b89e08aaf36d3b2"
@@ -2434,10 +2302,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:29:28.245Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a977d6b89e08aaf36d405"
@@ -2487,10 +2352,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:32:45.255Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a98316b89e08aaf36d419"
@@ -2559,10 +2421,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:35:45.689Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "power-systems",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "apc"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626a9abd6b89e08aaf36d4d4"
@@ -2639,10 +2498,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:46:37.976Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "tracking",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "trackr"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a9b8d6b89e08aaf36d51c"
@@ -2738,10 +2594,7 @@
   "createdAt": {
     "$date": "2022-04-28T13:50:05.812Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "tracking",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "trackr"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626aa34fe195475408b835a6"
@@ -2791,10 +2644,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:23:11.744Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "solar-equipment",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "solar"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa406e195475408b835c1"
@@ -2854,10 +2704,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:26:14.512Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "belkin"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626aa52fe195475408b835db"
@@ -2971,10 +2818,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:31:11.597Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "power-case"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626aa634e195475408b8363d"
@@ -3024,10 +2868,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:35:32.042Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "belkin"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa6d4e195475408b83651"
@@ -3095,10 +2936,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:38:12.466Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "samsung"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa7c0e195475408b83667"
@@ -3139,10 +2977,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:42:08.024Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "belkin"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa99101f9945db5486aba"
@@ -3192,10 +3027,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:49:53.697Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "power-case"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aaa2b01f9945db5486ad1"
@@ -3273,10 +3105,7 @@
   "createdAt": {
     "$date": "2022-04-28T14:52:27.461Z"
   },
-  "__v": 1,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "power-case"
+  "__v": 1
 },{
   "_id": {
     "$oid": "626aaaed01f9945db5486b29"
@@ -3326,8 +3155,5 @@
   "createdAt": {
     "$date": "2022-04-28T14:55:41.916Z"
   },
-  "__v": 0,
-  "categoryOneSlug": "accessories",
-  "categoryThreeSlug": "",
-  "categoryTwoSlug": "power-case"
+  "__v": 0
 }]

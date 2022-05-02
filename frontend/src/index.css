@@ -77,11 +77,9 @@ a:hover {
   color: var(--primary-color);
 }
 .link-active {
-  color: var(--primary-color);
   border-top: solid 1px var(--primary-color);
   border-bottom: solid 1px var(--primary-color);
-  font-weight: bold;
-  pointer-events: none;  
+  font-weight: bold;  
 }
 /* Image Styles */
 img {

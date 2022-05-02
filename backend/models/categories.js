@@ -7,12 +7,6 @@ const categoryOneSchema = mongoose.Schema({
         unique: true,
         trim: true,
         maxLength: [100, 'Name may not exceed 100 characters']
-    },
-    slug: {
-        type: String,
-        required: true,
-        unique: true,
-        trim: true
     }
 })
 const CategoryOne = mongoose.model('CategoryOne', categoryOneSchema)
@@ -24,12 +18,6 @@ const categoryTwoSchema = mongoose.Schema({
         unique: true,
         trim: true,
         maxLength: [100, 'Name may not exceed 100 characters']
-    },
-    slug: {
-        type: String,
-        required: true,
-        unique: true,
-        trim: true
     }
 })
 const CategoryTwo = mongoose.model('CategoryTwo', categoryTwoSchema)
@@ -41,12 +29,6 @@ const categoryThreeSchema = mongoose.Schema({
         unique: true,
         trim: true,
         maxLength: [100, 'Name may not exceed 100 characters']
-    },
-    slug: {
-        type: String,
-        required: true,
-        unique: true,
-        trim: true
     }
 })
 const CategoryThree = mongoose.model('CategoryThree', categoryThreeSchema)

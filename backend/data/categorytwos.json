@@ -3,62 +3,53 @@
     "$oid": "626a15d0a03e95878267d2e2"
   },
   "name": "Paradox",
-  "__v": 0,
-  "slug": "paradox"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a58781b17d508b16cc244"
   },
   "name": "Dahua",
-  "__v": 0,
-  "slug": "dahua"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a78116b89e08aaf36d00b"
   },
   "name": "Engenius",
-  "__v": 0,
-  "slug": "engenius"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a8db86b89e08aaf36d278"
   },
   "name": "APC",
-  "__v": 0,
-  "slug": "apc"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a9bbc6b89e08aaf36d556"
   },
   "name": "TRACKR",
-  "__v": 0,
-  "slug": "trackr"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa2cde195475408b8359e"
   },
   "name": "Solar",
-  "__v": 0,
-  "slug": "solar"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa3a4e195475408b835b9"
   },
   "name": "Belkin",
-  "__v": 0,
-  "slug": "belkin"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa441e195475408b835d3"
   },
   "name": "Power Case",
-  "__v": 0,
-  "slug": "power-case"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626aa7d1e195475408b83679"
   },
   "name": "Samsung",
-  "__v": 0,
-  "slug": "samsung"
+  "__v": 0
 }]

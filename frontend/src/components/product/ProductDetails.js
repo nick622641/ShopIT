@@ -39,6 +39,7 @@ const ProductDetails = () => {
     const { user                            } = useSelector( state => state.auth )  
     const { isDeleted, error: deleteError   } = useSelector( state => state.review ) 
     const { products, filteredProductsCount } = useSelector( state => state.products )
+    const { categoryOne                     } = useSelector( state => state.categoryOneDetails )
 
     const [ modalType,         setIModalType        ] = useState()    
     const [ quantity,          setQuantity          ] = useState(1)
@@ -46,8 +47,8 @@ const ProductDetails = () => {
     const [ isModalVisible,    setIsModalVisible    ] = useState(false)
     const [ isLightboxVisible, setIsLightboxVisible ] = useState(false)     
     
-    const categoryOnePath = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-')
-    const categoryTwoPath = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
+    // const categoryOne = process.env.REACT_APP_CATEGORY_ONE
+    // const categoryTwo = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
 
     let rating = 0
     let comment = ''  
@@ -81,8 +82,7 @@ const ProductDetails = () => {
     useEffect( () => {   
 
         dispatch(getProductDetails(slug))
-
-        dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOneSlug, '', '', ''))
+        dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOne, '', '', 0))
         
         if(error) {            
             alert.error(error)  
@@ -106,13 +106,13 @@ const ProductDetails = () => {
             alert.success('Review Deleted Successfully')            
             dispatch({ type: DELETE_REVIEW_RESET })
         }         
-    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, product.categoryOneSlug ])
+    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, categoryOne, product.categoryOne])
 
     const addToCart = () => {
         dispatch(addItemToCart(product.slug, quantity))
         alert.success('Item Added to Cart')
-    }        
-
+    }
+    
     return (
 
         <Fragment>  
@@ -134,9 +134,7 @@ const ProductDetails = () => {
                             medium={product.media}
                             rating={product.ratings}
                         />
-                    )} */}
-
-                    
+                    )} */}                    
 
                     <div className="container"> 
 
@@ -148,13 +146,7 @@ const ProductDetails = () => {
                             <Link to="/gallery">
                                 <small>Gallery</small>
                             </Link>
-                            &nbsp;/&nbsp;
-                            {product.categoryOne && (
-                                <Link to={`/gallery/${categoryOnePath}/${product.categoryOne.replace(/ /g, '-')}`}>
-                                    <small>{product.categoryOne}</small>
-                                </Link>
-                            )}                                
-                            &nbsp;/&nbsp;
+                            &nbsp;/&nbsp;                            
                             <span>
                                 <small>{product.name}</small>
                             </span>
@@ -182,7 +174,9 @@ const ProductDetails = () => {
                                         </li>
                                     ))}
                                     </ul>                                       
-                                </div>                                    
+                                </div>  
+
+                                <div style={{ width: "40px" }} />                                  
 
                                 <div>  
 
@@ -190,7 +184,7 @@ const ProductDetails = () => {
 
                                     <h3
                                          className="text-center"
-                                         style={{ color: "#999" }}
+                                         style={{ color: "#999", fontSize: "22px" }}
                                     >
                                         {product.serial}
                                     </h3>                                      
@@ -200,9 +194,7 @@ const ProductDetails = () => {
                                             <tr>
                                                 <th className="text-right">{process.env.REACT_APP_CATEGORY_ONE}</th>
                                                 <td>
-                                                    <Link to={`/gallery/${categoryOnePath}/${product.categoryOne}`}>
-                                                        {product.categoryOne}
-                                                    </Link>
+                                                    {product.categoryOne}
                                                 </td>
                                             </tr>  
                                             {product.width && product.height && (
@@ -214,9 +206,7 @@ const ProductDetails = () => {
                                             <tr>
                                                 <th className="text-right">{process.env.REACT_APP_CATEGORY_TWO}</th>
                                                 <td>
-                                                    <Link to={`/gallery/${categoryTwoPath}/${product.categoryTwo}`}>
-                                                        {product.categoryTwo}
-                                                    </Link>
+                                                    {product.categoryTwo}
                                                 </td>
                                             </tr>                                       
                                             <tr>

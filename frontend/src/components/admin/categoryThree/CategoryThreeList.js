@@ -94,7 +94,7 @@ const CategoryThreeList = () => {
                     <Link to={`/admin/${categoryThreePath}/${categoryThree._id}`}>
                         <Tooltip title="Update" arrow>
                             <IconButton>
-                                <EditOutlinedIcon />
+                                <EditOutlinedIcon color="secondary" />
                             </IconButton>
                         </Tooltip>
                     </Link> 

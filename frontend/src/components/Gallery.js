@@ -6,6 +6,7 @@ import { useMediaQuery } from 'react-responsive'
 import { useSpring, animated } from 'react-spring'
 import { getProducts } from '../actions/productActions'
 import { getCategoryOnes, getCategoryTwos, getCategoryThrees } from '../actions/categoryActions'
+import { Tooltip } from '@mui/material'
 import MetaData from './layouts/MetaData'
 import Product from './product/Product'
 import Loader from './layouts/Loader'
@@ -19,29 +20,23 @@ import LastPageIcon from '@mui/icons-material/LastPage'
 import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft'
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight'
 import Rating from '@mui/material/Rating'
-import 'rc-slider/assets/index.css'
 import FormattedPrice from './layouts/FormattedPrice'
+import 'rc-slider/assets/index.css'
 
 const { createSliderWithTooltip } = Slider
 const Range = createSliderWithTooltip(Slider.Range)
 
-const Gallery = () => {
-
-    const categoryOnePath   = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-')
-    const categoryTwoPath   = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
-    const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-')
+const Gallery = () => {    
 
     const dispatch = useDispatch()
     const alert    = useAlert()    
     const isMobile = useMediaQuery({ query: '(max-width: 768px)' })
-    const keyword  = useParams().keyword    
-    const categoryOneQuery   = useParams().type
-    const categoryTwoQuery   = useParams().brand 
-    const categoryThreeQuery = useParams().service 
-    const rating             = useParams().rating 
-    const categoryOne        = categoryOneQuery   ? categoryOneQuery.replace(/-/g, ' ')   : ''
-    const categoryTwo        = categoryTwoQuery   ? categoryTwoQuery.replace(/-/g, ' ')   : ''
-    const categoryThree      = categoryThreeQuery ? categoryThreeQuery.replace(/-/g, ' ') : ''
+    const keyword  = useParams().keyword
+   
+    const [ rating,      setRating          ] = useState(0)
+    const [ categoryOne, setCategoryOne     ] = useState('')
+    const [ categoryTwo, setCategoryTwo     ] = useState('')
+    const [ categoryThree, setCategoryThree ] = useState('')
 
     const [ currentPage, setCurrentPage ] = useState(1)
     const [ price,       setPrice       ] = useState([1, process.env.REACT_APP_MAX_PRICE])    
@@ -62,17 +57,20 @@ const Gallery = () => {
         window.scrollTo(0, 0)           
     }
 
+    useEffect( () => {        
+        if(error) {
+            return alert.error(error)        
+        }         
+        dispatch(getProducts(keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating))    
+
+    }, [dispatch, alert, error, keyword, currentPage, price, categoryOne, categoryTwo, categoryThree, rating])
+
     useEffect( () => {
         dispatch(getCategoryOnes())        
         dispatch(getCategoryTwos())
         dispatch(getCategoryThrees())
-        if(error) {
-            return alert.error(error)        
-        }         
-        dispatch(getProducts(keyword, currentPage, price, categoryOneQuery, categoryTwoQuery, categoryThreeQuery, rating))    
-
-    }, [dispatch, alert, error, keyword, currentPage, price, categoryOneQuery, categoryTwoQuery, categoryThreeQuery, rating])
-
+    }, [dispatch] )
+    
     function setCurrentPageNo(pageNumber) {
         setCurrentPage(pageNumber)
     }
@@ -82,17 +80,12 @@ const Gallery = () => {
     if ( keyword       ) { title = keyword }
     if ( categoryOne   ) { title = categoryOne }
     if ( categoryTwo   ) { title = categoryTwo }
-    if ( categoryThree ) { title = categoryThree }
-    if ( rating        ) { title = `Rating ${rating} / 5` }  
+    if ( categoryOne && categoryTwo ) { title = `${categoryOne} (${categoryTwo})` }
 
-    return (       
-
+    return (  
         <Fragment>
-
-            <MetaData title={`Gallery - ${title}`} />                                      
-
+            <MetaData title={`Gallery - ${title}`} />
             <div className="container">
-
                 <div className="breadcrumbs">
                     <Link to="/">
                         <small>Home</small>
@@ -106,38 +99,28 @@ const Gallery = () => {
                         <small>{title}</small>
                     </span>
                 </div>
-
                 <div className="wrapper parent">  
-
                     <aside>
-
                         <button 
                             className="filters"
                             onClick={() => {setIsMenuOpen(!isMenuOpen)}}
                         >
                             Show Menu
                         </button>
-
                         {(isMenuOpen || !isMobile) && (
-
                             <animated.div style={isMobile ? menuAppear : {}}>
-
                                 <h3>
                                     Filters
                                     <Link to="/gallery">
-                                        <IconButton className="float-r">
-                                            <AutorenewIcon color="primary" />
-                                        </IconButton>
+                                        <Tooltip title="Clear Filters" arrow>
+                                            <IconButton className="float-r">
+                                                <AutorenewIcon color="primary" />
+                                            </IconButton>
+                                        </Tooltip>
                                     </Link>
-                                </h3>    
-
+                                </h3>   
                                 <h6>Price Range</h6>
-
-                                <Range 
-                                    marks={{
-                                        1 : `฿1`,
-                                        60000 : `฿${process.env.REACT_APP_MAX_PRICE}`
-                                    }}
+                                <Range                                     
                                     min={1}
                                     max={process.env.REACT_APP_MAX_PRICE}
                                     defaultValue={[1, process.env.REACT_APP_MAX_PRICE]}
@@ -151,151 +134,131 @@ const Gallery = () => {
                                         setPrice(price)                          
                                         resetPage()
                                     }}
-                                    style={{ margin: "50px 0" }}
+                                    style={{ margin: "70px 0 20px 0" }}
                                 />  
-
-                                {categoryOnes && categoryOnes.length > 0 && (   
-                                    
+                                {categoryOnes && categoryOnes.length > 0 && (                                       
                                     <Fragment>
-
                                         <h6>{process.env.REACT_APP_CATEGORY_ONE}</h6>
-
                                         <ul>   
                                             {categoryOnes.map(_categoryOne => (
                                                 <li                                           
                                                     key={_categoryOne.name}                             
-                                                    className={categoryOneQuery === _categoryOne.slug ? 'link-active' : ''}
-                                                >                                                                          
-                                                    <Link 
-                                                        to={`/gallery/${categoryOnePath}/${_categoryOne.slug}`}
-                                                        className="whitespace-nowrap"
-                                                    >
-                                                        <Checkbox 
-                                                            checked={categoryOneQuery === _categoryOne.slug ? true : false} 
-                                                            size="small"
-                                                            sx={{ py: 0.3 }}
-                                                            color="primary"
-                                                        />                                      
-                                                        {_categoryOne.name}
-                                                    </Link>
+                                                    className={categoryOne === _categoryOne.name ? 'link-active' : ''}
+                                                    onClick={() => {
+                                                        setCategoryOne(categoryOne === _categoryOne.name ? '' : _categoryOne.name)
+                                                        resetPage()
+                                                    }}
+                                                    style={{ cursor: "pointer" }}
+                                                > 
+                                                    <Checkbox 
+                                                        checked={categoryOne === _categoryOne.name ? true : false} 
+                                                        size="small"
+                                                        sx={{ py: 0.3 }}
+                                                        color="primary"
+                                                    />                                      
+                                                    {_categoryOne.name}
                                                 </li>
                                             ))}
                                         </ul>
-
                                     </Fragment>
-
                                 )}
-
                                 {categoryTwos && categoryTwos.length > 0 && (
-
                                     <Fragment>
-
                                         <h6>{process.env.REACT_APP_CATEGORY_TWO}</h6>
-
                                         <ul>
                                             {categoryTwos.map(_categoryTwo => (
                                                 <li                                           
                                                     key={_categoryTwo.name}                               
-                                                    className={categoryTwoQuery === _categoryTwo.slug ? 'link-active' : ''}
+                                                    className={categoryTwo === _categoryTwo.name ? 'link-active' : ''}
+                                                    onClick={() => {
+                                                        setCategoryTwo(categoryTwo === _categoryTwo.name ? '' : _categoryTwo.name)
+                                                        resetPage()
+                                                    }}
+                                                    style={{ cursor: "pointer" }}
                                                 >
-                                                    <Link to={`/gallery/${categoryTwoPath}/${_categoryTwo.slug}`}>
-                                                        <Checkbox 
-                                                            checked={categoryTwoQuery === _categoryTwo.slug ? true : false} 
-                                                            size="small"
-                                                            sx={{ py: 0.3 }}
-                                                            color="primary"
-                                                        />                                            
-                                                        {_categoryTwo.name}
-                                                    </Link>
+                                                    <Checkbox 
+                                                        checked={categoryTwo === _categoryTwo.name ? true : false} 
+                                                        size="small"
+                                                        sx={{ py: 0.3 }}
+                                                        color="primary"
+                                                    />                                            
+                                                    {_categoryTwo.name}
                                                 </li>
                                             ))}
                                         </ul>
-
                                     </Fragment>
-
                                 )}
-
                                 {categoryThrees && categoryThrees.length > 0 && (
-
                                     <Fragment>
-
                                         <h6>{process.env.REACT_APP_CATEGORY_THREE}</h6>
-
                                         <ul>
                                             {categoryThrees.map(_categoryThree => (
                                                 <li                                           
                                                     key={_categoryThree.name}                                    
-                                                    className={categoryThreeQuery === _categoryThree.slug ? 'link-active' : ''}
+                                                    className={categoryThree === _categoryThree.name ? 'link-active' : ''}
+                                                    onClick={() => {
+                                                        setCategoryThree(categoryThree === _categoryThree.name ? '' : _categoryThree.name)
+                                                        resetPage()
+                                                    }}
+                                                    style={{ cursor: "pointer" }}
                                                 >
-                                                    <Link to={`/gallery/${categoryThreePath}/${_categoryThree.slug}`}>
-                                                        <Checkbox 
-                                                            checked={categoryThreeQuery === _categoryThree.slug ? true : false} 
-                                                            size="small"
-                                                            sx={{ py: 0.3 }}
-                                                            color="primary"
-                                                        />                                       
-                                                        {_categoryThree.name}
-                                                    </Link>
+                                                    <Checkbox 
+                                                        checked={categoryThree === _categoryThree.name ? true : false} 
+                                                        size="small"
+                                                        sx={{ py: 0.3 }}
+                                                        color="primary"
+                                                    />                                       
+                                                    {_categoryThree.name}
                                                 </li>
                                             ))}
                                         </ul>  
-
                                     </Fragment>
-
-                                )}
-                                
-                                {categoryOnes && categoryOnes.length > 0 && (
-
-                                    <Fragment>
-
-                                        <h6>Ratings</h6>
-
-                                        <ul>
-                                            {[5, 4, 3, 2, 1].map(star => (
-                                                <li key={star}>
-                                                    <Link to={`/gallery/rating/${star}`}>
-                                                        <Rating 
-                                                            value={star} 
-                                                            sx={{ color: "var(--primary-color)" }} 
-                                                            readOnly
-                                                        />                                            
-                                                    </Link>
-                                                </li>
-                                            ))}
-                                        </ul>
-
-                                    </Fragment>
-
-                                )}
-
+                                )}   
+                                <h6>Ratings</h6>
+                                <ul>
+                                    {[5, 4, 3, 2, 1].map(star => (
+                                        <li 
+                                            key={star}
+                                            onClick={() => {
+                                                setRating(rating === star ? 0 : star)
+                                                resetPage()
+                                            }}
+                                            style={{ cursor: "pointer" }}
+                                        >
+                                            <Rating 
+                                                value={star} 
+                                                sx={{ color: "var(--primary-color)" }} 
+                                                readOnly
+                                            />                                            
+                                        </li>
+                                    ))}
+                                </ul>                             
                                 <button 
                                     className="filters"
                                     onClick={resetPage}
                                 >
                                     Hide Menu
                                 </button>
-
-                            </animated.div>
-                        
+                            </animated.div>                        
                         )} 
-
                     </aside>
 
-                    <article className={!isMobile ? "relative" : ""}>                         
-
-                        <h1 style={{ textTransform: categoryTwo ? "uppercase" : "capitalize" }}>{title}</h1>
-
+                    <article className={!isMobile ? "relative" : ""}>
+                        <h1>{title}</h1>
                         {loading ? <Loader /> : (  
-
                             <Fragment>
-
                                 <div className="parent">
+                                    {(price[0] > 1 || price[1] < process.env.REACT_APP_MAX_PRICE) && (
+                                        <span>
+                                            From <b><FormattedPrice number={price[0]} /></b> to <b><FormattedPrice number={price[1]} /></b>  
+                                        </span> 
+                                    )}                                  
                                     <span>
-                                        {(price[0] > 1 || price[1] < process.env.REACT_APP_MAX_PRICE) && (
-                                            <Fragment>
-                                                From <b><FormattedPrice number={price[0]} /></b> to <b><FormattedPrice number={price[1]} /></b>   
-                                            </Fragment>                                     
-                                        )}
+                                        <Rating 
+                                            value={rating > 0 ? rating : null} 
+                                            sx={{ color: "var(--primary-color)" }} 
+                                            readOnly
+                                        />
                                     </span>
                                     <small>
                                         {resPerPage * (currentPage - 1) + 1} 
@@ -304,7 +267,6 @@ const Gallery = () => {
                                         &nbsp;  / &nbsp;{filteredProductsCount}
                                     </small> 
                                 </div>
-
                                 <div className="showroom">
                                     {products && filteredProductsCount > 0                             
                                         ?   products.map(product => (
@@ -313,7 +275,6 @@ const Gallery = () => {
                                         :   <p>No Results Found</p>
                                     }    
                                 </div>
-
                                 {resPerPage <= filteredProductsCount && (
                                     <div onClick={() => window.scrollTo(0, 0)}>
                                         <Pagination
@@ -328,21 +289,13 @@ const Gallery = () => {
                                         />
                                     </div>
                                 )} 
-
-                            </Fragment> 
-                        
+                            </Fragment>                         
                         )}
-
                     </article> 
-
                 </div>
-
             </div>  
-
-        </Fragment>       
-
+        </Fragment>   
     )
-
 }
 
 export default Gallery

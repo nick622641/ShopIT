@@ -3,69 +3,59 @@
     "$oid": "626a15bba03e95878267d2d6"
   },
   "name": "Security",
-  "__v": 0,
-  "slug": "security"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a55ef1b17d508b16cc20f"
   },
   "name": "Surveillance",
-  "__v": 0,
-  "slug": "surveillance"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a55fd1b17d508b16cc214"
   },
   "name": "Storage and Recording",
-  "__v": 0,
-  "slug": "storage-and-recording"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a56091b17d508b16cc219"
   },
   "name": "Intercom",
-  "__v": 0,
-  "slug": "intercom"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a561c1b17d508b16cc21e"
   },
   "name": "Network and WIFI",
-  "__v": 0,
-  "slug": "network-and-wifi"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a562a1b17d508b16cc223"
   },
   "name": "Access Control",
-  "__v": 0,
-  "slug": "access-control"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a56361b17d508b16cc228"
   },
   "name": "Power Systems",
-  "__v": 0,
-  "slug": "power-systems"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a56431b17d508b16cc22d"
   },
   "name": "Tracking",
-  "__v": 0,
-  "slug": "tracking"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a56501b17d508b16cc232"
   },
   "name": "Solar Equipment",
-  "__v": 0,
-  "slug": "solar-equipment"
+  "__v": 0
 },{
   "_id": {
     "$oid": "626a565a1b17d508b16cc237"
   },
   "name": "Accessories",
-  "__v": 0,
-  "slug": "accessories"
+  "__v": 0
 }]

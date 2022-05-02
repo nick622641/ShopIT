@@ -22,8 +22,7 @@ const UpdateCategoryTwo = () => {
     const dispatch = useDispatch()
 
     const [ name,       setName       ] = useState('')  
-    const [ slug,       setSlug       ] = useState('')
-    const [ oldSlug,    setOldSlug    ] = useState('')
+    const [ oldName,    setOldName    ] = useState('')
     const [ fullscreen, setFullscreen ] = useState(false)
 
     const { error, categoryTwo                     } = useSelector(state => state.categoryTwoDetails)
@@ -37,8 +36,7 @@ const UpdateCategoryTwo = () => {
             dispatch(getCategoryTwoDetails(id))
         } else {
             setName(categoryTwo.name)
-            setOldSlug(categoryTwo.slug)
-            setSlug(categoryTwo.slug)
+            setOldName(categoryTwo.name)
         }
         if(error) {
             alert.error(error)
@@ -60,16 +58,9 @@ const UpdateCategoryTwo = () => {
         e.preventDefault()
         const formData = new FormData()
         formData.set('name', name)  
-        formData.set('oldSlug', oldSlug)  
-        formData.set('slug', slug)     
+        formData.set('oldName', oldName)  
         dispatch(updateCategoryTwo(categoryTwo._id, formData))
-    }   
-
-    const sanitizeInput = (value) => {
-        value = value.replace(/[^\w -]/ig, '')
-        value = value.replace(/ /ig, '-')
-        setSlug(value.toLowerCase())
-    }
+    }     
     
     return (
 
@@ -100,28 +91,10 @@ const UpdateCategoryTwo = () => {
                                         label={`${process.env.REACT_APP_CATEGORY_TWO} Name`} 
                                         value={name}
                                         variant="standard"
-                                        onChange={(e) => {
-                                            setName(e.target.value)
-                                            sanitizeInput(e.target.value)
-                                        }} 
+                                        onChange={(e) => setName(e.target.value)} 
                                         sx={{ mb: 1 }}
                                     />                                 
-                                </FormControl>
-
-                                <FormControl fullWidth>
-                                    <TextField
-                                        label="Url Slug - (Read Only)"
-                                        variant="filled"
-                                        value={slug}
-                                        disabled={true}
-                                        InputProps={{
-                                            readOnly: true,
-                                        }}
-                                        InputLabelProps={{
-                                            shrink: true,
-                                        }}
-                                    />
-                                </FormControl>
+                                </FormControl>                               
 
                                 <LoadingButton 
                                     loading={loading}

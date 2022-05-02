@@ -44,8 +44,8 @@ exports.updateCategoryOne = catchAsyncErrors(async (req, res, next) => {
         })   
 
         await Product.updateMany(
-            {categoryOneSlug: req.body.oldSlug},
-            {$set: { categoryOne: req.body.name, categoryOneSlug: req.body.slug }}
+            {categoryOne: req.body.oldName},
+            {$set: { categoryOne: req.body.name }}
         )
       
         res.status(200).json({
@@ -61,7 +61,7 @@ exports.deleteCategoryOne = catchAsyncErrors(async (req, res, next) => {
     try {  
         const data = await CategoryOne.findById(req.params.id)    
         
-        const products = await Product.find({ categoryOneSlug: data.slug })
+        const products = await Product.find({ categoryOne: data.name })
 
         if(products.length > 0) {
             return next(new ErrorHandler('This category has products associated with it and cannot be deleted', 404)) 
@@ -115,8 +115,8 @@ exports.updateCategoryTwo = catchAsyncErrors(async (req, res, next) => {
         })
 
         await Product.updateMany(
-            {categoryTwoSlug: req.body.oldSlug},
-            {$set: { categoryTwo: req.body.name, categoryTwoSlug: req.body.slug }}
+            {categoryTwo: req.body.oldName},
+            {$set: { categoryTwo: req.body.name }}
         )
 
         res.status(200).json({
@@ -132,7 +132,7 @@ exports.deleteCategoryTwo = catchAsyncErrors(async (req, res, next) => {
     try {  
         const data = await CategoryTwo.findById(req.params.id)   
         
-        const products = await Product.find({ categoryTwoSlug: data.slug })
+        const products = await Product.find({ categoryTwo: data.name })
 
         if(products.length > 0) {
             return next(new ErrorHandler('This category has products associated with it and cannot be deleted', 404)) 
@@ -185,8 +185,8 @@ exports.updateCategoryThree = catchAsyncErrors(async (req, res, next) => {
         })
 
         await Product.updateMany(
-            {categoryThreeSlug: req.body.oldSlug},
-            {$set: { categoryThree: req.body.name, categoryThreeSlug: req.body.slug }}
+            {categoryThree: req.body.oldName},
+            {$set: { categoryThree: req.body.name }}
         )
 
         res.status(200).json({
@@ -202,7 +202,7 @@ exports.deleteCategoryThree = catchAsyncErrors(async (req, res, next) => {
     try {  
         const data = await CategoryThree.findById(req.params.id)   
         
-        const products = await Product.find({ categoryThreeSlug: data.slug })
+        const products = await Product.find({ categoryThree: data.name })
 
         if(products.length > 0) {
             return next(new ErrorHandler('This category has products associated with it and cannot be deleted', 404)) 
