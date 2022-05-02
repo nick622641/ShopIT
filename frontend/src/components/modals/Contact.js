@@ -9,13 +9,13 @@ import countryList from '../layouts/countryList'
 
 function Contact() {
 
-    const [ name,       setName       ] = useState('')
-    const [ email,      setEmail      ] = useState('')
-    const [ country,    setCountry    ] = useState('')
-    const [ message,    setMessage    ] = useState('')
-    const [ captcha,    setCaptcha    ] = useState(false)
-    const [ success,    setSuccess    ] = useState(false)
-    const [ loading,    setLoading    ] = useState(false)
+    const [ name,    setName    ] = useState('')
+    const [ email,   setEmail   ] = useState('')
+    const [ country, setCountry ] = useState('')
+    const [ message, setMessage ] = useState('')
+    const [ captcha, setCaptcha ] = useState(false)
+    const [ success, setSuccess ] = useState(false)
+    const [ loading, setLoading ] = useState(false)
 
     const countriesList = Object.values( countryList )
 

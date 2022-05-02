@@ -119,6 +119,10 @@ button.outline {
   color: white !important; 
   background: var(--primary-color);
 }
+/* Checkout Step Styles */
+.css-opt7yd-MuiStepIcon-text {
+  fill: white !important;
+}
 /* Form Styles */
 .user-form {    
   margin: auto;

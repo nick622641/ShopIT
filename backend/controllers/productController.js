@@ -128,6 +128,9 @@ exports.getProducts = catchAsyncErrors(async (req, res, next) => {
     if(req.query.filter) {        
         filter = req.query.filter
     }    
+    if(req.query.id) {
+        filter = 'similar'
+    }
     
     const productsCount = await Product.countDocuments()
     if (filter === 'popular') {
@@ -140,6 +143,10 @@ exports.getProducts = catchAsyncErrors(async (req, res, next) => {
             .filter()
     } else if (filter === 'lowToHigh') {
         apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}}).sort({ price: +1 }), req.query)
+            .search()
+            .filter()
+    } else if (filter === 'similar') {
+        apiFeatures = new APIFeatures(Product.find({ visible: {$ne: 0}, _id: {$ne: req.query.id} }).sort({ createdAt: -1 }), req.query)
             .search()
             .filter()
     } else {

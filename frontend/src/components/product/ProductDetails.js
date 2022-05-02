@@ -82,7 +82,7 @@ const ProductDetails = () => {
     useEffect( () => {   
 
         dispatch(getProductDetails(slug))
-        dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOne, '', '', 0))
+        dispatch(getProducts( '', 1, [1, process.env.REACT_APP_MAX_PRICE], product.categoryOne, '', '', 0, '', product._id))
         
         if(error) {            
             alert.error(error)  
@@ -106,7 +106,7 @@ const ProductDetails = () => {
             alert.success('Review Deleted Successfully')            
             dispatch({ type: DELETE_REVIEW_RESET })
         }         
-    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, categoryOne, product.categoryOne])
+    }, [dispatch, success, alert, error, reviewError, slug, deleteError, isDeleted, categoryOne, product.categoryOne, product._id])
 
     const addToCart = () => {
         dispatch(addItemToCart(product.slug, quantity))
@@ -315,11 +315,9 @@ const ProductDetails = () => {
                     </div>  
 
                     <div className="container">
-                        <div className="wrapper">                              
-                            {product.images && (
-                                <img src={product.images[0].url} alt={product.name} />
-                            )} 
-                        </div>
+                        {product.images && (
+                            <img src={product.images[0].url} alt={product.name} />
+                        )} 
                     </div>
 
                     {product.reviews && product.reviews.length > 0 && (  
@@ -337,14 +335,16 @@ const ProductDetails = () => {
 
                     <div className="container">
                         <div className="wrapper">  
-                            <h2>Similar products</h2> 
-                            <div className="showroom">
-                                {products && filteredProductsCount > 0 && (                             
-                                    products.map(product => (
-                                        <Product key={product._id} product={product} />                                    
-                                    ))                             
-                                )}    
-                            </div>
+                            {products && filteredProductsCount > 0 && (                              
+                                <Fragment>
+                                    <h2>Similar products</h2> 
+                                    <div className="showroom">  
+                                        {products.map(product => (
+                                            <Product key={product._id} product={product} />                                    
+                                        ))}  
+                                    </div>
+                                </Fragment>
+                            )}  
                         </div>
                     </div>                                    
 

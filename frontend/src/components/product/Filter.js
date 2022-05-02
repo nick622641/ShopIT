@@ -6,14 +6,17 @@ const Filter = ({ filter, setFilter }) => {
   return (
 
     <FormControl variant="standard"  fullWidth sx={{ mb: 1 }}>
-        <InputLabel>Filter</InputLabel>
+        <InputLabel>Sort</InputLabel>
         <Select 
             value={filter}
             onChange={(e) => setFilter(e.target.value)}   
         >                                                                           
+            <MenuItem value="all">  
+                Latest
+            </MenuItem>  
             <MenuItem value="popular">  
                 Most Popular
-            </MenuItem>  
+            </MenuItem> 
             <MenuItem value="highToLow">  
                 Price High to Low
             </MenuItem>

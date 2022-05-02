@@ -111,11 +111,13 @@ const Gallery = () => {
                         </button>
                         {(isMenuOpen || !isMobile) && (
                             <animated.div style={isMobile ? menuAppear : {}}>
-                                <h3>
-                                    Options
+                                <h3 className="relative">
+                                    Filters
                                     <Link to="/gallery">
                                         <Tooltip title="Clear Filters" arrow>
-                                            <IconButton className="float-r">
+                                            <IconButton 
+                                                style={{ position: "absolute", top: "-10px", right: "-10px" }}
+                                            >
                                                 <AutorenewIcon color="primary" />
                                             </IconButton>
                                         </Tooltip>
@@ -136,7 +138,7 @@ const Gallery = () => {
                                         setPrice(price)                          
                                         resetPage()
                                     }}
-                                    style={{ margin: "70px 0 20px 0" }}
+                                    style={{ margin: "70px 0 20px 0", width: "calc(100% - 10px)" }}
                                 />  
                                 <Filter filter={filter} setFilter={setFilter} />
                                 {categoryOnes && categoryOnes.length > 0 && (                                       
