@@ -25,8 +25,6 @@ const NewCategoryOne = () => {
 
     const { loading, error, success } = useSelector( state => state.newCategoryOne )
 
-    const categoryOnePath = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-') 
-
     useEffect(() => { 
         if(error) {
             alert.error(error)
@@ -34,10 +32,10 @@ const NewCategoryOne = () => {
         }
         if(success) {            
             alert.success(`${process.env.REACT_APP_CATEGORY_ONE} Created Successfully`)
-            navigate(`/admin/${categoryOnePath}s`)
+            navigate(`/admin/categoryOnes`)
             dispatch({ type: NEW_CATEGORY_ONE_RESET })            
         }
-    }, [dispatch, navigate, alert, error, success, categoryOnePath])
+    }, [dispatch, navigate, alert, error, success])
 
     const submitHandler = (e) => {        
         e.preventDefault()
@@ -94,7 +92,7 @@ const NewCategoryOne = () => {
 
                             </form>
                    
-                            <Link to={`/admin/${categoryOnePath}s`}>
+                            <Link to={`/admin/categoryOnes`}>
                                 <Fab 
                                     size="small" 
                                     className="close" 

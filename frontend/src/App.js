@@ -90,11 +90,7 @@ function App() {
     from:  { opacity: 0,   transform: "translate( 100%, 0%)" },
     enter: { opacity: 1,   transform: "translate(   0%, 0%)" },
     leave: { opacity: 0.5, transform: "translate(-100%, 0%)", position: "absolute", top: "90px", width: "100%" }
-  })  
-
-  const categoryOnePath   = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-')
-  const categoryTwoPath   = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
-  const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-')
+  })   
 
   return (    
     
@@ -116,10 +112,6 @@ function App() {
             
             <Route path="/gallery"               element={<Gallery                                                      />} />
             <Route path="/gallery/:keyword"      element={<Gallery                                                      />} />
-            <Route path={`/gallery/${categoryOnePath}/:${categoryOnePath}`} element={<Gallery                                                     />} />
-            <Route path={`/gallery/${categoryTwoPath}/:${categoryTwoPath}`} element={<Gallery                                           />} />
-            <Route path={`/gallery/${categoryThreePath}/:${categoryThreePath}`} element={<Gallery                                                     />} />
-            <Route path="/gallery/rating/:rating" element={<Gallery                                                     />} />
             <Route path="/product/:slug"         element={<ProductDetails                                               />} />             
             
             <Route path="/terms"                 element={<Terms                                                        />} />
@@ -156,17 +148,17 @@ function App() {
             
             <Route path="/admin/reviews"         element={<PrivateRoute isAdmin={true}><ProductReviews   /></PrivateRoute>} />
             
-            <Route path={`/admin/${categoryOnePath}s`}      element={<PrivateRoute isAdmin={true}><CategoryOneList     /></PrivateRoute>} />
-            <Route path={`/admin/${categoryOnePath}`}       element={<PrivateRoute isAdmin={true}><NewCategoryOne      /></PrivateRoute>} />
-            <Route path={`/admin/${categoryOnePath}/:id`}   element={<PrivateRoute isAdmin={true}><UpdateCategoryOne   /></PrivateRoute>} />
+            <Route path={`/admin/categoryOnes`}      element={<PrivateRoute isAdmin={true}><CategoryOneList     /></PrivateRoute>} />
+            <Route path={`/admin/categoryOne`}       element={<PrivateRoute isAdmin={true}><NewCategoryOne      /></PrivateRoute>} />
+            <Route path={`/admin/categoryOne/:id`}   element={<PrivateRoute isAdmin={true}><UpdateCategoryOne   /></PrivateRoute>} />
             
-            <Route path={`/admin/${categoryTwoPath}s`}      element={<PrivateRoute isAdmin={true}><CategoryTwoList     /></PrivateRoute>} />
-            <Route path={`/admin/${categoryTwoPath}`}       element={<PrivateRoute isAdmin={true}><NewCategoryTwo      /></PrivateRoute>} />
-            <Route path={`/admin/${categoryTwoPath}/:id`}   element={<PrivateRoute isAdmin={true}><UpdateCategoryTwo   /></PrivateRoute>} />
+            <Route path={`/admin/categoryTwos`}      element={<PrivateRoute isAdmin={true}><CategoryTwoList     /></PrivateRoute>} />
+            <Route path={`/admin/categoryTwo`}       element={<PrivateRoute isAdmin={true}><NewCategoryTwo      /></PrivateRoute>} />
+            <Route path={`/admin/categoryTwo/:id`}   element={<PrivateRoute isAdmin={true}><UpdateCategoryTwo   /></PrivateRoute>} />
             
-            <Route path={`/admin/${categoryThreePath}s`}    element={<PrivateRoute isAdmin={true}><CategoryThreeList   /></PrivateRoute>} />
-            <Route path={`/admin/${categoryThreePath}`}     element={<PrivateRoute isAdmin={true}><NewCategoryThree    /></PrivateRoute>} />
-            <Route path={`/admin/${categoryThreePath}/:id`} element={<PrivateRoute isAdmin={true}><UpdateCategoryThree /></PrivateRoute>} />
+            <Route path={`/admin/categoryThrees`}    element={<PrivateRoute isAdmin={true}><CategoryThreeList   /></PrivateRoute>} />
+            <Route path={`/admin/categoryThree`}     element={<PrivateRoute isAdmin={true}><NewCategoryThree    /></PrivateRoute>} />
+            <Route path={`/admin/categoryThree/:id`} element={<PrivateRoute isAdmin={true}><UpdateCategoryThree /></PrivateRoute>} />
          
           </Routes>   
 

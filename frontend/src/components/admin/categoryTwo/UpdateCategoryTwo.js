@@ -28,8 +28,6 @@ const UpdateCategoryTwo = () => {
     const { error, categoryTwo                     } = useSelector(state => state.categoryTwoDetails)
     const { loading, error: updateError, isUpdated } = useSelector(state => state.categoryTwo)
 
-    const categoryTwoPath = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
-
     useEffect(() => { 
 
         if (categoryTwo && categoryTwo._id !== id) {
@@ -49,10 +47,10 @@ const UpdateCategoryTwo = () => {
         if(isUpdated) {            
             alert.success(`${process.env.REACT_APP_CATEGORY_TWO} Updated Successfully`)
             dispatch(getCategoryTwoDetails(id))
-            navigate(`/admin/${categoryTwoPath}s`)
+            navigate(`/admin/categoryTwos`)
             dispatch({ type: UPDATE_CATEGORY_TWO_RESET })            
         }
-    }, [dispatch, navigate, alert, error, isUpdated, updateError, categoryTwo, id, categoryTwoPath])
+    }, [dispatch, navigate, alert, error, isUpdated, updateError, categoryTwo, id])
 
     const submitHandler = (e) => {        
         e.preventDefault()
@@ -110,7 +108,7 @@ const UpdateCategoryTwo = () => {
 
                             </form>
                    
-                            <Link to={`/admin/${categoryTwoPath}s`}>
+                            <Link to={`/admin/categoryTwos`}>
                                 <Fab 
                                     size="small" 
                                     className="close" 

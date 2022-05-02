@@ -9,18 +9,19 @@ const Filter = ({ filter, setFilter }) => {
         <InputLabel>Sort</InputLabel>
         <Select 
             value={filter}
-            onChange={(e) => setFilter(e.target.value)}   
+            onChange={(e) => setFilter(e.target.value)} 
+            style={{ fontSize: "13px" }}  
         >                                                                           
-            <MenuItem value="all">  
+            <MenuItem value="all" style={{ fontSize: "13px" }}>  
                 Latest
             </MenuItem>  
-            <MenuItem value="popular">  
+            <MenuItem value="popular" style={{ fontSize: "13px" }}>  
                 Most Popular
             </MenuItem> 
-            <MenuItem value="highToLow">  
+            <MenuItem value="highToLow" style={{ fontSize: "13px" }}>  
                 Price High to Low
             </MenuItem>
-            <MenuItem value="lowToHigh">  
+            <MenuItem value="lowToHigh" style={{ fontSize: "13px" }}>  
                 Price Low to High
             </MenuItem>
         </Select>

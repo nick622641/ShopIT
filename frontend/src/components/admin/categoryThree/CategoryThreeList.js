@@ -33,8 +33,6 @@ const CategoryThreeList = () => {
     const [ id,              setId             ] = useState('')
     const [ fullscreen,      setFullscreen     ] = useState(false)
 
-    const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-') 
-
     useEffect(() => {
 
         dispatch(getCategoryThrees())
@@ -91,7 +89,7 @@ const CategoryThreeList = () => {
                             </Tooltip>
                         </IconButton>                    
                     </CopyToClipboard> 
-                    <Link to={`/admin/${categoryThreePath}/${categoryThree._id}`}>
+                    <Link to={`/admin/categoryThree/${categoryThree._id}`}>
                         <Tooltip title="Update" arrow>
                             <IconButton>
                                 <EditOutlinedIcon color="secondary" />
@@ -141,7 +139,7 @@ const CategoryThreeList = () => {
                                 <h1>{process.env.REACT_APP_CATEGORY_THREE} Category</h1>
 
                                 <p className="text-right">
-                                    <Link to={`/admin/${categoryThreePath}`}>
+                                    <Link to={`/admin/categoryThree`}>
                                         Add
                                         <IconButton>
                                             <AddIcon color="primary" />

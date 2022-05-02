@@ -28,8 +28,6 @@ const UpdateCategoryThree = () => {
     const { error, categoryThree                   } = useSelector(state => state.categoryThreeDetails)
     const { loading, error: updateError, isUpdated } = useSelector(state => state.categoryThree)
 
-    const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-') 
-
     useEffect(() => { 
 
         if (categoryThree && categoryThree._id !== id) {
@@ -49,10 +47,10 @@ const UpdateCategoryThree = () => {
         if(isUpdated) {            
             alert.success(`${process.env.REACT_APP_CATEGORY_THREE} Updated Successfully`)
             dispatch(getCategoryThreeDetails(id))
-            navigate(`/admin/${categoryThreePath}s`)
+            navigate(`/admin/categoryThrees`)
             dispatch({ type: UPDATE_CATEGORY_THREE_RESET })            
         }
-    }, [dispatch, navigate, alert, error, isUpdated, updateError, categoryThree, id, categoryThreePath])
+    }, [dispatch, navigate, alert, error, isUpdated, updateError, categoryThree, id])
 
     const submitHandler = (e) => {        
         e.preventDefault()
@@ -110,7 +108,7 @@ const UpdateCategoryThree = () => {
                                
                             </form>
                    
-                            <Link to={`/admin/${categoryThreePath}s`}>
+                            <Link to={`/admin/categoryThrees`}>
                                 <Fab 
                                     size="small" 
                                     className="close" 

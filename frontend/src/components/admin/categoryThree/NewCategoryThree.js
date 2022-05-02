@@ -25,8 +25,6 @@ const NewCategoryThree = () => {
 
     const { loading, error, success } = useSelector(state => state.newCategoryThree)
 
-    const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-') 
-
     useEffect(() => { 
         if(error) {
             alert.error(error)
@@ -34,10 +32,10 @@ const NewCategoryThree = () => {
         }
         if(success) {            
             alert.success(`${process.env.REACT_APP_CATEGORY_THREE} Created Successfully`)
-            navigate(`/admin/${categoryThreePath}s`)
+            navigate(`/admin/categoryThrees`)
             dispatch({ type: NEW_CATEGORY_THREE_RESET })            
         }
-    }, [dispatch, navigate, alert, error, success, categoryThreePath])
+    }, [dispatch, navigate, alert, error, success])
 
     const submitHandler = (e) => {        
         e.preventDefault()
@@ -94,7 +92,7 @@ const NewCategoryThree = () => {
                               
                             </form>
                    
-                            <Link to={`/admin/${categoryThreePath}s`}>
+                            <Link to={`/admin/categoryThrees`}>
                                 <Fab 
                                     size="small" 
                                     className="close" 

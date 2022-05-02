@@ -33,8 +33,6 @@ const CategoryOneList = () => {
     const [ id,              setId             ] = useState('')
     const [ fullscreen,      setFullscreen     ] = useState(false)
 
-    const categoryOnePath = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-') 
-
     useEffect(() => {
 
         dispatch(getCategoryOnes())
@@ -90,7 +88,7 @@ const CategoryOneList = () => {
                                 </Tooltip>
                             </IconButton>                    
                         </CopyToClipboard> 
-                        <Link to={`/admin/${categoryOnePath}/${categoryOne._id}`}>
+                        <Link to={`/admin/categoryOne/${categoryOne._id}`}>
                             <Tooltip title="Update" arrow>
                                 <IconButton>
                                     <EditOutlinedIcon color="secondary" />
@@ -141,7 +139,7 @@ const CategoryOneList = () => {
                                 <h1>{process.env.REACT_APP_CATEGORY_ONE} Category</h1>
 
                                 <p className="text-right">
-                                <Link to={`/admin/${categoryOnePath}`}>
+                                <Link to={`/admin/categoryOne`}>
                                         Add
                                         <IconButton>
                                             <AddIcon color="primary" />

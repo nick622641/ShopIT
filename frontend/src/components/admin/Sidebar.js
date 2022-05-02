@@ -22,11 +22,7 @@ const Sidebar = () => {
     const [ isSidebarOpen, setSideBarOpen ] = useState(false)  
     const [ isMenuVisible, setMenuVisible ] = useState(false)
     const [ isCategoriesVisible, setCategoriesVisible ] = useState(false)
-    const isMobile = useMediaQuery({ query: '(max-width: 768px)' })
-
-    const categoryOnePath   = process.env.REACT_APP_CATEGORY_ONE.toLowerCase().replace(/ /g, '-')
-    const categoryTwoPath   = process.env.REACT_APP_CATEGORY_TWO.toLowerCase().replace(/ /g, '-')
-    const categoryThreePath = process.env.REACT_APP_CATEGORY_THREE.toLowerCase().replace(/ /g, '-')
+    const isMobile = useMediaQuery({ query: '(max-width: 768px)' })    
 
     const sidebarAppear = useSpring({
         transform: isSidebarOpen && isMobile ? 'translateX(0)' : 'translateX(-100%)'
@@ -129,7 +125,7 @@ const Sidebar = () => {
                                 <animated.div className="dropdown-menu" style={categoriesAppear}>  
                                     <ul>                            
                                         <li>
-                                            <Link to={`/admin/${categoryOnePath}s`}>
+                                            <Link to={`/admin/categoryOnes`}>
                                                 <IconButton>
                                                     <PersonIcon color="secondary" />
                                                 </IconButton>
@@ -137,7 +133,7 @@ const Sidebar = () => {
                                             </Link>
                                         </li>                    
                                         <li>
-                                            <Link to={`/admin/${categoryTwoPath}s`}>
+                                            <Link to={`/admin/categoryTwos`}>
                                                 <IconButton>
                                                     <ExploreIcon color="secondary" />
                                                 </IconButton>
@@ -145,7 +141,7 @@ const Sidebar = () => {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link to={`/admin/${categoryThreePath}s`}>
+                                            <Link to={`/admin/categoryThrees`}>
                                                 <IconButton>
                                                     <ColorLensIcon color="secondary" />
                                                 </IconButton>
