@@ -71,7 +71,7 @@ const ListOrders = () => {
                 actions:
                     <Link to={`/order/${order._id}`}>
                         <IconButton>
-                            <VisibilityIcon fontSize="small" />
+                            <VisibilityIcon fontSize="small" color="primary" />
                         </IconButton>
                     </Link>,             
                 id: order._id,

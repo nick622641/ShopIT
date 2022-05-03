@@ -67,7 +67,7 @@ function App() {
 
   const location = useLocation()
 
-  const [ stripeApiKey,    setStripeApiKey    ] = useState('')
+  const [ stripeApiKey, setStripeApiKey ] = useState('')
 
   const { loggingOut } = useSelector(state => state.auth)
        
@@ -90,8 +90,8 @@ function App() {
     from:  { opacity: 0,   transform: "translate( 100%, 0%)" },
     enter: { opacity: 1,   transform: "translate(   0%, 0%)" },
     leave: { opacity: 0.5, transform: "translate(-100%, 0%)", position: "absolute", top: "90px", width: "100%" }
-  })   
-
+  })
+  
   return (    
     
     <Fragment>

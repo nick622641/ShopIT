@@ -6,6 +6,11 @@ const errorMiddleware = require('./middlewares/errors')
 const path            = require('path')
 const app             = express()
 
+// Setting up config file
+if(process.env.NODE_ENV !== 'PRODUCTION') {
+    require('dotenv').config({ path: 'backend/config.env' })
+}
+
 app.use( express.json( { limit: '50mb' } ) )
 app.use( express.urlencoded( { limit: '50mb', extended: true } ) )
 app.use( cookieParser())

@@ -13,7 +13,18 @@ import Fab from '@mui/material/Fab'
 import SendIcon from '@mui/icons-material/Send'
 import CloseIcon from '@mui/icons-material/Close'
 import LoadingButton from '@mui/lab/LoadingButton'
-import { Divider } from '@mui/material'
+import { CircularProgress, Divider } from '@mui/material'
+
+const options = {
+    style: {
+        base: {
+            fontSize: "14px"
+        },
+        invalid: {
+            color: "red"
+        }
+    }
+}
 
 const Payment = () => {
 
@@ -80,7 +91,7 @@ const Payment = () => {
 
             if(result.error) {
 
-                alert.error(result.error.message);
+                alert.error(result.error.message)
                 setLoading(false)   
 
             } else {
@@ -118,30 +129,32 @@ const Payment = () => {
                     <form className="user-form">
 
                         <CheckoutSteps shipping confirmOrder payment />
-                        <p><small style={{ color: "grey" }}>Test data: 4000 0027 6000 3184</small></p>
+                        <p><small style={{ color: "grey" }}>Test data: 4242 4242 4242 4242</small></p>
                         <br />
                         <h6>Card Number</h6>                        
                         <br />   
-                        <CardNumberElement />   
+                        <CardNumberElement options={options} />   
                         <Divider />     
                         <br />
                         <h6>Card Expiry</h6>
                         <br />                                                                    
-                        <CardExpiryElement />   
+                        <CardExpiryElement options={options} />   
                         <Divider />                                      
                         <br />
                         <h6>Card CVC</h6>
                         <br />                                                                    
-                        <CardCvcElement />  
+                        <CardCvcElement options={options} />  
                         <Divider /> 
 
                         <LoadingButton 
                             loading={loading}
                             loadingPosition="end"
+                            loadingIndicator={<CircularProgress color="primary" size={16} />}
                             variant="contained" 
                             onClick={submitHandler}
                             endIcon={<SendIcon />}
                             sx={{ mt: 4, width: '100%' }}
+                            disabled={loading ? true: false}
                         >
                             <FormattedPrice number={orderInfo && orderInfo.totalPrice} />
                         </LoadingButton>
