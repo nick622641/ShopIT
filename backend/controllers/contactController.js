@@ -10,12 +10,13 @@ exports.contactEmail = catchAsyncErrors( async (req, res, next) => {
     const { name, email, country, message, key } = req.body
 
     const secret = process.env.RECAPTCHA_SECRET_KEY
+
     const response = await axios.post(
         `https://www.google.com/recaptcha/api/siteverify?secret=${secret}&response=${key}`
     )
     
     const { success } = response.data
-    if ( !success ) { return next(new ErrorHandler(error.message, 500)) }  
+    if ( !success ) { return next(new ErrorHandler(response.message, 500)) }  
 
     if ( !name || !email || !country || !message ) {
         return next(new ErrorHandler('Please fill out all fields', 500))  

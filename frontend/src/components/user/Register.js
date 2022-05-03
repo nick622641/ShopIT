@@ -194,7 +194,10 @@ const Register = () => {
                 onBackdropClick={() => setCaptcha(false)}   
                 content={ 
                     <ReCAPTCHA
-                        sitekey={process.env.REACT_APP_RECAPTCHA_SITE_KEY}
+                        sitekey={process.env.REACT_APP_NODE_ENV === 'DEVELOPMENT' 
+                            ? process.env.REACT_APP_RECAPTCHA_TEST_KEY 
+                            : process.env.REACT_APP_RECAPTCHA_SITE_KEY
+                        }
                         onChange={handleChange}
                     /> 
                 }

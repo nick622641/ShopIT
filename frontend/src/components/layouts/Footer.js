@@ -15,6 +15,7 @@ const Footer = () => {
                 <small>Copyright &copy; <b>{process.env.REACT_APP_SITE_NAME}</b> <span className="primary-color">{new Date().getFullYear()}</span>. All Rights Reserved.</small>
                 
                 <CookieConsent
+                    debug={process.env.REACT_APP_NODE_ENV === 'DEVELOPMENT' ? true : false}
                     buttonStyle={{ backgroundColor: "var(--primary-color)", color: "white" }}
                     buttonText="OK Great!"
                     expires={365}
