@@ -62,17 +62,16 @@ const OrderDetails = () => {
         }
        
         orderItems && orderItems.forEach( item => {
-            let name = item.name.replace(/-/g, '_')    
-            name = name.replace(/ /g, '-') 
+            const name = item.name.replace(/ /g, '-').toLowerCase()
             data.rows.push({
-                url: <Link to={`/artwork/${name}`}>
+                url: <Link to={`/product/${name}`}>
                         <Avatar
                             src={item.image} 
                             alt={item.name} 
                             sx={{ width: 50, height: 50 }}
                         />                                          
                     </Link>,                  
-                name: <Link to={`/artwork/${name}`}>{item.name}</Link>,
+                name: <Link to={`/product/${name}`}>{item.name}</Link>,
                 quantity: item.quantity,         
                 price: <FormattedPrice number={item.price} />              
             })

@@ -12,13 +12,13 @@ const Banner = ({ product }) => {
         className="background-cover"
     >
         <div className="wrapper banner parent">
-            <h3>{product.artist}</h3>
+            <h3>{product.categoryOne}</h3>
             <h2>{product.name}</h2>
             <div style={{ marginBottom: "40px", fontSize: "14px" }}>
               <RichtextOutput text={`${product.description.substring(0, 155)}...`} />
             </div>
 
-            <Link className="submit chevron-hover" to={`/artwork/${product.slug}`}>
+            <Link className="submit chevron-hover" to={`/product/${product.slug}`}>
                 Explore
             </Link>
         </div>

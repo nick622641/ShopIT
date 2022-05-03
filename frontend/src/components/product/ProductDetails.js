@@ -131,8 +131,8 @@ const ProductDetails = () => {
                             thumb={product.images[0].thumbUrl}
                             image={product.images[0].url}
                             date={product.datePublished}
-                            artist={product.categoryOne}
-                            medium={product.media}
+                            categoryOne={product.categoryOne}
+                            categoryTwo={product.categoryTwo}
                             rating={product.ratings}
                         />
                     )} */}                    

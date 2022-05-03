@@ -20,7 +20,7 @@ const Latest = ({ product }) => {
                 
                 <br />
 
-                <Link className="submit" to={`/artwork/${product.slug}`}>
+                <Link className="submit" to={`/product/${product.slug}`}>
                     Read More
                 </Link>
             </div>

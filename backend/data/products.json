@@ -718,7 +718,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -786,7 +786,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -836,7 +836,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -886,7 +886,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -936,7 +936,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -986,7 +986,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1027,7 +1027,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1077,7 +1077,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1127,7 +1127,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1204,7 +1204,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1281,7 +1281,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1331,7 +1331,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1399,7 +1399,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1468,7 +1468,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1518,7 +1518,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1577,7 +1577,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1636,7 +1636,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1686,7 +1686,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1727,7 +1727,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -1768,7 +1768,7 @@
       }
     }
   ],
-  "categoryOne": "Network and WIFI",
+  "categoryOne": "Network / WIFI",
   "categoryTwo": "Engenius",
   "categoryThree": "",
   "datePublished": {
@@ -2024,7 +2024,7 @@
   "datePublished": {
     "$date": "2022-04-28T00:00:00Z"
   },
-  "stock": 99,
+  "stock": 98,
   "numOfReviews": 0,
   "user": {
     "$oid": "61b7bae1939ff81896b8cd56"
@@ -2040,7 +2040,7 @@
     "$oid": "626a92fa6b89e08aaf36d30a"
   },
   "serial": "APC-BR1500GI",
-  "name": "ฺBack Pro UPS1500GI",
+  "name": "Back Pro UPS1500GI",
   "slug": "back-pro-ups1500gi",
   "price": 13000,
   "width": null,
@@ -2806,7 +2806,7 @@
         "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1641222575/avatars/gccxbl5yi157sfrqtqcv.jpg"
       },
       "rating": 4,
-      "comment": "<p>Nice, hard wearing product.</p>\r\n",
+      "comment": "<p>Nice, hard wearing product.😍</p>\r\n",
       "_id": {
         "$oid": "626ac05c966f27c776417202"
       },
@@ -3013,7 +3013,7 @@
   ],
   "categoryOne": "Accessories",
   "categoryTwo": "Power Case",
-  "categoryThree": "",
+  "categoryThree": "Cash on Delivery",
   "datePublished": {
     "$date": "2022-04-28T00:00:00Z"
   },
@@ -3072,7 +3072,7 @@
   ],
   "categoryOne": "Accessories",
   "categoryTwo": "Power Case",
-  "categoryThree": "",
+  "categoryThree": "Cash on Delivery",
   "datePublished": {
     "$date": "2022-04-28T00:00:00Z"
   },
@@ -3141,7 +3141,7 @@
   ],
   "categoryOne": "Accessories",
   "categoryTwo": "Power Case",
-  "categoryThree": "",
+  "categoryThree": "Cash on Delivery",
   "datePublished": {
     "$date": "2022-04-28T00:00:00Z"
   },

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const StructuredData = ({ title, description, thumb, image, date, artist, medium, rating }) => {
+const StructuredData = ({ title, description, thumb, image, date, categoryOne, categoryTwo, rating }) => {
 
     const text = description.replace(/(<([^>]+)>)/gi, "").substring(0, 155) + '...'
 
@@ -13,11 +13,11 @@ const StructuredData = ({ title, description, thumb, image, date, artist, medium
         "thumbnailUrl": thumb,
         "datePublished": new Date(date).getFullYear(),
         "genre": "Abstract Art",
-        "material": medium,
+        "material": categoryOne,
         "aggregateRating": rating,
         "author": {
             "@type": "Person",
-            "name": artist
+            "name": categoryOne
         }    
     }
 

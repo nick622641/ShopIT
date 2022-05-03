@@ -91,7 +91,7 @@ const Carousel = ({ data }) => {
                                 key={index}
                                 className={index === (imgIndex + 2) ? 'active' : ''}
                             >
-                                <Link to={`artwork/${slide.slug}`}>
+                                <Link to={`product/${slide.slug}`}>
                                     <img 
                                         src={slide.images[0].url} 
                                         className="centered-image"
@@ -119,7 +119,7 @@ const Carousel = ({ data }) => {
                     <ul style={{ left: textleft }} className="transition"> 
                         {imageArray && imageArray.map((slide, index) => (
                             <li key={index} className="text-center">
-                                <Link to={`artwork/${slide.slug}`}>
+                                <Link to={`product/${slide.slug}`}>
                                     <h2>{slide.name}</h2>
                                     <RichtextOutput text={`${slide.description.substring(0, 155)}...`} />
                                 </Link>

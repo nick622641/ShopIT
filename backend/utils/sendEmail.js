@@ -9,7 +9,8 @@ const sendEmail = async options => {
           pass: process.env.SMTP_PASSWORD
         },
         tls: {
-          rejectUnauthorized: process.env.NODE_ENV === "DEVELOPMENT" ? false : true
+          // rejectUnauthorized: process.env.NODE_ENV === "DEVELOPMENT" ? false : true
+          rejectUnauthorized: false
         }
       })
 

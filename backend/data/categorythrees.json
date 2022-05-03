@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6270084a54cf20e88ab8d43b"
+  },
+  "name": "Cash on Delivery",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627033a87355f44240bb70be"
+  },
+  "name": "PayPal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627033c07355f44240bb70cb"
+  },
+  "name": "Bank Transfer",
+  "__v": 0
+}]

@@ -6,6 +6,7 @@ const app        = require('./app')
 if(process.env.NODE_ENV !== 'PRODUCTION') {
     require('dotenv').config({ path: 'backend/config.env' })
 }
+// require('dotenv').config({ path: 'backend/config.env' })
 
 // Handle Uncaught Exceptions
 process.on('uncaughtException', err => {

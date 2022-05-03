@@ -81,13 +81,7 @@ const ProductsList = () => {
                     field: 'name',
                     sort: 'asc',
                     width: 100
-                },  
-                {
-                    label: 'Artist',
-                    field: 'artist',
-                    sort: 'asc',
-                    width: 100
-                },   
+                },                 
                 {
                     label: 'Reviews',
                     field: 'reviews',
@@ -147,7 +141,6 @@ const ProductsList = () => {
                     </Tooltip>  
                 </Fragment>, 
                 name: product.name,
-                artist: product.artist,
                 reviews: product.numOfReviews,
                 stock: product.stock,
 				status: product.visible === 1 ? 'Published' : 'Draft'                 

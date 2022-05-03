@@ -18,4 +18,68 @@
     "$date": "2022-04-25T09:59:14.046Z"
   },
   "resetPasswordToken": "851b863134711b9f195adf1119073763a46a192b6406a84b24d50f89aed26c1c"
+},{
+  "_id": {
+    "$oid": "62712a886c7a3ebcd7874a49"
+  },
+  "name": "Admin",
+  "email": "info@admin.com",
+  "password": "$2a$10$1yAGIIXzCJjM668KwE7ZjevvpqoGOftVPohoMQH3jKQFqt2wLswoS",
+  "avatar": {
+    "public_id": "avatars/o5ovul3q9wunhttxxima",
+    "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651583626/avatars/o5ovul3q9wunhttxxima.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2022-05-03T13:13:44.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62712b3e6af9e15304a58c08"
+  },
+  "name": "Jenny",
+  "email": "info@jenny.com",
+  "password": "$2a$10$fOpZGifsE2VY8m66CQVLg.M3aXGOeFtSBG5muarHViTJ./TOXGQv2",
+  "avatar": {
+    "public_id": "avatars/tzje8cvnxvx1kjmxperg",
+    "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651583808/avatars/tzje8cvnxvx1kjmxperg.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2022-05-03T13:16:46.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62712ca53d4ad70428e57d03"
+  },
+  "name": "David",
+  "email": "info@david.com",
+  "password": "$2a$10$58AVYEbyO0l12Odo0rDZTeFklMi04RWVz.SORw3D5hQNlY3zeW7je",
+  "avatar": {
+    "public_id": "avatars/t5gcj4knscpavyjd7cgw",
+    "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651584529/avatars/t5gcj4knscpavyjd7cgw.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": "2022-05-03T13:22:45.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62712e6e71a80c34cfab3c11"
+  },
+  "name": "test",
+  "email": "info@test.com",
+  "password": "$2a$10$H14SmCe6gLHXDSNIElGbyO9dPT4k0GxG9.uelVk30e0Td/v0i02lO",
+  "avatar": {
+    "public_id": "avatars/ezfmgzbsy3iw64fpdbjt",
+    "url": "https://res.cloudinary.com/marine-graphics/image/upload/v1651584623/avatars/ezfmgzbsy3iw64fpdbjt.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": "2022-05-03T13:30:22.038Z"
+  },
+  "__v": 0
 }]

@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "6270e57ff0f32efc091c86c1"
+  },
+  "shippingInfo": {
+    "address": "62/49 Moo 10",
+    "city": "Phuket",
+    "phoneNo": "+66 (0) 8 6267 2369",
+    "postalCode": "83130",
+    "country": "Thailand"
+  },
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "orderItems": [
+    {
+      "name": "TrackR",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153804/products/tg5owee0ugomayqpup7k.jpg",
+      "price": 1290,
+      "product": {
+        "$oid": "626a9b8d6b89e08aaf36d51c"
+      },
+      "_id": {
+        "$oid": "6270e57ff0f32efc091c86c2"
+      }
+    },
+    {
+      "name": "TrackR wallet",
+      "quantity": 3,
+      "image": "https://res.cloudinary.com/marine-graphics/image/upload/v1651153598/products/a6rr3jkohshkauuuack6.jpg",
+      "price": 1290,
+      "product": {
+        "$oid": "626a9abd6b89e08aaf36d4d4"
+      },
+      "_id": {
+        "$oid": "6270e57ff0f32efc091c86c3"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3KvGwsKcj6TI1wVU0M0DgJHq",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2022-05-03T08:19:11.390Z"
+  },
+  "itemsPrice": 5160,
+  "taxPrice": 258,
+  "shippingPrice": 0,
+  "totalPrice": 5418,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2022-05-03T08:19:11.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62710fa584f190a358143c38"
+  },
+  "shippingInfo": {
+    "address": "Buckingham Palace",
+    "city": "Timbuktu",
+    "phoneNo": "1234567890",
+    "postalCode": "NRH 6HU",
+    "country": "Antarctica"
+  },
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "orderItems": [
+    {
+      "name": "APC Smart 3000XLI",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/marine-graphics/image/upload/v1651151375/products/xbrj4d2tsvapyqzqzo5q.jpg",
+      "price": 59253,
+      "product": {
+        "$oid": "626a920b6b89e08aaf36d2f7"
+      },
+      "_id": {
+        "$oid": "62710fa584f190a358143c39"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3KvJkvKcj6TI1wVU0AvTSbV4",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2022-05-03T11:19:01.652Z"
+  },
+  "itemsPrice": 59253,
+  "taxPrice": 2962.65,
+  "shippingPrice": 0,
+  "totalPrice": 62215.65,
+  "orderStatus": "Shipped",
+  "createdAt": {
+    "$date": "2022-05-03T11:19:01.666Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2022-05-03T11:20:23.520Z"
+  }
+},{
+  "_id": {
+    "$oid": "62711b0fdf33b3cf43d16c87"
+  },
+  "shippingInfo": {
+    "address": "Buckingham Palace",
+    "city": "Timbuktu",
+    "phoneNo": "1234567890",
+    "postalCode": "NRH 6HU",
+    "country": "Antarctica"
+  },
+  "user": {
+    "$oid": "61b7bae1939ff81896b8cd56"
+  },
+  "orderItems": [
+    {
+      "name": "Outdoor Access Point",
+      "quantity": 1,
+      "image": "https://res.cloudinary.com/marine-graphics/image/upload/v1651144671/products/amd30sjbrtbpbaqwo3sb.jpg",
+      "price": 36600,
+      "product": {
+        "$oid": "626a77e96b89e08aaf36cfed"
+      },
+      "_id": {
+        "$oid": "62711b0fdf33b3cf43d16c88"
+      }
+    }
+  ],
+  "paymentInfo": {
+    "id": "pi_3KvKW3Kcj6TI1wVU1XO6M2wm",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2022-05-03T12:07:43.541Z"
+  },
+  "itemsPrice": 36600,
+  "taxPrice": 1830,
+  "shippingPrice": 0,
+  "totalPrice": 38430,
+  "orderStatus": "Processing",
+  "createdAt": {
+    "$date": "2022-05-03T12:07:43.556Z"
+  },
+  "__v": 0
+}]

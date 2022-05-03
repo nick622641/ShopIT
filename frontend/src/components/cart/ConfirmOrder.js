@@ -32,9 +32,9 @@ const ConfirmOrder = () => {
                     intent: "CAPTURE",
                     purchase_units: [
                     {
-                        description: "Artwork",
+                        description: "Product",
                         amount: {
-                        currency_code: "CAD",
+                        currency_code: process.env.REACT_APP_CURRENCY,
                         value: totalPrice,
                         },
                     },
@@ -95,17 +95,16 @@ const ConfirmOrder = () => {
         }
        
         cartItems && cartItems.forEach( item => {
-            let name = item.name.replace(/-/g, '_')    
-            name = name.replace(/ /g, '-') 
+            const name = item.name.replace(/ /g, '-').toLowerCase()   
             data.rows.push({
-                url: <Link to={`/artwork/${name}`}>
+                url: <Link to={`/product/${name}`}>
                         <Avatar
                             src={item.image} 
                             alt={item.name} 
                             sx={{ width: 50, height: 50 }}
                         />                                          
                     </Link>,                  
-                name: <Link to={`/artwork/${name}`}>{item.name}</Link>,
+                name: <Link to={`/product/${name}`}>{item.name}</Link>,
                 price: <Fragment>
                             {item.quantity}
                             &nbsp;x&nbsp;
