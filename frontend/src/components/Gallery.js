@@ -251,6 +251,7 @@ const Gallery = () => {
                                         <Rating 
                                             value={rating > 0 ? rating : null} 
                                             sx={{ color: "var(--primary-color)" }} 
+                                            style={{ display: rating > 0 ? "flex" : "none" }}
                                             readOnly
                                         />
                                     </span>                                    

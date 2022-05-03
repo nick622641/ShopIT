@@ -82,7 +82,7 @@ const OrdersList = () => {
                     label: 'Amount',
                     field: 'amount',
                     sort: 'asc',
-                    width: 100
+                    width: 120
                 },
                 {
                     label: 'Status',

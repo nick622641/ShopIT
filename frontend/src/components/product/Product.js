@@ -25,7 +25,7 @@ const Product = ({ product }) => {
 
                 <h4 
                     className="text-center"
-                    style={{ marginTop: "20px" }}
+                    style={{ margin: 0, padding: "0 10px", flex: "0 0 70px" }}
                 >
                     {product.name}
                 </h4> 
@@ -43,7 +43,7 @@ const Product = ({ product }) => {
                             readOnly 
                         />
                         <small>
-                            ({product.numOfReviews} Reviews)
+                            ({product.numOfReviews})
                         </small> 
                     </div> 
                     <b>
@@ -57,7 +57,7 @@ const Product = ({ product }) => {
 
                 <Button 
                     variant="contained" 
-                    sx={{ width: '100%', color: "white", mt: 2 }}
+                    sx={{ width: 'calc(100% - 20px)', color: "white", mt: 2 }}
                 >
                     View Details
                 </Button>                     
