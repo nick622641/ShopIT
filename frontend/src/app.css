@@ -149,7 +149,7 @@ label {
   display: flex; 
   flex-direction: column;   
   justify-content: space-between;
-  flex: 1 0 160px;
+  flex: 1 0 180px;
   align-items: center;
   border: solid 1px #ddd;
   height: 420px; 

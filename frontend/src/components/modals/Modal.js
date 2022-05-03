@@ -38,7 +38,7 @@ function Modal({ isModalVisible, content, onBackdropClick  }) {
             onClick={onBackdropClick}
         />
 
-        <animated.div style={!isMobile ? animation : mobAnimation} className="modal user-form">                    
+        <animated.div style={!isMobile ? animation : mobAnimation} className="modal">                    
 
           {content}
 

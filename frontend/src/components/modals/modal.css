@@ -1,4 +1,4 @@
-.modal.user-form {
+.modal {
     position: fixed;   
     left: 0;
     right: 0; 
@@ -6,9 +6,12 @@
     margin: auto;  
     z-index: 1299; 
     max-width: 480px;
+    padding: 40px;
+    background: white;
+    box-shadow: var(--box-shadow);
 }
 /* Media Queries */
-@media ( max-width: 768px ) {
+@media ( max-width: 768px ), ( max-height: 560px ) {
     #modal-root {
         position: absolute;
         top: 0;
@@ -17,5 +20,6 @@
     .modal { 
         position: relative;      
         top: 40px;
+        transform: none !important;
     }
 }
