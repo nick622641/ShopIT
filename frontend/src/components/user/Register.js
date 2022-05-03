@@ -3,7 +3,7 @@ import { useAlert } from 'react-alert'
 import { useDispatch, useSelector } from 'react-redux'
 import { register, clearErrors } from '../../actions/userActions'
 import { useNavigate, Link } from 'react-router-dom'
-import { FormControl, Input, InputAdornment, InputLabel, TextField } from '@mui/material'
+import { CircularProgress, FormControl, Input, InputAdornment, InputLabel, TextField } from '@mui/material'
 import MetaData from '../layouts/MetaData'
 import Fab from '@mui/material/Fab'
 import CloseIcon from '@mui/icons-material/Close'
@@ -99,7 +99,6 @@ const Register = () => {
                                         type="file"  
                                         className="hidden-input" 
                                         name="avatar"                            
-                                        accept="images/*"
                                         onChange={onChange}                                                                                                                             
                                     />
                                     <Avatar 
@@ -158,6 +157,7 @@ const Register = () => {
                         <LoadingButton 
                             loading={loading}
                             loadingPosition="end"
+                            loadingIndicator={<CircularProgress color="primary" size={16} />}
                             variant="contained" 
                             onClick={submitHandler}
                             endIcon={<SendIcon />}

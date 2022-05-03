@@ -8,7 +8,7 @@ const FormattedPrice = ({ number }) => {
 
             <span className="whitespace-nowrap">
 
-                {number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} THB
+                {number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")} {process.env.REACT_APP_CURRENCY}
 
             </span>
 

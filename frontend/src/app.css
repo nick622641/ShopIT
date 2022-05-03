@@ -1,45 +1,3 @@
-/* Heading / Paragaraph Styles */
-h1 {
-  font-size: 40px; 
-  margin-bottom: 40px;
-  text-transform: capitalize;
-  font-weight: 100; 
-}
-h2 {
-  font-size: 32px;
-  margin-bottom: 20px;
-  text-transform: capitalize;
-  font-weight: 100; 
-  line-height: 1.2;
-}
-h3 {
-  font-size: 16px;
-  color: #333333;
-  text-transform: uppercase;
-  margin-bottom: 20px;
-  font-weight: 400;
-}
-h4 {
-  margin: 20px 0;
-  font-weight: 500;
-  text-transform: uppercase;
-}
-h5 {  
-  margin-bottom: 20px;
-}
-h6 {
-  font-size: 10px;
-  letter-spacing: 0.07rem;
-  text-transform: uppercase;
-}
-p {
-  line-height: 1.8em;
-  font-size: 14px; 
-  font-weight: 100;
-}
-div {
-  font-weight: 100;
-}
 /* Layout Styles */
 .container {
   max-width: 980px; 
@@ -58,13 +16,6 @@ div {
 }
 .col-6 {
   flex-basis: 50%;
-}
-.breadcrumbs {
-  margin: 0 40px;
-  padding-top: 20px;
-}
-.breadcrumbs span{
-  color: #999;
 }
 .spacer {
   padding: 20px;
@@ -93,36 +44,6 @@ aside  li a {
 aside ul ul li {
   margin-left: 20px;
 }
-.arrow-down {
-  position: absolute !important;
-  right: 0;
-}
-/* Button Styles */
-button {
-  color: white !important;
-}
-button.outline {
-  color: var(--secondary-color) !important;
-}
-.filters { 
-  color: #555 !important;
-  border-radius: 5px; 
-  border: solid 2px #555; 
-  margin: 0 auto 50px auto; 
-  width: 100%; 
-  display: none;
-  line-height: 35px;
-  transition: all var(--speed);
-  cursor: pointer;
-}
-.filters:hover {
-  color: white !important; 
-  background: var(--primary-color);
-}
-/* Checkout Step Styles */
-.css-opt7yd-MuiStepIcon-text {
-  fill: white !important;
-}
 /* Form Styles */
 .user-form {    
   margin: auto;
@@ -132,15 +53,6 @@ button.outline {
   position: relative;
   background: white;  
 }
-.modal { 
-  position: fixed;   
-  left: 0;
-  right: 0; 
-  top: 50%;
-  margin: auto;  
-  z-index: 1299; 
-  max-width: 480px;
-}
 ::placeholder {
   color: #999;
 }
@@ -149,24 +61,13 @@ label {
   position: relative;
 }
 .hidden-input {
-  padding: 0;
-  opacity: 0;
-  border: none;
-  position: absolute;
-  top: 30px;
-  left: 0;
-}
-input:-webkit-autofill {
-  box-shadow: 0 0 0px 1000px #fff inset;
+  display: none;
 }
 .fullscreen {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-}
-.MuiFormControlLabel-root span {
-  font-size: 12px;
 }
 /* MDB Table Styles */
 .mdb-datatable > div:nth-child(2) {
@@ -310,26 +211,6 @@ input:-webkit-autofill {
 #__react-alert__ button svg {
   stroke: #333 !important;    
 }
-/* Dashboard styles */
-.dashboard-panels h2 {
-  color: white;
-  padding: 5px 0 10px 0;
-  margin: 0;
-}
-.dashboard-panels h3 {
-  color: white;
-  padding: 10px 0 5px 0;
-  margin: 0;
-}
-.dashboard-panels div {
-  transition: all var(--speed);
-}
-.dashboard-panels > div > div > div > div > div:hover {
-  box-shadow: var(--box-shadow);  
-}
-.dashboard-panels > div > div > div > div:last-child:hover > div {
-  box-shadow: none;
-}
 /* Media Queries */
 @media ( max-width: 768px ) {
   .container {
@@ -338,10 +219,7 @@ input:-webkit-autofill {
   .wrapper {
     padding: 30px;
   }
-  .breadcrumbs {
-    margin: 0 30px;
-  }
-  .wrapper.d-flex {
+ .wrapper.d-flex {
     display: block;
     min-height: 0;
   }
@@ -372,19 +250,6 @@ input:-webkit-autofill {
     text-align: center !important;    
     float: none !important;
     margin: 0 auto !important;
-  }
-  #modal-root {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 99999;
-  }
-  .modal { 
-    position: relative;      
-    top: 40px;
   }
   .spacer {
     padding: 20px;

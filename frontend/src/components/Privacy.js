@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
+import Breadcrumbs from './layouts/breadcrumbs/Breadcrumbs'
 import MetaData from './layouts/MetaData'
 
 const Privacy = () => {
@@ -14,16 +15,8 @@ const Privacy = () => {
             <img src="../../images/privacy.jpg" alt="Terms and Conditions" />
 
             <div className="container">
-
-                <div className="breadcrumbs">
-                    <Link to="/">
-                        <small>Home</small>
-                    </Link>
-                    &nbsp;/&nbsp;                            
-                    <span>
-                        <small>Privacy Policy</small>
-                    </span>
-                </div>
+      
+                <Breadcrumbs title="Privacy Policy" />
 
                 <div className="wrapper parent">
 

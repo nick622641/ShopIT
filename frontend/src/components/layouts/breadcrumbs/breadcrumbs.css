@@ -1,0 +1,13 @@
+.breadcrumbs {
+    margin: 0 40px;
+    padding-top: 20px;
+  }
+  .breadcrumbs span{
+    color: #999;
+  }
+  /* Media Queries */
+@media ( max-width: 768px ) {
+    .breadcrumbs {
+        margin: 0 30px;
+    }
+}

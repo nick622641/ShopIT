@@ -1,0 +1,21 @@
+.modal { 
+    position: fixed;   
+    left: 0;
+    right: 0; 
+    top: 50%;
+    margin: auto;  
+    z-index: 1299; 
+    max-width: 480px;
+  }
+  /* Media Queries */
+@media ( max-width: 768px ) {
+    #modal-root {
+        position: absolute;
+        top: 0;
+        width: 100%;        
+    }
+    .modal { 
+        position: relative;      
+        top: 40px;
+    }
+}

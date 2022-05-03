@@ -74,7 +74,7 @@ const Sidebar = () => {
                                 <BrushIcon color="secondary" />
                             </IconButton>
                             &nbsp; Products
-                            <IconButton className="arrow-down">
+                            <IconButton sx={{ position: "absolute", right: 0 }}>
                                 {isMenuVisible ? (
                                     <ArrowDropUpIcon color="secondary" />
                                 ):(
@@ -113,7 +113,7 @@ const Sidebar = () => {
                                 <CategoryIcon color="secondary" />
                             </IconButton>
                             &nbsp; Categories
-                            <IconButton className="arrow-down">
+                            <IconButton sx={{ position: "absolute", right: 0 }}>
                                 {isCategoriesVisible ? (
                                     <ArrowDropUpIcon color="secondary" />
                                 ):(

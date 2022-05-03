@@ -20,6 +20,7 @@ import { Tooltip } from '@mui/material'
 import FormattedDate from '../../layouts/FormattedDate'
 import CopyToClipboard from 'react-copy-to-clipboard'
 import ContentCopyIcon from '@mui/icons-material/ContentCopy'
+import FormattedPrice from '../../layouts/FormattedPrice'
 
 const OrdersList = () => {
 
@@ -124,7 +125,7 @@ const OrdersList = () => {
                 </Fragment>,                
                 date: <FormattedDate iso={ order.paidAt} />,
                 numOfItems: order.orderItems.length,
-                amount: `$${order.totalPrice}`, 
+                amount: <FormattedPrice number={order.totalPrice} />, 
                 status: order.orderStatus                
             })
         })

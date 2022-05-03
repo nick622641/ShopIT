@@ -1,0 +1,19 @@
+.dashboard-panels h2 {
+    color: white;
+    padding: 5px 0 10px 0;
+    margin: 0;
+  }
+  .dashboard-panels h3 {
+    color: white;
+    padding: 10px 0 5px 0;
+    margin: 0;
+  }
+  .dashboard-panels div {
+    transition: all var(--speed);
+  }
+  .dashboard-panels > div > div > div > div > div:hover {
+    box-shadow: var(--box-shadow);  
+  }
+  .dashboard-panels > div > div > div > div:last-child:hover > div {
+    box-shadow: none;
+  }

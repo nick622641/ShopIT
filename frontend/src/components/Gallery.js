@@ -23,6 +23,7 @@ import Rating from '@mui/material/Rating'
 import FormattedPrice from './layouts/FormattedPrice'
 import Filter from './product/Filter'
 import 'rc-slider/assets/index.css'
+import Breadcrumbs from './layouts/breadcrumbs/Breadcrumbs'
 
 const { createSliderWithTooltip } = Slider
 const Range = createSliderWithTooltip(Slider.Range)
@@ -87,20 +88,8 @@ const Gallery = () => {
     return (  
         <Fragment>
             <MetaData title={`Gallery - ${title}`} />
-            <div className="container">
-                <div className="breadcrumbs">
-                    <Link to="/">
-                        <small>Home</small>
-                    </Link>
-                    &nbsp;/&nbsp;
-                    <Link to="/gallery">
-                        <small>Gallery</small>
-                    </Link>
-                    &nbsp;/&nbsp;
-                    <span>
-                        <small>{title}</small>
-                    </span>
-                </div>
+            <div className="container">                
+                <Breadcrumbs title={title} />
                 <div className="wrapper parent">  
                     <aside>
                         <button 

@@ -3,7 +3,7 @@ import { useAlert } from 'react-alert'
 import { Link, useNavigate } from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux'
 import { updateProfile, loadUser, clearErrors } from '../../actions/userActions'
-import { FormControl, TextField } from '@mui/material'
+import { CircularProgress, FormControl, TextField } from '@mui/material'
 import { UPDATE_PROFILE_RESET } from '../../constants/userConstants'
 import MetaData from '../layouts/MetaData'
 import Fab from '@mui/material/Fab'
@@ -124,6 +124,7 @@ const UpdateProfile = () => {
                         <LoadingButton 
                             loading={loading}
                             loadingPosition="end"
+                            loadingIndicator={<CircularProgress color="primary" size={16} />}
                             variant="contained" 
                             onClick={submitHandler}
                             endIcon={<SendIcon />}

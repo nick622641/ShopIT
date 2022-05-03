@@ -13,6 +13,7 @@ import Grid from '@mui/material/Grid'
 import Paper from '@mui/material/Paper'
 import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
+import './dashboard.css'
 
 const Dashboard = () => {
 

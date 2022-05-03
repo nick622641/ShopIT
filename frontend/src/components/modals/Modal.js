@@ -5,6 +5,7 @@ import { useMediaQuery } from 'react-responsive'
 import Fab from '@mui/material/Fab'
 import CloseIcon from '@mui/icons-material/Close'
 import Backdrop from '@mui/material/Backdrop'
+import './modal.css'
 
 function Modal({ isModalVisible, content, onBackdropClick  }) {
 

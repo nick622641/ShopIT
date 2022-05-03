@@ -6,7 +6,7 @@ import { useStripe, useElements, CardNumberElement, CardExpiryElement, CardCvcEl
 import { Link, useNavigate } from 'react-router-dom'
 import { emptyCart } from '../../actions/cartActions'
 import MetaData from '../layouts/MetaData'
-import CheckoutSteps from './CheckoutSteps'
+import CheckoutSteps from './checkoutSteps/CheckoutSteps'
 import axios from 'axios'
 import FormattedPrice from '../layouts/FormattedPrice'
 import Fab from '@mui/material/Fab'

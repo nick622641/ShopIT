@@ -6,7 +6,7 @@ exports.processPayment = catchAsyncErrors(async (req, res, next) => {
 
     const paymentIntent = await stripe.paymentIntents.create({
         amount: req.body.amount,
-        currency: 'usd',
+        currency: process.env.CURRENCY.toLowerCase(),
         metadata: { integration_check: 'accept_a_payment' }
     })
     res.status(200).json({
@@ -16,7 +16,7 @@ exports.processPayment = catchAsyncErrors(async (req, res, next) => {
 
 })
 
-// Send stripe API Key   =>   /api/v1/stripeapi
+// Send stripe API Key => /api/v1/stripeapi
 exports.sendStripeApi = catchAsyncErrors(async (req, res, next) => {
 
     res.status(200).json({

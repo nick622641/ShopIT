@@ -8,7 +8,7 @@ import MetaData from '../../layouts/MetaData'
 import Sidebar from '../Sidebar'
 import Fab from '@mui/material/Fab'
 import CloseIcon from '@mui/icons-material/Close'
-import { FormControl, InputLabel, MenuItem, Select, TextField, Tooltip } from '@mui/material'
+import { CircularProgress, FormControl, InputLabel, MenuItem, Select, TextField, Tooltip } from '@mui/material'
 import LoadingButton from '@mui/lab/LoadingButton'
 import SendIcon from '@mui/icons-material/Send'
 import IconButton from '@mui/material/IconButton'
@@ -115,6 +115,7 @@ const UpdateUser = () => {
                                 <LoadingButton 
                                     loading={loading}
                                     loadingPosition="end"
+                                    loadingIndicator={<CircularProgress color="primary" size={16} />}
                                     variant="contained" 
                                     type="submit"
                                     endIcon={<SendIcon />}

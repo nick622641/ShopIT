@@ -26,6 +26,7 @@ import Rating from '@mui/material/Rating'
 import RichtextOutput from '../layouts/richtext/RichtextOutput'
 import { Button } from '@mui/material'
 import Product from './Product'
+import Breadcrumbs from '../layouts/breadcrumbs/Breadcrumbs'
 
 const ProductDetails = () => { 
 
@@ -137,20 +138,8 @@ const ProductDetails = () => {
                     )} */}                    
 
                     <div className="container"> 
-
-                        <div className="breadcrumbs">
-                            <Link to="/">
-                                <small>Home</small>
-                            </Link>
-                            &nbsp;/&nbsp;
-                            <Link to="/gallery">
-                                <small>Gallery</small>
-                            </Link>
-                            &nbsp;/&nbsp;                            
-                            <span>
-                                <small>{product.name}</small>
-                            </span>
-                        </div>
+                        
+                        <Breadcrumbs title={product.name} />
                             
                         <div className="wrapper">
 
